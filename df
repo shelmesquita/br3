@@ -1,28 +1,15 @@
 #EXTM3U
 
-
-#EXTINF:-1,▂ ▄ ▅ ▆  BRASIL  ▆ ▅ ▄ ▂
-http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/30881.ts
-#EXTINF:-1,•●★-- Brasil Globo --★●•
-http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/30883.ts
 #EXTINF:-1,BR: Globo News SD
 http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/3465.ts
 #EXTINF:-1,BR: Globo News HD
 http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/3308.ts
 #EXTINF:-1,BR: Globo News
 http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/24196.ts
-#EXTINF:-1,BR: Rede Brasil SD
-http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/3344.ts
 #EXTINF:-1,BR: Animal Planet
 http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/3321.ts
 #EXTINF:-1,BR: Animal Planet FHD
 http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/24290.ts
-#EXTINF:-1,BR: Comedy Central SD
-http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/3450.ts
-#EXTINF:-1,BR: Comedy Central HD
-http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/3294.ts
-#EXTINF:-1,BR: Comedy Central FHD
-http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/24157.ts
 #EXTINF:-1,BR: Discovery Channel SD
 http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/3486.ts
 #EXTINF:-1,BR: Discovery Channel HD
@@ -117,8 +104,6 @@ http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/3415.ts
 http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/22534.ts
 #EXTINF:-1,BR: Fish TV HD
 http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/3406.ts
-#EXTINF:-1,•●★-- Brasil Filmes e Series --★●•
-http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/379718.ts
 #EXTINF:-1,BR: A&E SD
 http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/3414.ts
 #EXTINF:-1,BR: A&E FHD
@@ -135,8 +120,6 @@ http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/3416.ts
 http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/22535.ts
 #EXTINF:-1,BR: AXN FHD
 http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/24226.ts
-#EXTINF:-1,BR: Canal Brasil
-http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/24331.ts
 #EXTINF:-1,BR: Cinemax SD
 http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/3420.ts
 #EXTINF:-1,BR: Cinemax HD
@@ -277,8 +260,6 @@ http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/3430.ts
 http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/24287.ts
 #EXTINF:-1,BR: Prime Box Brasil
 http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/3479.ts
-#EXTINF:-1,•●★-- Brasil Crianças --★●•
-http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/379719.ts
 #EXTINF:-1,BR: Baby TV SD
 http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/3447.ts
 #EXTINF:-1,BR: Baby TV HD
@@ -325,10 +306,6 @@ http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/24319.ts
 http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/24325.ts
 #EXTINF:-1,BR: Tooncast FHD
 http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/3305.ts
-#EXTINF:-1,BR: TV Ra Tim Bum SD
-http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/3460.ts
-#EXTINF:-1,•●★-- Brasil Noticiero --★●•
-http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/379720.ts
 #EXTINF:-1,BR: CNN Brasil HD
 http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/3463.ts
 #EXTINF:-1,BR: CNN BRASIL SD (H265) (VIP)
@@ -355,8 +332,6 @@ http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/407074.ts
 http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/407075.ts
 #EXTINF:-1,BR: JP News HD (VIP)
 http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/407077.ts
-#EXTINF:-1,•●★-- Brasil Musicais --★●•
-http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/379721.ts
 #EXTINF:-1,BR: MTV SD
 http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/3476.ts
 #EXTINF:-1,BR: MTV HD
@@ -365,26 +340,6 @@ http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/3317.ts
 http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/3469.ts
 #EXTINF:-1,BR: Bis HD
 http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/3310.ts
-#EXTINF:-1,•●★-- Brasil Religião --★●•
-http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/379722.ts
-#EXTINF:-1,•●★-- Brasil 24H --★●•
-http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/30882.ts
-#EXTINF:-1,BR: Galinha Pintadinha 24H
-http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/93700.ts
-#EXTINF:-1,BR: Os Simpsons 24H
-http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/77823.ts
-#EXTINF:-1,BR: Patrulha Canina SD 24H
-http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/93701.ts
-#EXTINF:-1,BR: Patrulha Canina HD 24H
-http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/93702.ts
-#EXTINF:-1,BR: Um Maluco No Pedaço 24H
-http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/77822.ts
-#EXTINF:-1,BR: Chapolin 24H
-http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/76520.ts
-#EXTINF:-1,BR: Chaves 24H
-http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/76519.ts
-#EXTINF:-1,•●★-- Brasil Esportes --★●•
-http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/233830.ts
 #EXTINF:-1,SP: BR: All Sports HD
 http://89.117.63.59:80/hernantvgoplay263/CyWxHtG7C7/24177.ts
 #EXTINF:-1,SP: BR: Band SPorts SD
