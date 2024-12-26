@@ -1,3352 +1,651 @@
+#EXTM3U
 
-#EXTINF:-1,BAND NEWS 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/482
-#EXTINF:-1,BAND NEWS HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/432
-#EXTINF:-1,JOVEM PAN NEWS 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/847
-#EXTINF:-1,JOVEM PAN NEWS HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/846
+#EXTINF:-1,GLOBO NEWS 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/498
+#EXTINF:-1,GLOBO NEWS DF
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/445
 #EXTINF:-1,CNN BRASIL 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/433
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/433
 #EXTINF:-1,CNN BRASIL HDR+
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1018
-#EXTINF:-1,A&E 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/225
-#EXTINF:-1,AMC 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/228
-#EXTINF:-1,AMC HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/229
-#EXTINF:-1,AMC HDR+
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1020
-#EXTINF:-1,ANIMAL PLANET HDR+
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/994
-#EXTINF:-1,ANIMAL PLANET 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/61
-#EXTINF:-1,ARTE 1 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/231
-#EXTINF:-1,ARTE 1 HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/232
-#EXTINF:-1,AXN 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/233
-#EXTINF:-1,BR: BIS
-http://iptvtree.net:8080/romaniamedia/2a4dcdecbd/24621
-#EXTINF:-1,BIS 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/419
-#EXTINF:-1,BIS HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/420
-#EXTINF:-1,CINEMAX 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/239
-#EXTINF:-1,CINEMAX HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/240
-#EXTINF:-1,CNT HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/444
-#EXTINF:-1,COMBATE 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/122
-#EXTINF:-1,COMBATE HDR+
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1001
-#EXTINF:-1,COMBATE HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/123
-#EXTINF:-1,COMEDY CENTRAL 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/99
-#EXTINF:-1,COMEDY CENTRAL HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/98
-#EXTINF:-1,CURTA HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/100
-#EXTINF:-1,FILM & ARTS HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/242
-#EXTINF:-1,FOOD NETWORK 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/104
-#EXTINF:-1,FOOD NETWORK HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/105
-#EXTINF:-1,FUTURA 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/243
-#EXTINF:-1,HISTORY CHANNEL 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/83
-#EXTINF:-1,HISTORY CHANNEL HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/82
-#EXTINF:-1,H2 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/815
-#EXTINF:-1,H2 HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/81
-#EXTINF:-1,DISCOVERY CHANNEL 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/65
-#EXTINF:-1,DISCOVERY H&H HDR+
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1021
-#EXTINF:-1,DISCOVERY H&H 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/67
-#EXTINF:-1,DISCOVERY H&H HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/68
-#EXTINF:-1,DISCOVERY ID 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/69
-#EXTINF:-1,DISCOVERY ID HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/70
-#EXTINF:-1,DISCOVERY SCIENCE 4k
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/71
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/72
-#EXTINF:-1,DISCOVERY THEATER 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/73
-#EXTINF:-1,DISCOVERY THEATER HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/74
-#EXTINF:-1,DISCOVERY TURBO 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/75
-#EXTINF:-1,DISCOVERY WORLD 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/77
-#EXTINF:-1,DISCOVERY WORLD HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/78
-#EXTINF:-1,DISNEY CHANNEL  4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/351
-#EXTINF:-1,DISNEY CHANNEL HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/352
-#EXTINF:-1,E! 2 HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/101
-#EXTINF:-1,E! 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/102
-#EXTINF:-1,E! HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/103
-#EXTINF:-1,FASHION TV HD 
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/878
-#EXTINF:-1,FEC 01
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1168
-#EXTINF:-1,FEC 02
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1169
-#EXTINF:-1,FEC 03
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1170
-#EXTINF:-1,FEC 04
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1171
-#EXTINF:-1,FEC 05
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1172
-#EXTINF:-1,FEC 06
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1173
-#EXTINF:-1,FEC 07
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1174
-#EXTINF:-1,FEC 08
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1175
-#EXTINF:-1,FEC 09
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1176
-#EXTINF:-1,FEC 10
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1177
-#EXTINF:-1,FEC 11
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1178
-#EXTINF:-1,FEC 12
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1179
-#EXTINF:-1,FEC 13
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1180
-#EXTINF:-1,FEC 14
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1181
-#EXTINF:-1,FEC 15
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1182
-#EXTINF:-1,FEC 16
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1183
-#EXTINF:-1,FEC 17
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1184
-#EXTINF:-1,FEC 18
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1185
-#EXTINF:-1,FEC 19
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1186
-#EXTINF:-1,FEC 20
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1187
-#EXTINF:-1,HBO HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/255
-#EXTINF:-1,BR: HBO+
-http://iptvtree.net:8080/romaniamedia/2a4dcdecbd/8823
-#EXTINF:-1,BR: HBO Pop
-http://iptvtree.net:8080/romaniamedia/2a4dcdecbd/173434
-#EXTINF:-1,HBO HDR+
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1000
-#EXTINF:-1,HBO + 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/246
-#EXTINF:-1,HBO + HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/245
-#EXTINF:-1,BR: HBO 2
-http://iptvtree.net:8080/romaniamedia/2a4dcdecbd/8821
-#EXTINF:-1,HBO 2 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/247
-#EXTINF:-1,HBO 2 HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/248
-#EXTINF:-1,HBO 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/251
-#EXTINF:-1,BR: HBO Family
-http://iptvtree.net:8080/romaniamedia/2a4dcdecbd/8839
-#EXTINF:-1,HBO FAMILY 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/252
-#EXTINF:-1,HBO FAMILY HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/253
-#EXTINF:-1,HBO MAX 1 HD 
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/832
-#EXTINF:-1,HBO MAX 2 HD 
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/833
-#EXTINF:-1,HBO MAX 3 HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/834
-#EXTINF:-1,HBO MAX 4 HD 
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/835
-#EXTINF:-1,BR: HBO Mundi
-http://iptvtree.net:8080/romaniamedia/2a4dcdecbd/8837
-#EXTINF:-1,HBO MUNDI 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/256
-#EXTINF:-1,HBO MUNDI HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/257
-#EXTINF:-1,HBO PLUS 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/258
-#EXTINF:-1,HBO PLUS HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/259
-#EXTINF:-1,HBO POP 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/260
-#EXTINF:-1,HBO POP HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/261
-#EXTINF:-1,HBO SIGNATURE 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/264
-#EXTINF:-1,HBO SIGNATURE HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/262
-#EXTINF:-1,HBO XTREME 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/266
-#EXTINF:-1,HBO XTREME HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/267
-#EXTINF:-1,GNT 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/107
-#EXTINF:-1,HGTV 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/816
-#EXTINF:-1,HGTV HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/552
-#EXTINF:-1,LIFETIME HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/269
-#EXTINF:-1,MEGAPIX HDR+
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/998
-#EXTINF:-1,MEGAPIX 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/270
-#EXTINF:-1,MEGAPIX HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/271
-#EXTINF:-1,OFF 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/273
-#EXTINF:-1,OFF HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/274
-#EXTINF:-1,STAR CHANNEL 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/281
-#EXTINF:-1,STAR CHANNEL HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/282
-#EXTINF:-1,STAR+ 1 HD 
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/829
-#EXTINF:-1,STAR+ 2 HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/826
-#EXTINF:-1,STAR+ 3 HD 
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/827
-#EXTINF:-1,STAR+ 4 HD 
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/828
-#EXTINF:-1,STAR+ 5 HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1147
-#EXTINF:-1,STAR+ 6 HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1148
-#EXTINF:-1,STAR+ 7 HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1149
-#EXTINF:-1,STAR+ 8 HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1150
-#EXTINF:-1,STUDIO UNIVERSAL 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/289
-#EXTINF:-1,TBS 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/290
-#EXTINF:-1,TBS HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/291
-#EXTINF:-1,TCM HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/292
-#EXTINF:-1,TCM UHD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/293
-#EXTINF:-1,TELECINE ACTION HDR+
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1019
-#EXTINF:-1,TELECINE ACTION 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/294
-#EXTINF:-1,TELECINE ACTION HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/295
-#EXTINF:-1,TELECINE CULT 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/297
-#EXTINF:-1,TELECINE CULT HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/298
-#EXTINF:-1,TELECINE FUN 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/300
-#EXTINF:-1,TELECINE FUN HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/301
-#EXTINF:-1,TELECINE PIPOCA 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/303
-#EXTINF:-1,TELECINE PIPOCA HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/304
-#EXTINF:-1,TELECINE PIPOCA HDR+
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/996
-#EXTINF:-1,TELECINE PREMIUM HDR+
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/997
-#EXTINF:-1,TELECINE PREMIUM 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/306
-#EXTINF:-1,TELECINE PREMIUM HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/307
-#EXTINF:-1,TELECINE TOUCH 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/309
-#EXTINF:-1,TELECINE TOUCH HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/310
-#EXTINF:-1,FX HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/244
-#EXTINF:-1,TLC 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/91
-#EXTINF:-1,TLC HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/92
-#EXTINF:-1,TNT 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/312
-#EXTINF:-1,TNT HDR+
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1004
-#EXTINF:-1,TNT HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/313
-#EXTINF:-1,TNT NOVELA 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1167
-#EXTINF:-1,TNT SERIES 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/314
-#EXTINF:-1,TRACE BRAZUCA HD 
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/969
-#EXTINF:-1,TRAVEL BOX BRASIL 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/848
-#EXTINF:-1,TRU TV HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/541
-#EXTINF:-1,UFC FIGHT PASS
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1121
-#EXTINF:-1,UFC PPV
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1122
-#EXTINF:-1,BR: Universal TV
-http://iptvtree.net:8080/romaniamedia/2a4dcdecbd/7422
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/319
-#EXTINF:-1,VH1 HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/430
-#EXTINF:-1,VH1 MEGAHITS
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/431
-#EXTINF:-1,VIVA 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/114
-#EXTINF:-1,WARNER CHANNEL 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/783
-#EXTINF:-1,WARNER CHANNEL HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/320
-#EXTINF:-1,WOOHOO HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/117
-#EXTINF:-1,DISNEY+ 08
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1269
-#EXTINF:-1,DISNEY+ 07
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1270
-#EXTINF:-1,DISNEY+ 06
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1271
-#EXTINF:-1,DISNEY+ 05
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1272
-#EXTINF:-1,DISNEY+ 04
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1273
-#EXTINF:-1,DISNEY+ 03
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1274
-#EXTINF:-1,DISNEY+ 02
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1275
-#EXTINF:-1,DISNEY+ 01
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1276
-
-#EXTINF:-1,[BR] A&E FHD
-http://supersonictv.live:8080/241973/495982/84935
-#EXTINF:-1,[BR] Animal Planet FHD
-http://supersonictv.live:8080/241973/495982/84936
-#EXTINF:-1,[BR] Arte 1 FHD
-http://supersonictv.live:8080/241973/495982/84937
-#EXTINF:-1,[BR] AXN FHD
-http://supersonictv.live:8080/241973/495982/84938
-#EXTINF:-1,[BR] Baby FHD
-http://supersonictv.live:8080/241973/495982/84939
-#EXTINF:-1,[BR] Band News FHD
-http://supersonictv.live:8080/241973/495982/84941
-#EXTINF:-1,[BR] Band Sports FHD
-http://supersonictv.live:8080/241973/495982/84942
-#EXTINF:-1,[BR] BIS FHD
-http://supersonictv.live:8080/241973/495982/84943
-#EXTINF:-1,[BR] Boomerang FHD
-http://supersonictv.live:8080/241973/495982/84944
-#EXTINF:-1,[BR] Canal Brasil FHD
-http://supersonictv.live:8080/241973/495982/84945
-#EXTINF:-1,[BR] Cartoon Network FHD
-http://supersonictv.live:8080/241973/495982/84946
-#EXTINF:-1,[BR] Chef TV FHD
-http://supersonictv.live:8080/241973/495982/84947
-#EXTINF:-1,[BR] Cinemax FHD
-http://supersonictv.live:8080/241973/495982/84948
-#EXTINF:-1,[BR] Cinemax HD
-http://supersonictv.live:8080/241973/495982/84949
-#EXTINF:-1,[BR] CNN Brasil FHD
-http://supersonictv.live:8080/241973/495982/84950
-#EXTINF:-1,[BR] CNN Espanhol HD
-http://supersonictv.live:8080/241973/495982/84951
-#EXTINF:-1,[BR] CNN Internacional FHD
-http://supersonictv.live:8080/241973/495982/84952
-#EXTINF:-1,[BR] Combate FHD
-http://supersonictv.live:8080/241973/495982/84953
-#EXTINF:-1,[BR] Comedy Central FHD
-http://supersonictv.live:8080/241973/495982/84954
-
-#EXTINF:-1,[BR] Curta! FHD
-http://supersonictv.live:8080/241973/495982/84963
-#EXTINF:-1,[BR] Discovery Channel FHD
-http://supersonictv.live:8080/241973/495982/84966
-#EXTINF:-1,[BR] Discovery Home & Health FHD
-http://supersonictv.live:8080/241973/495982/84967
-#EXTINF:-1,[BR] Discovery ID FHD
-http://supersonictv.live:8080/241973/495982/84968
-#EXTINF:-1,[BR] Discovery Kids FHD
-http://supersonictv.live:8080/241973/495982/84969
-#EXTINF:-1,[BR] Discovery Science FHD
-http://supersonictv.live:8080/241973/495982/84970
-#EXTINF:-1,[BR] Discovery Theather FHD
-http://supersonictv.live:8080/241973/495982/84971
-#EXTINF:-1,[BR] Discovery Turbo FHD
-http://supersonictv.live:8080/241973/495982/84972
-#EXTINF:-1,[BR] Discovery World FHD
-http://supersonictv.live:8080/241973/495982/84973
-#EXTINF:-1,[BR] Disney Channel FHD
-http://supersonictv.live:8080/241973/495982/84974
-#EXTINF:-1,[BR] Disney JR FHD
-http://supersonictv.live:8080/241973/495982/84975
-#EXTINF:-1,[BR] Disney XD FHD
-http://supersonictv.live:8080/241973/495982/84976
-#EXTINF:-1,[BR] E! FHD
-http://supersonictv.live:8080/241973/495982/84977
-#EXTINF:-1,[BR] ESPN 2 FHD
-http://supersonictv.live:8080/241973/495982/84978
-#EXTINF:-1,[BR] ESPN Brasil FHD
-http://supersonictv.live:8080/241973/495982/84979
-#EXTINF:-1,[BR] ESPN Extra FHD
-http://supersonictv.live:8080/241973/495982/84980
-#EXTINF:-1,[BR] ESPN FHD
-http://supersonictv.live:8080/241973/495982/84981
-#EXTINF:-1,[BR] ESPORTE INTERATIVO *
-http://supersonictv.live:8080/241973/495982/84982
-#EXTINF:-1,[BR] Fish TV FHD
-http://supersonictv.live:8080/241973/495982/84983
-#EXTINF:-1,[BR] FlaTV TESTE
-http://supersonictv.live:8080/241973/495982/84984
-#EXTINF:-1,[BR] Food Network FHD
-http://supersonictv.live:8080/241973/495982/84985
-#EXTINF:-1,[BR] FOX FHD
-http://supersonictv.live:8080/241973/495982/84986
-#EXTINF:-1,[BR] Fox Life FHD
-http://supersonictv.live:8080/241973/495982/84987
-#EXTINF:-1,[BR] Fox News FHD
-http://supersonictv.live:8080/241973/495982/84988
-#EXTINF:-1,[BR] Fox Premium 1 FHD
-http://supersonictv.live:8080/241973/495982/84989
-#EXTINF:-1,[BR] Fox Premium 2 FHD
-http://supersonictv.live:8080/241973/495982/84990
-#EXTINF:-1,[BR] Fox Sport HD
-http://supersonictv.live:8080/241973/495982/84991
-#EXTINF:-1,[BR] Fox Sports 2 FHD
-http://supersonictv.live:8080/241973/495982/84992
-#EXTINF:-1,[BR] Fox Sports FHD
-http://supersonictv.live:8080/241973/495982/84993
-#EXTINF:-1,[BR] Fox Sports SD
-http://supersonictv.live:8080/241973/495982/84994
-#EXTINF:-1,[BR] FX FHD
-http://supersonictv.live:8080/241973/495982/84995
-#EXTINF:-1,[BR] Gloob FHD
-http://supersonictv.live:8080/241973/495982/85030
-#EXTINF:-1,[BR] Gloobinho FHD
-http://supersonictv.live:8080/241973/495982/85031
-#EXTINF:-1,[BR] GNT FHD
-http://supersonictv.live:8080/241973/495982/85032
-#EXTINF:-1,[BR] H2 FHD
-http://supersonictv.live:8080/241973/495982/85033
-#EXTINF:-1,[BR] HBO 2 FHD
-http://supersonictv.live:8080/241973/495982/85034
-#EXTINF:-1,[BR] HBO Family FHD
-http://supersonictv.live:8080/241973/495982/85035
-#EXTINF:-1,[BR] HBO FHD
-http://supersonictv.live:8080/241973/495982/85036
-#EXTINF:-1,[BR] HBO Mundi FHD
-http://supersonictv.live:8080/241973/495982/85037
-#EXTINF:-1,[BR] HBO Plus FHD
-http://supersonictv.live:8080/241973/495982/85038
-#EXTINF:-1,[BR] HBO Pop FHD
-http://supersonictv.live:8080/241973/495982/85039
-#EXTINF:-1,[BR] HBO Signature FHD
-http://supersonictv.live:8080/241973/495982/85040
-#EXTINF:-1,[BR] HBO Xtreme FHD
-http://supersonictv.live:8080/241973/495982/85041
-#EXTINF:-1,[BR] HGTV FHD
-http://supersonictv.live:8080/241973/495982/85042
-#EXTINF:-1,[BR] i SAT FHD
-http://supersonictv.live:8080/241973/495982/85043
-#EXTINF:-1,[BR] Inter TV dos Vales FHD
-http://supersonictv.live:8080/241973/495982/85044
-#EXTINF:-1,[BR] Lifetime FHD
-http://supersonictv.live:8080/241973/495982/85045
-#EXTINF:-1,[BR] Mais Globosat FHD
-http://supersonictv.live:8080/241973/495982/85046
-#EXTINF:-1,[BR] Megapix FHD
-http://supersonictv.live:8080/241973/495982/85047
-#EXTINF:-1,[BR] MTV FHD
-http://supersonictv.live:8080/241973/495982/85048
-#EXTINF:-1,[BR] MTV HD
-http://supersonictv.live:8080/241973/495982/85049
-#EXTINF:-1,[BR] Multishow FHD
-http://supersonictv.live:8080/241973/495982/85050
-#EXTINF:-1,[BR] Music Box Brasil FHD
-http://supersonictv.live:8080/241973/495982/85051
-#EXTINF:-1,[BR] Natgeo FHD
-http://supersonictv.live:8080/241973/495982/85052
-#EXTINF:-1,[BR] Natgeo Kids FHD
-http://supersonictv.live:8080/241973/495982/85053
-#EXTINF:-1,[BR] Natgeo Wild FHD
-http://supersonictv.live:8080/241973/495982/85054
-#EXTINF:-1,[BR] Nick FHD
-http://supersonictv.live:8080/241973/495982/85055
-#EXTINF:-1,[BR] Nick JR FHD
-http://supersonictv.live:8080/241973/495982/85056
-#EXTINF:-1,[BR] NSC TV Blumenau FHD
-http://supersonictv.live:8080/241973/495982/85057
-#EXTINF:-1,[BR] OFF FHD
-http://supersonictv.live:8080/241973/495982/85058
-#EXTINF:-1,[BR] Paramount Channel FHD
-http://supersonictv.live:8080/241973/495982/85059
-#EXTINF:-1,[BR] Play Kids HD
-http://supersonictv.live:8080/241973/495982/85060
-#EXTINF:-1,[BR] Play TV FHD
-http://supersonictv.live:8080/241973/495982/85061
-#EXTINF:-1,[BR] Premiere 2 FHD
-http://supersonictv.live:8080/241973/495982/85062
-#EXTINF:-1,[BR] Premiere 3 FHD
-http://supersonictv.live:8080/241973/495982/85063
-#EXTINF:-1,[BR] Premiere 4 FHD
-http://supersonictv.live:8080/241973/495982/85064
-#EXTINF:-1,[BR] Premiere 5 FHD
-http://supersonictv.live:8080/241973/495982/85065
-#EXTINF:-1,[BR] Premiere 6 FHD
-http://supersonictv.live:8080/241973/495982/85066
-#EXTINF:-1,[BR] Premiere 7 FHD
-http://supersonictv.live:8080/241973/495982/85067
-#EXTINF:-1,[BR] Premiere Clubes FHD
-http://supersonictv.live:8080/241973/495982/85068
-#EXTINF:-1,[BR] Prime Box Brasil FHD
-http://supersonictv.live:8080/241973/495982/85069
-#EXTINF:-1,[BR] Sony FHD
-http://supersonictv.live:8080/241973/495982/85091
-#EXTINF:-1,[BR] Space FHD
-http://supersonictv.live:8080/241973/495982/85092
-#EXTINF:-1,[BR] SporTV 2 FHD
-http://supersonictv.live:8080/241973/495982/85093
-#EXTINF:-1,[BR] SporTV 3 FHD
-http://supersonictv.live:8080/241973/495982/85094
-#EXTINF:-1,[BR] SporTV FHD
-http://supersonictv.live:8080/241973/495982/85095
-#EXTINF:-1,[BR] Studio Universal FHD
-http://supersonictv.live:8080/241973/495982/85096
-#EXTINF:-1,[BR] SYFY FHD
-http://supersonictv.live:8080/241973/495982/85097
-#EXTINF:-1,[BR] TBS FHD
-http://supersonictv.live:8080/241973/495982/85098
-#EXTINF:-1,[BR] TC ACTION FHD
-http://supersonictv.live:8080/241973/495982/85099
-#EXTINF:-1,[BR] TC Cult FHD
-http://supersonictv.live:8080/241973/495982/85100
-#EXTINF:-1,[BR] TC Fun FHD
-http://supersonictv.live:8080/241973/495982/85101
-#EXTINF:-1,[BR] TC Pipoca FHD
-http://supersonictv.live:8080/241973/495982/85102
-#EXTINF:-1,[BR] TC Premium FHD
-http://supersonictv.live:8080/241973/495982/85103
-#EXTINF:-1,[BR] TC Touch FHD
-http://supersonictv.live:8080/241973/495982/85104
-#EXTINF:-1,[BR] TCM FHD
-http://supersonictv.live:8080/241973/495982/85105
-#EXTINF:-1,[BR] The History FHD
-http://supersonictv.live:8080/241973/495982/85106
-#EXTINF:-1,[BR] TLC FHD
-http://supersonictv.live:8080/241973/495982/85107
-#EXTINF:-1,[BR] TNT FHD
-http://supersonictv.live:8080/241973/495982/85108
-#EXTINF:-1,[BR] TNT Series FHD
-http://supersonictv.live:8080/241973/495982/85109
-#EXTINF:-1,[BR] Universal Channel FHD
-http://supersonictv.live:8080/241973/495982/85119
-#EXTINF:-1,[BR] VH1 Mega Hits FHD
-http://supersonictv.live:8080/241973/495982/85120
-#EXTINF:-1,[BR] Viva FHD
-http://supersonictv.live:8080/241973/495982/85121
-#EXTINF:-1,[BR] Warner Channel FHD
-http://supersonictv.live:8080/241973/495982/85122
-#EXTINF:-1,[BR] Wohoo FHD
-http://supersonictv.live:8080/241973/495982/85123
-#EXTINF:-1,[BR] AMC FHD
-http://supersonictv.live:8080/241973/495982/85125
-#EXTINF:-1,[BR] CGTN
-http://supersonictv.live:8080/241973/495982/85162
-#EXTINF:-1,[BR] CNT FHD
-http://supersonictv.live:8080/241973/495982/85163
-#EXTINF:-1,[BR] COM Brasil TV FHD
-http://supersonictv.live:8080/241973/495982/85164
-#EXTINF:-1,[BR] COMBATE 4K
-http://supersonictv.live:8080/241973/495982/85165
-#EXTINF:-1,[BR] Conmebol 1 HD
-http://supersonictv.live:8080/241973/495982/85166
-#EXTINF:-1,[BR] Conmebol 2 HD
-http://supersonictv.live:8080/241973/495982/85167
-#EXTINF:-1,[BR] Conmebol 4K
-http://supersonictv.live:8080/241973/495982/85168
-#EXTINF:-1,[BR] Conmebol 5 HD
-http://supersonictv.live:8080/241973/495982/85169
-#EXTINF:-1,[BR] Conmebol 6 HD
-http://supersonictv.live:8080/241973/495982/85170
-#EXTINF:-1,[BR] Dog TV FHD
-http://supersonictv.live:8080/241973/495982/85171
-#EXTINF:-1,[BR] ESPORTE INTERATIVO 5 HD
-http://supersonictv.live:8080/241973/495982/85172
-#EXTINF:-1,[BR] ESPORTE INTERATIVO 6 HD
-http://supersonictv.live:8080/241973/495982/85173
-#EXTINF:-1,[BR] ESPORTE INTERATIVO 7 HD
-http://supersonictv.live:8080/241973/495982/85174
-#EXTINF:-1,[BR] ESPORTE INTERATIVO 8 HD
-http://supersonictv.live:8080/241973/495982/85175
-#EXTINF:-1,[BR] ESPORTE INTERATIVO 9 HD
-http://supersonictv.live:8080/241973/495982/85176
-#EXTINF:-1,[BR] ESPORTE INTERATIVO 10 HD
-http://supersonictv.live:8080/241973/495982/85177
-#EXTINF:-1,[BR] ESPN Brasil 4K
-http://supersonictv.live:8080/241973/495982/85178
-
-#EXTINF:-1,[BR] FOX SPORTS 2 4K
-http://supersonictv.live:8080/241973/495982/85181
-#EXTINF:-1,[BR] Fox Sports 4K
-http://supersonictv.live:8080/241973/495982/85182
-
-#EXTINF:-1,[BR] HBO 2 DUAL FHD
-http://supersonictv.live:8080/241973/495982/85211
-#EXTINF:-1,[BR] HBO 2 DUAL HD
-http://supersonictv.live:8080/241973/495982/85212
-#EXTINF:-1,[BR] HBO 4K
-http://supersonictv.live:8080/241973/495982/85213
-#EXTINF:-1,[BR] HBO DUAL FHD
-http://supersonictv.live:8080/241973/495982/85214
-#EXTINF:-1,[BR] HBO DUAL HD
-http://supersonictv.live:8080/241973/495982/85215
-#EXTINF:-1,[BR] HBO Family DUAL FHD
-http://supersonictv.live:8080/241973/495982/85216
-#EXTINF:-1,[BR] HBO Family DUAL HD
-http://supersonictv.live:8080/241973/495982/85217
-#EXTINF:-1,[BR] HBO Mundi DUAL FHD
-http://supersonictv.live:8080/241973/495982/85218
-#EXTINF:-1,[BR] HBO Mundi DUAL HD
-http://supersonictv.live:8080/241973/495982/85219
-#EXTINF:-1,[BR] HBO Pop DUAL HD
-http://supersonictv.live:8080/241973/495982/85220
-#EXTINF:-1,[BR] HBO XTREME 4K
-http://supersonictv.live:8080/241973/495982/85221
-#EXTINF:-1,[BR] HBO Xtreme DUAL FHD
-http://supersonictv.live:8080/241973/495982/85222
-#EXTINF:-1,[BR] HBO Xtreme DUAL HD
-http://supersonictv.live:8080/241973/495982/85223
-
-#EXTINF:-1,[BR] ITV HD
-http://supersonictv.live:8080/241973/495982/85227
-#EXTINF:-1,[BR] Jovem Pan News FHD
-http://supersonictv.live:8080/241973/495982/85228
-#EXTINF:-1,[BR] KPOP TV SY HD
-http://supersonictv.live:8080/241973/495982/85229
-#EXTINF:-1,[BR] Loading TV FHD
-http://supersonictv.live:8080/241973/495982/85230
-#EXTINF:-1,[BR] Master TV HD
-http://supersonictv.live:8080/241973/495982/85231
-#EXTINF:-1,[BR] MEGAPIX 4K
-http://supersonictv.live:8080/241973/495982/85232
-#EXTINF:-1,[BR] MULTISHOW 4K
-http://supersonictv.live:8080/241973/495982/85233
-#EXTINF:-1,[BR] Music Top HD
-http://supersonictv.live:8080/241973/495982/85234
-#EXTINF:-1,[BR] NATGEO 4K
-http://supersonictv.live:8080/241973/495982/85235
-#EXTINF:-1,[BR] NHK Japan
-http://supersonictv.live:8080/241973/495982/85236
-#EXTINF:-1,[BR] Polishop FHD
-http://supersonictv.live:8080/241973/495982/85239
-#EXTINF:-1,[BR] PREMIERE CLUBES 4K
-http://supersonictv.live:8080/241973/495982/85240
-
-#EXTINF:-1,[BR] Space 4K
-http://supersonictv.live:8080/241973/495982/85282
-#EXTINF:-1,[BR] SPORTV 4K
-http://supersonictv.live:8080/241973/495982/85283
-#EXTINF:-1,[BR] STAR CHANNEL 4K
-http://supersonictv.live:8080/241973/495982/85284
-#EXTINF:-1,[BR] Star DUAL HD
-http://supersonictv.live:8080/241973/495982/85285
-#EXTINF:-1,[BR] Studio Universal DUAL HD
-http://supersonictv.live:8080/241973/495982/85286
-#EXTINF:-1,[BR] Summer TV HD
-http://supersonictv.live:8080/241973/495982/85287
-#EXTINF:-1,[BR] Taormina TV HD
-http://supersonictv.live:8080/241973/495982/85288
-#EXTINF:-1,[BR] TC Action DUAL FHD
-http://supersonictv.live:8080/241973/495982/85289
-#EXTINF:-1,[BR] TC Action DUAL HD
-http://supersonictv.live:8080/241973/495982/85290
-#EXTINF:-1,[BR] TC Cult DUAL FHD
-http://supersonictv.live:8080/241973/495982/85291
-#EXTINF:-1,[BR] TC Cult DUAL HD
-http://supersonictv.live:8080/241973/495982/85292
-#EXTINF:-1,[BR] TC Fun DUAL FHD
-http://supersonictv.live:8080/241973/495982/85293
-#EXTINF:-1,[BR] TC Fun DUAL HD
-http://supersonictv.live:8080/241973/495982/85294
-#EXTINF:-1,[BR] TC Pipoca DUAL FHD
-http://supersonictv.live:8080/241973/495982/85295
-#EXTINF:-1,[BR] TC Pipoca DUAL HD
-http://supersonictv.live:8080/241973/495982/85296
-#EXTINF:-1,[BR] TC Premium DUAL FHD
-http://supersonictv.live:8080/241973/495982/85297
-#EXTINF:-1,[BR] TC Premium DUAL HD
-http://supersonictv.live:8080/241973/495982/85298
-#EXTINF:-1,[BR] TC Touch DUAL FHD
-http://supersonictv.live:8080/241973/495982/85299
-#EXTINF:-1,[BR] TC Touch DUAL HD
-http://supersonictv.live:8080/241973/495982/85300
-#EXTINF:-1,[BR] TELECINE PREMIUM 4K
-http://supersonictv.live:8080/241973/495982/85301
-#EXTINF:-1,[BR] Terra Viva FHD
-http://supersonictv.live:8080/241973/495982/85302
-#EXTINF:-1,[BR] Terra Viva HD
-http://supersonictv.live:8080/241973/495982/85303
-#EXTINF:-1,[BR] The KPOP FHD
-http://supersonictv.live:8080/241973/495982/85304
-#EXTINF:-1,[BR] TNT 4K
-http://supersonictv.live:8080/241973/495982/85305
-#EXTINF:-1,[BR] TNT DUAL FHD
-http://supersonictv.live:8080/241973/495982/85306
-#EXTINF:-1,[BR] TNT DUAL HD
-http://supersonictv.live:8080/241973/495982/85307
-#EXTINF:-1,[BR] TNT SÉRIES 4K
-http://supersonictv.live:8080/241973/495982/85308
-#EXTINF:-1,[BR] TNT Series DUAL HD
-http://supersonictv.live:8080/241973/495982/85309
-#EXTINF:-1,[BR] TNT SPORTS 1 HD
-http://supersonictv.live:8080/241973/495982/85310
-#EXTINF:-1,[BR] TNT SPORTS 1 SD
-http://supersonictv.live:8080/241973/495982/85311
-#EXTINF:-1,[BR] TNT SPORTS 2 HD
-http://supersonictv.live:8080/241973/495982/85312
-#EXTINF:-1,[BR] TNT SPORTS 2 SD
-http://supersonictv.live:8080/241973/495982/85313
-#EXTINF:-1,[BR] TNT SPORTS 3 HD
-http://supersonictv.live:8080/241973/495982/85314
-#EXTINF:-1,[BR] TNT SPORTS 3 SD
-http://supersonictv.live:8080/241973/495982/85315
-#EXTINF:-1,[BR] TNT SPORTS 4 HD
-http://supersonictv.live:8080/241973/495982/85316
-#EXTINF:-1,[BR] TNT SPORTS 4 SD
-http://supersonictv.live:8080/241973/495982/85317
-#EXTINF:-1,[BR] TNT SPORTS 5 HD
-http://supersonictv.live:8080/241973/495982/85318
-#EXTINF:-1,[BR] TNT SPORTS 5 SD
-http://supersonictv.live:8080/241973/495982/85319
-#EXTINF:-1,[BR] TNT SPORTS 6 HD
-http://supersonictv.live:8080/241973/495982/85320
-#EXTINF:-1,[BR] TNT SPORTS 6 SD
-http://supersonictv.live:8080/241973/495982/85321
-#EXTINF:-1,[BR] TNT SPORTS 7 HD
-http://supersonictv.live:8080/241973/495982/85322
-#EXTINF:-1,[BR] TNT SPORTS 7 SD
-http://supersonictv.live:8080/241973/495982/85323
-#EXTINF:-1,[BR] TNT SPORTS 8 HD
-http://supersonictv.live:8080/241973/495982/85324
-#EXTINF:-1,[BR] TNT SPORTS 8 SD
-http://supersonictv.live:8080/241973/495982/85325
-#EXTINF:-1,[BR] Travel Box FHD
-http://supersonictv.live:8080/241973/495982/85326
-
-#EXTINF:-1,[BR] TV das Artes
-http://supersonictv.live:8080/241973/495982/85335
-#EXTINF:-1,[BR] TV Envangelizar
-http://supersonictv.live:8080/241973/495982/85336
-#EXTINF:-1,[BR] TV Escola FHD
-http://supersonictv.live:8080/241973/495982/85337
-#EXTINF:-1,[BR] TV Escola HD
-http://supersonictv.live:8080/241973/495982/85338
-
-#EXTINF:-1,[BR] Universal TV DUAL HD
-http://supersonictv.live:8080/241973/495982/85354
-#EXTINF:-1,[BR] VH1 HD
-http://supersonictv.live:8080/241973/495982/85355
-#EXTINF:-1,[BR] Warner Channel DUAL HD
-http://supersonictv.live:8080/241973/495982/85356
-#EXTINF:-1,[BR] Yeeaah HD
-http://supersonictv.live:8080/241973/495982/85357
-#EXTINF:-1,[BR] Zoom TV HD
-http://supersonictv.live:8080/241973/495982/85358
-#EXTINF:-1,[BR] ZooMoo HD
-http://supersonictv.live:8080/241973/495982/85359
-#EXTINF:-1,[BR] ZooMoo SD
-http://supersonictv.live:8080/241973/495982/85360
-
-#EXTINF:-1,[BR] A&E FHD
-http://supersonictv.live:8080/247340/764085/84935
-#EXTINF:-1,[BR] Animal Planet FHD
-http://supersonictv.live:8080/247340/764085/84936
-#EXTINF:-1,[BR] Arte 1 FHD
-http://supersonictv.live:8080/247340/764085/84937
-#EXTINF:-1,[BR] AXN FHD
-http://supersonictv.live:8080/247340/764085/84938
-#EXTINF:-1,[BR] Baby FHD
-http://supersonictv.live:8080/247340/764085/84939
-#EXTINF:-1,[BR] Band FHD
-http://supersonictv.live:8080/247340/764085/84940
-#EXTINF:-1,[BR] Band News FHD
-http://supersonictv.live:8080/247340/764085/84941
-#EXTINF:-1,[BR] Band Sports FHD
-http://supersonictv.live:8080/247340/764085/84942
-#EXTINF:-1,[BR] BIS FHD
-http://supersonictv.live:8080/247340/764085/84943
-#EXTINF:-1,[BR] Boomerang FHD
-http://supersonictv.live:8080/247340/764085/84944
-#EXTINF:-1,[BR] Canal Brasil FHD
-http://supersonictv.live:8080/247340/764085/84945
-#EXTINF:-1,[BR] Cartoon Network FHD
-http://supersonictv.live:8080/247340/764085/84946
-#EXTINF:-1,[BR] Chef TV FHD
-http://supersonictv.live:8080/247340/764085/84947
-#EXTINF:-1,[BR] Cinemax FHD
-http://supersonictv.live:8080/247340/764085/84948
-#EXTINF:-1,[BR] Cinemax HD
-http://supersonictv.live:8080/247340/764085/84949
-#EXTINF:-1,[BR] CNN Brasil FHD
-http://supersonictv.live:8080/247340/764085/84950
-#EXTINF:-1,[BR] CNN Espanhol HD
-http://supersonictv.live:8080/247340/764085/84951
-#EXTINF:-1,[BR] CNN Internacional FHD
-http://supersonictv.live:8080/247340/764085/84952
-#EXTINF:-1,[BR] Combate FHD
-http://supersonictv.live:8080/247340/764085/84953
-#EXTINF:-1,[BR] Comedy Central FHD
-http://supersonictv.live:8080/247340/764085/84954
-#EXTINF:-1,[BR] COPA CATARINENSE *
-http://supersonictv.live:8080/247340/764085/84955
-#EXTINF:-1,[BR] COPA CATARINENSE 2 *
-http://supersonictv.live:8080/247340/764085/84956
-#EXTINF:-1,[BR] COPA CATARINENSE 2 HD *
-http://supersonictv.live:8080/247340/764085/84957
-#EXTINF:-1,[BR] COPA CATARINENSE HD *
-http://supersonictv.live:8080/247340/764085/84958
-#EXTINF:-1,[BR] COPA DO NORDESTE *
-http://supersonictv.live:8080/247340/764085/84959
-#EXTINF:-1,[BR] COPA DO NORDESTE 2 *
-http://supersonictv.live:8080/247340/764085/84960
-#EXTINF:-1,[BR] COPA DO NORDESTE 2 HD *
-http://supersonictv.live:8080/247340/764085/84961
-#EXTINF:-1,[BR] COPA DO NORDESTE HD *
-http://supersonictv.live:8080/247340/764085/84962
-#EXTINF:-1,[BR] Curta! FHD
-http://supersonictv.live:8080/247340/764085/84963
-#EXTINF:-1,[BR] Discovery Channel FHD
-http://supersonictv.live:8080/247340/764085/84966
-#EXTINF:-1,[BR] Discovery Home & Health FHD
-http://supersonictv.live:8080/247340/764085/84967
-#EXTINF:-1,[BR] Discovery ID FHD
-http://supersonictv.live:8080/247340/764085/84968
-#EXTINF:-1,[BR] Discovery Kids FHD
-http://supersonictv.live:8080/247340/764085/84969
-#EXTINF:-1,[BR] Discovery Science FHD
-http://supersonictv.live:8080/247340/764085/84970
-#EXTINF:-1,[BR] Discovery Theather FHD
-http://supersonictv.live:8080/247340/764085/84971
-#EXTINF:-1,[BR] Discovery Turbo FHD
-http://supersonictv.live:8080/247340/764085/84972
-#EXTINF:-1,[BR] Discovery World FHD
-http://supersonictv.live:8080/247340/764085/84973
-#EXTINF:-1,[BR] Disney Channel FHD
-http://supersonictv.live:8080/247340/764085/84974
-#EXTINF:-1,[BR] Disney JR FHD
-http://supersonictv.live:8080/247340/764085/84975
-#EXTINF:-1,[BR] Disney XD FHD
-http://supersonictv.live:8080/247340/764085/84976
-#EXTINF:-1,[BR] E! FHD
-http://supersonictv.live:8080/247340/764085/84977
-#EXTINF:-1,[BR] ESPN 2 FHD
-http://supersonictv.live:8080/247340/764085/84978
-#EXTINF:-1,[BR] ESPN Brasil FHD
-http://supersonictv.live:8080/247340/764085/84979
-#EXTINF:-1,[BR] ESPN Extra FHD
-http://supersonictv.live:8080/247340/764085/84980
-#EXTINF:-1,[BR] ESPN FHD
-http://supersonictv.live:8080/247340/764085/84981
-#EXTINF:-1,[BR] ESPORTE INTERATIVO *
-http://supersonictv.live:8080/247340/764085/84982
-#EXTINF:-1,[BR] Fish TV FHD
-http://supersonictv.live:8080/247340/764085/84983
-#EXTINF:-1,[BR] FlaTV TESTE
-http://supersonictv.live:8080/247340/764085/84984
-#EXTINF:-1,[BR] Food Network FHD
-http://supersonictv.live:8080/247340/764085/84985
-#EXTINF:-1,[BR] FOX FHD
-http://supersonictv.live:8080/247340/764085/84986
-#EXTINF:-1,[BR] Fox Life FHD
-http://supersonictv.live:8080/247340/764085/84987
-#EXTINF:-1,[BR] Fox News FHD
-http://supersonictv.live:8080/247340/764085/84988
-#EXTINF:-1,[BR] Fox Premium 1 FHD
-http://supersonictv.live:8080/247340/764085/84989
-#EXTINF:-1,[BR] Fox Premium 2 FHD
-http://supersonictv.live:8080/247340/764085/84990
-#EXTINF:-1,[BR] Fox Sport HD
-http://supersonictv.live:8080/247340/764085/84991
-#EXTINF:-1,[BR] Fox Sports 2 FHD
-http://supersonictv.live:8080/247340/764085/84992
-#EXTINF:-1,[BR] Fox Sports FHD
-http://supersonictv.live:8080/247340/764085/84993
-#EXTINF:-1,[BR] Fox Sports SD
-http://supersonictv.live:8080/247340/764085/84994
-#EXTINF:-1,[BR] FX FHD
-http://supersonictv.live:8080/247340/764085/84995
-#EXTINF:-1,[BR] Globo TV Brasilia HD
-http://supersonictv.live:8080/247340/764085/84996
-#EXTINF:-1,[BR] Globo Centro America FHD
-http://supersonictv.live:8080/247340/764085/84997
-#EXTINF:-1,[BR] Globo EPTV Campinas FHD
-http://supersonictv.live:8080/247340/764085/84998
-#EXTINF:-1,[BR] GLOBO EPTV CAMPINAS SD#
-http://supersonictv.live:8080/247340/764085/84999
-#EXTINF:-1,[BR] GLOBO EPTV RIBEIRÃƒO PRETO SD#
-http://supersonictv.live:8080/247340/764085/85000
-#EXTINF:-1,[BR] Globo EPTV Sul de Minas FHD
-http://supersonictv.live:8080/247340/764085/85001
-#EXTINF:-1,[BR] GLOBO INTER TV CABUGI SD#
-http://supersonictv.live:8080/247340/764085/85002
-#EXTINF:-1,[BR] Globo Inter TV Grande Minas FHD
-http://supersonictv.live:8080/247340/764085/85003
-#EXTINF:-1,[BR] Globo Minas FHD
-http://supersonictv.live:8080/247340/764085/85004
-#EXTINF:-1,[BR] Globo News FHD
-http://supersonictv.live:8080/247340/764085/85005
-#EXTINF:-1,[BR] Globo Nordeste FHD
-http://supersonictv.live:8080/247340/764085/85006
-#EXTINF:-1,[BR] Globo NSC Florianopolis FHD
-http://supersonictv.live:8080/247340/764085/85007
-#EXTINF:-1,[BR] GLOBO RBS PORTO ALEGRE SD#
-http://supersonictv.live:8080/247340/764085/85008
-#EXTINF:-1,[BR] GLOBO RBS TV POA FHD
-http://supersonictv.live:8080/247340/764085/85009
-#EXTINF:-1,[BR] GLOBO REDE AMAZÃ”NICA MANAUS SD#
-http://supersonictv.live:8080/247340/764085/85010
-#EXTINF:-1,[BR] GLOBO RIO HD#
-http://supersonictv.live:8080/247340/764085/85011
-#EXTINF:-1,[BR] Globo RJ FHD
-http://supersonictv.live:8080/247340/764085/85012
-#EXTINF:-1,[BR] Globo RPC Curitiba FHD
-http://supersonictv.live:8080/247340/764085/85013
-#EXTINF:-1,[BR] Globo RPC Foz do Iguaçu FHD
-http://supersonictv.live:8080/247340/764085/85014
-#EXTINF:-1,[BR] GLOBO SP FHD
-http://supersonictv.live:8080/247340/764085/85015
-#EXTINF:-1,[BR] Globo TV Anhanguera  SD
-http://supersonictv.live:8080/247340/764085/85016
-#EXTINF:-1,[BR] GLOBO TV ANHANGUERA GOIÃ‚NIA SD#
-http://supersonictv.live:8080/247340/764085/85017
-#EXTINF:-1,[BR] Globo TV Bahia FHD
-http://supersonictv.live:8080/247340/764085/85018
-#EXTINF:-1,[BR] Globo TV Belem FHD
-http://supersonictv.live:8080/247340/764085/85019
-#EXTINF:-1,[BR] Globo TV Brasilia FHD
-http://supersonictv.live:8080/247340/764085/85020
-#EXTINF:-1,[BR] GLOBO TV LIBERAL BELEM SD#
-http://supersonictv.live:8080/247340/764085/85021
-#EXTINF:-1,[BR] Globo TV Mirante FHD
-http://supersonictv.live:8080/247340/764085/85022
-#EXTINF:-1,[BR] Globo TV Morena FHD
-http://supersonictv.live:8080/247340/764085/85023
-#EXTINF:-1,[BR] GLOBO TV TEM BAURU SD#
-http://supersonictv.live:8080/247340/764085/85024
-#EXTINF:-1,[BR] GLOBO TV TEM SOROCABA SD#
-http://supersonictv.live:8080/247340/764085/85025
-#EXTINF:-1,[BR] GLOBO TV TRIBUNA SANTOS SD#
-http://supersonictv.live:8080/247340/764085/85026
-#EXTINF:-1,[BR] GLOBO TV VANGUARDA SÃƒO JOSÃ‰ DOS CAMPOS SD#
-http://supersonictv.live:8080/247340/764085/85027
-#EXTINF:-1,[BR] Globo TV Verdes Mares FHD
-http://supersonictv.live:8080/247340/764085/85028
-#EXTINF:-1,[BR] GloboTV Anhanguera FHD
-http://supersonictv.live:8080/247340/764085/85029
-#EXTINF:-1,[BR] Gloob FHD
-http://supersonictv.live:8080/247340/764085/85030
-#EXTINF:-1,[BR] Gloobinho FHD
-http://supersonictv.live:8080/247340/764085/85031
-#EXTINF:-1,[BR] GNT FHD
-http://supersonictv.live:8080/247340/764085/85032
-#EXTINF:-1,[BR] H2 FHD
-http://supersonictv.live:8080/247340/764085/85033
-#EXTINF:-1,[BR] HBO 2 FHD
-http://supersonictv.live:8080/247340/764085/85034
-#EXTINF:-1,[BR] HBO Family FHD
-http://supersonictv.live:8080/247340/764085/85035
-#EXTINF:-1,[BR] HBO FHD
-http://supersonictv.live:8080/247340/764085/85036
-#EXTINF:-1,[BR] HBO Mundi FHD
-http://supersonictv.live:8080/247340/764085/85037
-#EXTINF:-1,[BR] HBO Plus FHD
-http://supersonictv.live:8080/247340/764085/85038
-#EXTINF:-1,[BR] HBO Pop FHD
-http://supersonictv.live:8080/247340/764085/85039
-#EXTINF:-1,[BR] HBO Signature FHD
-http://supersonictv.live:8080/247340/764085/85040
-#EXTINF:-1,[BR] HBO Xtreme FHD
-http://supersonictv.live:8080/247340/764085/85041
-#EXTINF:-1,[BR] HGTV FHD
-http://supersonictv.live:8080/247340/764085/85042
-#EXTINF:-1,[BR] i SAT FHD
-http://supersonictv.live:8080/247340/764085/85043
-#EXTINF:-1,[BR] Inter TV dos Vales FHD
-http://supersonictv.live:8080/247340/764085/85044
-#EXTINF:-1,[BR] Lifetime FHD
-http://supersonictv.live:8080/247340/764085/85045
-#EXTINF:-1,[BR] Mais Globosat FHD
-http://supersonictv.live:8080/247340/764085/85046
-#EXTINF:-1,[BR] Megapix FHD
-http://supersonictv.live:8080/247340/764085/85047
-#EXTINF:-1,[BR] Multishow FHD
-http://supersonictv.live:8080/247340/764085/85050
-#EXTINF:-1,[BR] Music Box Brasil FHD
-http://supersonictv.live:8080/247340/764085/85051
-#EXTINF:-1,[BR] Natgeo FHD
-http://supersonictv.live:8080/247340/764085/85052
-#EXTINF:-1,[BR] Natgeo Kids FHD
-http://supersonictv.live:8080/247340/764085/85053
-#EXTINF:-1,[BR] Natgeo Wild FHD
-http://supersonictv.live:8080/247340/764085/85054
-#EXTINF:-1,[BR] Nick FHD
-http://supersonictv.live:8080/247340/764085/85055
-#EXTINF:-1,[BR] Nick JR FHD
-http://supersonictv.live:8080/247340/764085/85056
-#EXTINF:-1,[BR] OFF FHD
-http://supersonictv.live:8080/247340/764085/85058
-#EXTINF:-1,[BR] Paramount Channel FHD
-http://supersonictv.live:8080/247340/764085/85059
-#EXTINF:-1,[BR] Shoptime FHD
-http://supersonictv.live:8080/247340/764085/85090
-#EXTINF:-1,[BR] Sony FHD
-http://supersonictv.live:8080/247340/764085/85091
-#EXTINF:-1,[BR] Space FHD
-http://supersonictv.live:8080/247340/764085/85092
-#EXTINF:-1,[BR] Studio Universal FHD
-http://supersonictv.live:8080/247340/764085/85096
-#EXTINF:-1,[BR] SYFY FHD
-http://supersonictv.live:8080/247340/764085/85097
-#EXTINF:-1,[BR] TBS FHD
-http://supersonictv.live:8080/247340/764085/85098
-#EXTINF:-1,[BR] TC ACTION FHD
-http://supersonictv.live:8080/247340/764085/85099
-#EXTINF:-1,[BR] TC Cult FHD
-http://supersonictv.live:8080/247340/764085/85100
-#EXTINF:-1,[BR] TC Fun FHD
-http://supersonictv.live:8080/247340/764085/85101
-#EXTINF:-1,[BR] TC Pipoca FHD
-http://supersonictv.live:8080/247340/764085/85102
-#EXTINF:-1,[BR] TC Premium FHD
-http://supersonictv.live:8080/247340/764085/85103
-#EXTINF:-1,[BR] TC Touch FHD
-http://supersonictv.live:8080/247340/764085/85104
-#EXTINF:-1,[BR] TCM FHD
-http://supersonictv.live:8080/247340/764085/85105
-#EXTINF:-1,[BR] The History FHD
-http://supersonictv.live:8080/247340/764085/85106
-#EXTINF:-1,[BR] TLC FHD
-http://supersonictv.live:8080/247340/764085/85107
-#EXTINF:-1,[BR] TNT FHD
-http://supersonictv.live:8080/247340/764085/85108
-#EXTINF:-1,[BR] TNT Series FHD
-http://supersonictv.live:8080/247340/764085/85109
-#EXTINF:-1,[BR] Universal Channel FHD
-http://supersonictv.live:8080/247340/764085/85119
-#EXTINF:-1,[BR] VH1 Mega Hits FHD
-http://supersonictv.live:8080/247340/764085/85120
-#EXTINF:-1,[BR] Viva FHD
-http://supersonictv.live:8080/247340/764085/85121
-#EXTINF:-1,[BR] Warner Channel FHD
-http://supersonictv.live:8080/247340/764085/85122
-#EXTINF:-1,[BR] Wohoo FHD
-http://supersonictv.live:8080/247340/764085/85123
-#EXTINF:-1,[BR] TV Tem Bauru FHD
-http://supersonictv.live:8080/247340/764085/85124
-#EXTINF:-1,[BR] AMC FHD
-http://supersonictv.live:8080/247340/764085/85125
-#EXTINF:-1,[BR] FOX SPORTS 2 4K
-http://supersonictv.live:8080/247340/764085/85181
-#EXTINF:-1,[BR] Fox Sports 4K
-http://supersonictv.live:8080/247340/764085/85182
-#EXTINF:-1,[BR] HBO 2 DUAL FHD
-http://supersonictv.live:8080/247340/764085/85211
-#EXTINF:-1,[BR] HBO 2 DUAL HD
-http://supersonictv.live:8080/247340/764085/85212
-#EXTINF:-1,[BR] HBO 4K
-http://supersonictv.live:8080/247340/764085/85213
-#EXTINF:-1,[BR] HBO DUAL FHD
-http://supersonictv.live:8080/247340/764085/85214
-#EXTINF:-1,[BR] HBO DUAL HD
-http://supersonictv.live:8080/247340/764085/85215
-#EXTINF:-1,[BR] HBO Family DUAL FHD
-http://supersonictv.live:8080/247340/764085/85216
-#EXTINF:-1,[BR] HBO Family DUAL HD
-http://supersonictv.live:8080/247340/764085/85217
-#EXTINF:-1,[BR] HBO Mundi DUAL FHD
-http://supersonictv.live:8080/247340/764085/85218
-#EXTINF:-1,[BR] HBO Mundi DUAL HD
-http://supersonictv.live:8080/247340/764085/85219
-#EXTINF:-1,[BR] HBO Pop DUAL HD
-http://supersonictv.live:8080/247340/764085/85220
-#EXTINF:-1,[BR] HBO XTREME 4K
-http://supersonictv.live:8080/247340/764085/85221
-#EXTINF:-1,[BR] HBO Xtreme DUAL FHD
-http://supersonictv.live:8080/247340/764085/85222
-#EXTINF:-1,[BR] HBO Xtreme DUAL HD
-http://supersonictv.live:8080/247340/764085/85223
-#EXTINF:-1,[BR] Heavy Metal TV
-http://supersonictv.live:8080/247340/764085/85224
-#EXTINF:-1,[BR] ITV HD
-http://supersonictv.live:8080/247340/764085/85227
-#EXTINF:-1,[BR] Jovem Pan News FHD
-http://supersonictv.live:8080/247340/764085/85228
-#EXTINF:-1,[BR] KPOP TV SY HD
-http://supersonictv.live:8080/247340/764085/85229
-#EXTINF:-1,[BR] Loading TV FHD
-http://supersonictv.live:8080/247340/764085/85230
-#EXTINF:-1,[BR] Master TV HD
-http://supersonictv.live:8080/247340/764085/85231
-#EXTINF:-1,[BR] MEGAPIX 4K
-http://supersonictv.live:8080/247340/764085/85232
-#EXTINF:-1,[BR] MULTISHOW 4K
-http://supersonictv.live:8080/247340/764085/85233
-#EXTINF:-1,[BR] Music Top HD
-http://supersonictv.live:8080/247340/764085/85234
-#EXTINF:-1,[BR] NATGEO 4K
-http://supersonictv.live:8080/247340/764085/85235
-#EXTINF:-1,[BR] Space 4K
-http://supersonictv.live:8080/247340/764085/85282
-#EXTINF:-1,[BR] SPORTV 4K
-http://supersonictv.live:8080/247340/764085/85283
-#EXTINF:-1,[BR] STAR CHANNEL 4K
-http://supersonictv.live:8080/247340/764085/85284
-#EXTINF:-1,[BR] Star DUAL HD
-http://supersonictv.live:8080/247340/764085/85285
-#EXTINF:-1,[BR] Studio Universal DUAL HD
-http://supersonictv.live:8080/247340/764085/85286
-#EXTINF:-1,[BR] Summer TV HD
-http://supersonictv.live:8080/247340/764085/85287
-#EXTINF:-1,[BR] Taormina TV HD
-http://supersonictv.live:8080/247340/764085/85288
-#EXTINF:-1,[BR] TC Action DUAL FHD
-http://supersonictv.live:8080/247340/764085/85289
-#EXTINF:-1,[BR] TC Action DUAL HD
-http://supersonictv.live:8080/247340/764085/85290
-#EXTINF:-1,[BR] TC Cult DUAL FHD
-http://supersonictv.live:8080/247340/764085/85291
-#EXTINF:-1,[BR] TC Cult DUAL HD
-http://supersonictv.live:8080/247340/764085/85292
-#EXTINF:-1,[BR] TC Fun DUAL FHD
-http://supersonictv.live:8080/247340/764085/85293
-#EXTINF:-1,[BR] TC Fun DUAL HD
-http://supersonictv.live:8080/247340/764085/85294
-#EXTINF:-1,[BR] TC Pipoca DUAL FHD
-http://supersonictv.live:8080/247340/764085/85295
-#EXTINF:-1,[BR] TC Pipoca DUAL HD
-http://supersonictv.live:8080/247340/764085/85296
-#EXTINF:-1,[BR] TC Premium DUAL FHD
-http://supersonictv.live:8080/247340/764085/85297
-#EXTINF:-1,[BR] TC Premium DUAL HD
-http://supersonictv.live:8080/247340/764085/85298
-#EXTINF:-1,[BR] TC Touch DUAL FHD
-http://supersonictv.live:8080/247340/764085/85299
-#EXTINF:-1,[BR] TC Touch DUAL HD
-http://supersonictv.live:8080/247340/764085/85300
-#EXTINF:-1,[BR] TELECINE PREMIUM 4K
-http://supersonictv.live:8080/247340/764085/85301
-#EXTINF:-1,[BR] The KPOP FHD
-http://supersonictv.live:8080/247340/764085/85304
-#EXTINF:-1,[BR] TNT 4K
-http://supersonictv.live:8080/247340/764085/85305
-#EXTINF:-1,[BR] TNT DUAL FHD
-http://supersonictv.live:8080/247340/764085/85306
-#EXTINF:-1,[BR] TNT DUAL HD
-http://supersonictv.live:8080/247340/764085/85307
-#EXTINF:-1,[BR] TNT SÉRIES 4K
-http://supersonictv.live:8080/247340/764085/85308
-#EXTINF:-1,[BR] TNT Series DUAL HD
-http://supersonictv.live:8080/247340/764085/85309
-#EXTINF:-1,[BR] TNT SPORTS 1 HD
-http://supersonictv.live:8080/247340/764085/85310
-#EXTINF:-1,[BR] TNT SPORTS 1 SD
-http://supersonictv.live:8080/247340/764085/85311
-#EXTINF:-1,[BR] TNT SPORTS 2 HD
-http://supersonictv.live:8080/247340/764085/85312
-#EXTINF:-1,[BR] TNT SPORTS 2 SD
-http://supersonictv.live:8080/247340/764085/85313
-#EXTINF:-1,[BR] TNT SPORTS 3 HD
-http://supersonictv.live:8080/247340/764085/85314
-#EXTINF:-1,[BR] TNT SPORTS 3 SD
-http://supersonictv.live:8080/247340/764085/85315
-#EXTINF:-1,[BR] TNT SPORTS 4 HD
-http://supersonictv.live:8080/247340/764085/85316
-#EXTINF:-1,[BR] TNT SPORTS 4 SD
-http://supersonictv.live:8080/247340/764085/85317
-#EXTINF:-1,[BR] TNT SPORTS 5 HD
-http://supersonictv.live:8080/247340/764085/85318
-#EXTINF:-1,[BR] TNT SPORTS 5 SD
-http://supersonictv.live:8080/247340/764085/85319
-#EXTINF:-1,[BR] TNT SPORTS 6 HD
-http://supersonictv.live:8080/247340/764085/85320
-#EXTINF:-1,[BR] TNT SPORTS 6 SD
-http://supersonictv.live:8080/247340/764085/85321
-#EXTINF:-1,[BR] TNT SPORTS 7 HD
-http://supersonictv.live:8080/247340/764085/85322
-#EXTINF:-1,[BR] TNT SPORTS 7 SD
-http://supersonictv.live:8080/247340/764085/85323
-#EXTINF:-1,[BR] TNT SPORTS 8 HD
-http://supersonictv.live:8080/247340/764085/85324
-#EXTINF:-1,[BR] TNT SPORTS 8 SD
-http://supersonictv.live:8080/247340/764085/85325
-http://supersonictv.live:8080/247340/764085/85336
-#EXTINF:-1,[BR] TV Escola FHD
-http://supersonictv.live:8080/247340/764085/85337
-#EXTINF:-1,[BR] TV Escola HD
-http://supersonictv.live:8080/247340/764085/85338
-#EXTINF:-1,[BR] TV UAI HD
-http://supersonictv.live:8080/247340/764085/85350
-#EXTINF:-1,[BR] TV5 Monde HD
-http://supersonictv.live:8080/247340/764085/85351
-#EXTINF:-1,[BR] TVE FHD
-http://supersonictv.live:8080/247340/764085/85352
-#EXTINF:-1,[BR] TVE RS FHD
-http://supersonictv.live:8080/247340/764085/85353
-#EXTINF:-1,[BR] Universal TV DUAL HD
-http://supersonictv.live:8080/247340/764085/85354
-#EXTINF:-1,[BR] VH1 HD
-http://supersonictv.live:8080/247340/764085/85355
-#EXTINF:-1,[BR] Warner Channel DUAL HD
-http://supersonictv.live:8080/247340/764085/85356
-#EXTINF:-1,[BR] Yeeaah HD
-http://supersonictv.live:8080/247340/764085/85357
-#EXTINF:-1,[BR] Zoom TV HD
-http://supersonictv.live:8080/247340/764085/85358
-#EXTINF:-1,[BR] ZooMoo HD
-http://supersonictv.live:8080/247340/764085/85359
-#EXTINF:-1,[BR] ZooMoo SD
-http://supersonictv.live:8080/247340/764085/85360
-#EXTINF:-1,[BR] 24h Power Couple
-http://supersonictv.live:8080/247340/764085/85361
-#EXTINF:-1,[BR] DJTV HD
-http://supersonictv.live:8080/247340/764085/85362
-#EXTINF:-1,[BR] TV MaisNews|Cultura FHD
-http://supersonictv.live:8080/247340/764085/85363
-#EXTINF:-1,[BR] Life Channel BR FHD
-http://supersonictv.live:8080/247340/764085/85364
-#EXTINF:-1,[BR] TV Carioca HD
-http://supersonictv.live:8080/247340/764085/85365
-#EXTINF:-1,[BR] TV Pampa HD
-http://supersonictv.live:8080/247340/764085/85366
-#EXTINF:-1,[BR] Primer TV HD
-http://supersonictv.live:8080/247340/764085/85367
-#EXTINF:-1,[BR] ChromaTV
-http://supersonictv.live:8080/247340/764085/85368
-#EXTINF:-1,[BR] TV Mon HD
-http://supersonictv.live:8080/247340/764085/85369
-#EXTINF:-1,[BR] Demais TV
-http://supersonictv.live:8080/247340/764085/85370
-#EXTINF:-1,[BR] TV A Plateia HD
-http://supersonictv.live:8080/247340/764085/85371
-#EXTINF:-1,[BR] Vale TV-Play
-http://supersonictv.live:8080/247340/764085/85372
-#EXTINF:-1,[BR] Vale EU TV
-http://supersonictv.live:8080/247340/764085/85373
-#EXTINF:-1,[BR] Urban TV HD
-http://supersonictv.live:8080/247340/764085/85374
-#EXTINF:-1,[BR] TVideosNews HD
-http://supersonictv.live:8080/247340/764085/85375
-#EXTINF:-1,[BR] VRT Channel HD
-http://supersonictv.live:8080/247340/764085/85376
-#EXTINF:-1,[BR] SporTV 4 HD Olimpíadas
-http://supersonictv.live:8080/247340/764085/85387
-
-#EXTINF:-1,[BR] A&E FHD
-http://supersonictv.live:8080/174374/254715/84935
-#EXTINF:-1,[BR] Animal Planet FHD
-http://supersonictv.live:8080/174374/254715/84936
-#EXTINF:-1,[BR] Arte 1 FHD
-http://supersonictv.live:8080/174374/254715/84937
-#EXTINF:-1,[BR] AXN FHD
-http://supersonictv.live:8080/174374/254715/84938
-#EXTINF:-1,[BR] Baby FHD
-http://supersonictv.live:8080/174374/254715/84939
-#EXTINF:-1,[BR] Band FHD
-http://supersonictv.live:8080/174374/254715/84940
-#EXTINF:-1,[BR] Band News FHD
-http://supersonictv.live:8080/174374/254715/84941
-#EXTINF:-1,[BR] Band Sports FHD
-http://supersonictv.live:8080/174374/254715/84942
-#EXTINF:-1,[BR] BIS FHD
-http://supersonictv.live:8080/174374/254715/84943
-#EXTINF:-1,[BR] Boomerang FHD
-http://supersonictv.live:8080/174374/254715/84944
-#EXTINF:-1,[BR] Canal Brasil FHD
-http://supersonictv.live:8080/174374/254715/84945
-#EXTINF:-1,[BR] Cartoon Network FHD
-http://supersonictv.live:8080/174374/254715/84946
-#EXTINF:-1,[BR] Chef TV FHD
-http://supersonictv.live:8080/174374/254715/84947
-#EXTINF:-1,[BR] Cinemax FHD
-http://supersonictv.live:8080/174374/254715/84948
-#EXTINF:-1,[BR] Cinemax HD
-http://supersonictv.live:8080/174374/254715/84949
-#EXTINF:-1,[BR] CNN Brasil FHD
-http://supersonictv.live:8080/174374/254715/84950
-#EXTINF:-1,[BR] CNN Espanhol HD
-http://supersonictv.live:8080/174374/254715/84951
-#EXTINF:-1,[BR] CNN Internacional FHD
-http://supersonictv.live:8080/174374/254715/84952
-#EXTINF:-1,[BR] Combate FHD
-http://supersonictv.live:8080/174374/254715/84953
-#EXTINF:-1,[BR] Comedy Central FHD
-http://supersonictv.live:8080/174374/254715/84954
-#EXTINF:-1,[BR] Curta! FHD
-http://supersonictv.live:8080/174374/254715/84963
-#EXTINF:-1,[BR] Discovery Channel FHD
-http://supersonictv.live:8080/174374/254715/84966
-#EXTINF:-1,[BR] Discovery Home & Health FHD
-http://supersonictv.live:8080/174374/254715/84967
-#EXTINF:-1,[BR] Discovery ID FHD
-http://supersonictv.live:8080/174374/254715/84968
-#EXTINF:-1,[BR] Discovery Kids FHD
-http://supersonictv.live:8080/174374/254715/84969
-#EXTINF:-1,[BR] Discovery Science FHD
-http://supersonictv.live:8080/174374/254715/84970
-#EXTINF:-1,[BR] Discovery Theather FHD
-http://supersonictv.live:8080/174374/254715/84971
-#EXTINF:-1,[BR] Discovery Turbo FHD
-http://supersonictv.live:8080/174374/254715/84972
-#EXTINF:-1,[BR] Discovery World FHD
-http://supersonictv.live:8080/174374/254715/84973
-#EXTINF:-1,[BR] Disney Channel FHD
-http://supersonictv.live:8080/174374/254715/84974
-#EXTINF:-1,[BR] Disney JR FHD
-http://supersonictv.live:8080/174374/254715/84975
-#EXTINF:-1,[BR] Disney XD FHD
-http://supersonictv.live:8080/174374/254715/84976
-#EXTINF:-1,[BR] E! FHD
-http://supersonictv.live:8080/174374/254715/84977
-#EXTINF:-1,[BR] ESPN 2 FHD
-http://supersonictv.live:8080/174374/254715/84978
-#EXTINF:-1,[BR] ESPN Brasil FHD
-http://supersonictv.live:8080/174374/254715/84979
-#EXTINF:-1,[BR] ESPN Extra FHD
-http://supersonictv.live:8080/174374/254715/84980
-#EXTINF:-1,[BR] ESPN FHD
-http://supersonictv.live:8080/174374/254715/84981
-#EXTINF:-1,[BR] ESPORTE INTERATIVO *
-http://supersonictv.live:8080/174374/254715/84982
-#EXTINF:-1,[BR] Food Network FHD
-http://supersonictv.live:8080/174374/254715/84985
-#EXTINF:-1,[BR] FOX FHD
-http://supersonictv.live:8080/174374/254715/84986
-#EXTINF:-1,[BR] Fox Life FHD
-http://supersonictv.live:8080/174374/254715/84987
-#EXTINF:-1,[BR] Fox News FHD
-http://supersonictv.live:8080/174374/254715/84988
-#EXTINF:-1,[BR] Fox Premium 1 FHD
-http://supersonictv.live:8080/174374/254715/84989
-#EXTINF:-1,[BR] Fox Premium 2 FHD
-http://supersonictv.live:8080/174374/254715/84990
-#EXTINF:-1,[BR] Fox Sport HD
-http://supersonictv.live:8080/174374/254715/84991
-#EXTINF:-1,[BR] Fox Sports 2 FHD
-http://supersonictv.live:8080/174374/254715/84992
-#EXTINF:-1,[BR] Fox Sports FHD
-http://supersonictv.live:8080/174374/254715/84993
-#EXTINF:-1,[BR] Fox Sports SD
-http://supersonictv.live:8080/174374/254715/84994
-#EXTINF:-1,[BR] FX FHD
-http://supersonictv.live:8080/174374/254715/84995
-#EXTINF:-1,[BR] Globo News FHD
-http://supersonictv.live:8080/174374/254715/85005
-#EXTINF:-1,[BR] GNT FHD
-http://supersonictv.live:8080/174374/254715/85032
-#EXTINF:-1,[BR] H2 FHD
-http://supersonictv.live:8080/174374/254715/85033
-#EXTINF:-1,[BR] HBO 2 FHD
-http://supersonictv.live:8080/174374/254715/85034
-#EXTINF:-1,[BR] HBO Family FHD
-http://supersonictv.live:8080/174374/254715/85035
-#EXTINF:-1,[BR] HBO FHD
-http://supersonictv.live:8080/174374/254715/85036
-#EXTINF:-1,[BR] HBO Mundi FHD
-http://supersonictv.live:8080/174374/254715/85037
-#EXTINF:-1,[BR] HBO Plus FHD
-http://supersonictv.live:8080/174374/254715/85038
-#EXTINF:-1,[BR] HBO Pop FHD
-http://supersonictv.live:8080/174374/254715/85039
-#EXTINF:-1,[BR] HBO Signature FHD
-http://supersonictv.live:8080/174374/254715/85040
-#EXTINF:-1,[BR] HBO Xtreme FHD
-http://supersonictv.live:8080/174374/254715/85041
-#EXTINF:-1,[BR] HGTV FHD
-http://supersonictv.live:8080/174374/254715/85042
-#EXTINF:-1,[BR] i SAT FHD
-http://supersonictv.live:8080/174374/254715/85043
-#EXTINF:-1,[BR] Inter TV dos Vales FHD
-http://supersonictv.live:8080/174374/254715/85044
-#EXTINF:-1,[BR] Lifetime FHD
-http://supersonictv.live:8080/174374/254715/85045
-#EXTINF:-1,[BR] Mais Globosat FHD
-http://supersonictv.live:8080/174374/254715/85046
-#EXTINF:-1,[BR] Megapix FHD
-http://supersonictv.live:8080/174374/254715/85047
-#EXTINF:-1,[BR] MTV FHD
-http://supersonictv.live:8080/174374/254715/85048
-#EXTINF:-1,[BR] MTV HD
-http://supersonictv.live:8080/174374/254715/85049
-#EXTINF:-1,[BR] Multishow FHD
-http://supersonictv.live:8080/174374/254715/85050
-#EXTINF:-1,[BR] Music Box Brasil FHD
-http://supersonictv.live:8080/174374/254715/85051
-#EXTINF:-1,[BR] Natgeo FHD
-http://supersonictv.live:8080/174374/254715/85052
-#EXTINF:-1,[BR] Natgeo Kids FHD
-http://supersonictv.live:8080/174374/254715/85053
-#EXTINF:-1,[BR] Natgeo Wild FHD
-http://supersonictv.live:8080/174374/254715/85054
-#EXTINF:-1,[BR] Nick FHD
-http://supersonictv.live:8080/174374/254715/85055
-#EXTINF:-1,[BR] Nick JR FHD
-http://supersonictv.live:8080/174374/254715/85056
-#EXTINF:-1,[BR] NSC TV Blumenau FHD
-http://supersonictv.live:8080/174374/254715/85057
-#EXTINF:-1,[BR] OFF FHD
-http://supersonictv.live:8080/174374/254715/85058
-#EXTINF:-1,[BR] Paramount Channel FHD
-http://supersonictv.live:8080/174374/254715/85059
-#EXTINF:-1,[BR] Play Kids HD
-http://supersonictv.live:8080/174374/254715/85060
-#EXTINF:-1,[BR] Play TV FHD
-http://supersonictv.live:8080/174374/254715/85061
-#EXTINF:-1,[BR] Premiere 2 FHD
-http://supersonictv.live:8080/174374/254715/85062
-#EXTINF:-1,[BR] Premiere 3 FHD
-http://supersonictv.live:8080/174374/254715/85063
-#EXTINF:-1,[BR] Premiere 4 FHD
-http://supersonictv.live:8080/174374/254715/85064
-#EXTINF:-1,[BR] Premiere 5 FHD
-http://supersonictv.live:8080/174374/254715/85065
-#EXTINF:-1,[BR] Premiere 6 FHD
-http://supersonictv.live:8080/174374/254715/85066
-#EXTINF:-1,[BR] Premiere 7 FHD
-http://supersonictv.live:8080/174374/254715/85067
-#EXTINF:-1,[BR] Premiere Clubes FHD
-http://supersonictv.live:8080/174374/254715/85068
-#EXTINF:-1,[BR] Prime Box Brasil FHD
-http://supersonictv.live:8080/174374/254715/85069
-#EXTINF:-1,[BR] Sony FHD
-http://supersonictv.live:8080/174374/254715/85091
-#EXTINF:-1,[BR] Space FHD
-http://supersonictv.live:8080/174374/254715/85092
-#EXTINF:-1,[BR] SporTV 2 FHD
-http://supersonictv.live:8080/174374/254715/85093
-#EXTINF:-1,[BR] SporTV 3 FHD
-http://supersonictv.live:8080/174374/254715/85094
-#EXTINF:-1,[BR] SporTV FHD
-http://supersonictv.live:8080/174374/254715/85095
-#EXTINF:-1,[BR] Studio Universal FHD
-http://supersonictv.live:8080/174374/254715/85096
-#EXTINF:-1,[BR] SYFY FHD
-http://supersonictv.live:8080/174374/254715/85097
-#EXTINF:-1,[BR] TBS FHD
-http://supersonictv.live:8080/174374/254715/85098
-#EXTINF:-1,[BR] TC ACTION FHD
-http://supersonictv.live:8080/174374/254715/85099
-#EXTINF:-1,[BR] TC Cult FHD
-http://supersonictv.live:8080/174374/254715/85100
-#EXTINF:-1,[BR] TC Fun FHD
-http://supersonictv.live:8080/174374/254715/85101
-#EXTINF:-1,[BR] TC Pipoca FHD
-http://supersonictv.live:8080/174374/254715/85102
-#EXTINF:-1,[BR] TC Premium FHD
-http://supersonictv.live:8080/174374/254715/85103
-#EXTINF:-1,[BR] TC Touch FHD
-http://supersonictv.live:8080/174374/254715/85104
-#EXTINF:-1,[BR] TCM FHD
-http://supersonictv.live:8080/174374/254715/85105
-#EXTINF:-1,[BR] The History FHD
-http://supersonictv.live:8080/174374/254715/85106
-#EXTINF:-1,[BR] TLC FHD
-http://supersonictv.live:8080/174374/254715/85107
-#EXTINF:-1,[BR] TNT FHD
-http://supersonictv.live:8080/174374/254715/85108
-#EXTINF:-1,[BR] TNT Series FHD
-http://supersonictv.live:8080/174374/254715/85109
-#EXTINF:-1,[BR] Tooncast FHD
-http://supersonictv.live:8080/174374/254715/85110
-#EXTINF:-1,[BR] Tru TV FHD
-http://supersonictv.live:8080/174374/254715/85111
-#EXTINF:-1,[BR] Universal Channel FHD
-http://supersonictv.live:8080/174374/254715/85119
-#EXTINF:-1,[BR] VH1 Mega Hits FHD
-http://supersonictv.live:8080/174374/254715/85120
-#EXTINF:-1,[BR] Viva FHD
-http://supersonictv.live:8080/174374/254715/85121
-#EXTINF:-1,[BR] Warner Channel FHD
-http://supersonictv.live:8080/174374/254715/85122
-#EXTINF:-1,[BR] Wohoo FHD
-http://supersonictv.live:8080/174374/254715/85123
-#EXTINF:-1,[BR] AMC FHD
-http://supersonictv.live:8080/174374/254715/85125
-#EXTINF:-1,[BR] All Sports HD
-http://supersonictv.live:8080/174374/254715/85149
-#EXTINF:-1,[BR] AllTV HD
-http://supersonictv.live:8080/174374/254715/85150
-#EXTINF:-1,[BR] Canal 26 Argentina
-http://supersonictv.live:8080/174374/254715/85152
-#EXTINF:-1,[BR] Canal Rural FHD
-http://supersonictv.live:8080/174374/254715/85153
-#EXTINF:-1,[BR] Canale 7 Itália
-http://supersonictv.live:8080/174374/254715/85154
-#EXTINF:-1,[BR] Carioca 2 HD
-http://supersonictv.live:8080/174374/254715/85157
-#EXTINF:-1,[BR] Carioca HD
-http://supersonictv.live:8080/174374/254715/85158
-#EXTINF:-1,[BR] CBN Rio
-http://supersonictv.live:8080/174374/254715/85159
-#EXTINF:-1,[BR] CBN São Paulo
-http://supersonictv.live:8080/174374/254715/85160
-#EXTINF:-1,[BR] Central|Top TV HD
-http://supersonictv.live:8080/174374/254715/85161
-#EXTINF:-1,[BR] CGTN
-http://supersonictv.live:8080/174374/254715/85162
-#EXTINF:-1,[BR] CNT FHD
-http://supersonictv.live:8080/174374/254715/85163
-#EXTINF:-1,[BR] COM Brasil TV FHD
-http://supersonictv.live:8080/174374/254715/85164
-#EXTINF:-1,[BR] COMBATE 4K
-http://supersonictv.live:8080/174374/254715/85165
-#EXTINF:-1,[BR] Conmebol 1 HD
-http://supersonictv.live:8080/174374/254715/85166
-#EXTINF:-1,[BR] Conmebol 2 HD
-http://supersonictv.live:8080/174374/254715/85167
-#EXTINF:-1,[BR] Conmebol 4K
-http://supersonictv.live:8080/174374/254715/85168
-#EXTINF:-1,[BR] Conmebol 5 HD
-http://supersonictv.live:8080/174374/254715/85169
-#EXTINF:-1,[BR] Conmebol 6 HD
-http://supersonictv.live:8080/174374/254715/85170
-#EXTINF:-1,[BR] ESPN Brasil 4K
-http://supersonictv.live:8080/174374/254715/85178
-#EXTINF:-1,[BR] FOX SPORTS 2 4K
-http://supersonictv.live:8080/174374/254715/85181
-#EXTINF:-1,[BR] Fox Sports 4K
-http://supersonictv.live:8080/174374/254715/85182
-#EXTINF:-1,[BR] HBO 2 DUAL FHD
-http://supersonictv.live:8080/174374/254715/85211
-#EXTINF:-1,[BR] HBO 2 DUAL HD
-http://supersonictv.live:8080/174374/254715/85212
-#EXTINF:-1,[BR] HBO 4K
-http://supersonictv.live:8080/174374/254715/85213
-#EXTINF:-1,[BR] HBO DUAL FHD
-http://supersonictv.live:8080/174374/254715/85214
-#EXTINF:-1,[BR] HBO DUAL HD
-http://supersonictv.live:8080/174374/254715/85215
-#EXTINF:-1,[BR] HBO Family DUAL FHD
-http://supersonictv.live:8080/174374/254715/85216
-#EXTINF:-1,[BR] HBO Family DUAL HD
-http://supersonictv.live:8080/174374/254715/85217
-#EXTINF:-1,[BR] HBO Mundi DUAL FHD
-http://supersonictv.live:8080/174374/254715/85218
-#EXTINF:-1,[BR] HBO Mundi DUAL HD
-http://supersonictv.live:8080/174374/254715/85219
-#EXTINF:-1,[BR] HBO Pop DUAL HD
-http://supersonictv.live:8080/174374/254715/85220
-#EXTINF:-1,[BR] HBO XTREME 4K
-http://supersonictv.live:8080/174374/254715/85221
-#EXTINF:-1,[BR] HBO Xtreme DUAL FHD
-http://supersonictv.live:8080/174374/254715/85222
-#EXTINF:-1,[BR] HBO Xtreme DUAL HD
-http://supersonictv.live:8080/174374/254715/85223
-#EXTINF:-1,[BR] Heavy Metal TV
-http://supersonictv.live:8080/174374/254715/85224
-#EXTINF:-1,[BR] Igreja Mundial FHD
-http://supersonictv.live:8080/174374/254715/85225
-#EXTINF:-1,[BR] Jovem Pan News FHD
-http://supersonictv.live:8080/174374/254715/85228
-#EXTINF:-1,[BR] KPOP TV SY HD
-http://supersonictv.live:8080/174374/254715/85229
-#EXTINF:-1,[BR] Loading TV FHD
-http://supersonictv.live:8080/174374/254715/85230
-#EXTINF:-1,[BR] Master TV HD
-http://supersonictv.live:8080/174374/254715/85231
-#EXTINF:-1,[BR] MEGAPIX 4K
-http://supersonictv.live:8080/174374/254715/85232
-#EXTINF:-1,[BR] MULTISHOW 4K
-http://supersonictv.live:8080/174374/254715/85233
-#EXTINF:-1,[BR] Music Top HD
-http://supersonictv.live:8080/174374/254715/85234
-#EXTINF:-1,[BR] NATGEO 4K
-http://supersonictv.live:8080/174374/254715/85235
-#EXTINF:-1,[BR] Space 4K
-http://supersonictv.live:8080/174374/254715/85282
-#EXTINF:-1,[BR] SPORTV 4K
-http://supersonictv.live:8080/174374/254715/85283
-#EXTINF:-1,[BR] STAR CHANNEL 4K
-http://supersonictv.live:8080/174374/254715/85284
-#EXTINF:-1,[BR] Star DUAL HD
-http://supersonictv.live:8080/174374/254715/85285
-#EXTINF:-1,[BR] Studio Universal DUAL HD
-http://supersonictv.live:8080/174374/254715/85286
-#EXTINF:-1,[BR] TC Action DUAL FHD
-http://supersonictv.live:8080/174374/254715/85289
-#EXTINF:-1,[BR] TC Action DUAL HD
-http://supersonictv.live:8080/174374/254715/85290
-#EXTINF:-1,[BR] TC Cult DUAL FHD
-http://supersonictv.live:8080/174374/254715/85291
-#EXTINF:-1,[BR] TC Cult DUAL HD
-http://supersonictv.live:8080/174374/254715/85292
-#EXTINF:-1,[BR] TC Fun DUAL FHD
-http://supersonictv.live:8080/174374/254715/85293
-#EXTINF:-1,[BR] TC Fun DUAL HD
-http://supersonictv.live:8080/174374/254715/85294
-#EXTINF:-1,[BR] TC Pipoca DUAL FHD
-http://supersonictv.live:8080/174374/254715/85295
-#EXTINF:-1,[BR] TC Pipoca DUAL HD
-http://supersonictv.live:8080/174374/254715/85296
-#EXTINF:-1,[BR] TC Premium DUAL FHD
-http://supersonictv.live:8080/174374/254715/85297
-#EXTINF:-1,[BR] TC Premium DUAL HD
-http://supersonictv.live:8080/174374/254715/85298
-#EXTINF:-1,[BR] TC Touch DUAL FHD
-http://supersonictv.live:8080/174374/254715/85299
-#EXTINF:-1,[BR] TC Touch DUAL HD
-http://supersonictv.live:8080/174374/254715/85300
-#EXTINF:-1,[BR] TELECINE PREMIUM 4K
-http://supersonictv.live:8080/174374/254715/85301
-#EXTINF:-1,[BR] TNT 4K
-http://supersonictv.live:8080/174374/254715/85305
-#EXTINF:-1,[BR] TNT DUAL FHD
-http://supersonictv.live:8080/174374/254715/85306
-#EXTINF:-1,[BR] TNT DUAL HD
-http://supersonictv.live:8080/174374/254715/85307
-#EXTINF:-1,[BR] TNT SÉRIES 4K
-http://supersonictv.live:8080/174374/254715/85308
-#EXTINF:-1,[BR] TNT Series DUAL HD
-http://supersonictv.live:8080/174374/254715/85309
-#EXTINF:-1,[BR] TNT SPORTS 1 HD
-http://supersonictv.live:8080/174374/254715/85310
-#EXTINF:-1,[BR] TNT SPORTS 1 SD
-http://supersonictv.live:8080/174374/254715/85311
-#EXTINF:-1,[BR] TNT SPORTS 2 HD
-http://supersonictv.live:8080/174374/254715/85312
-#EXTINF:-1,[BR] TNT SPORTS 2 SD
-http://supersonictv.live:8080/174374/254715/85313
-#EXTINF:-1,[BR] TNT SPORTS 3 HD
-http://supersonictv.live:8080/174374/254715/85314
-#EXTINF:-1,[BR] TNT SPORTS 3 SD
-http://supersonictv.live:8080/174374/254715/85315
-#EXTINF:-1,[BR] TNT SPORTS 4 HD
-http://supersonictv.live:8080/174374/254715/85316
-#EXTINF:-1,[BR] TNT SPORTS 4 SD
-http://supersonictv.live:8080/174374/254715/85317
-#EXTINF:-1,[BR] TNT SPORTS 5 HD
-http://supersonictv.live:8080/174374/254715/85318
-#EXTINF:-1,[BR] TNT SPORTS 5 SD
-http://supersonictv.live:8080/174374/254715/85319
-#EXTINF:-1,[BR] TNT SPORTS 6 HD
-http://supersonictv.live:8080/174374/254715/85320
-#EXTINF:-1,[BR] TNT SPORTS 6 SD
-http://supersonictv.live:8080/174374/254715/85321
-#EXTINF:-1,[BR] TNT SPORTS 7 HD
-http://supersonictv.live:8080/174374/254715/85322
-#EXTINF:-1,[BR] TNT SPORTS 7 SD
-http://supersonictv.live:8080/174374/254715/85323
-#EXTINF:-1,[BR] TNT SPORTS 8 HD
-http://supersonictv.live:8080/174374/254715/85324
-#EXTINF:-1,[BR] TNT SPORTS 8 SD
-http://supersonictv.live:8080/174374/254715/85325
-#EXTINF:-1,[BR] Universal TV DUAL HD
-http://supersonictv.live:8080/174374/254715/85354
-#EXTINF:-1,[BR] VH1 HD
-http://supersonictv.live:8080/174374/254715/85355
-#EXTINF:-1,[BR] Warner Channel DUAL HD
-http://supersonictv.live:8080/174374/254715/85356
-#EXTINF:-1,[BR] Yeeaah HD
-http://supersonictv.live:8080/174374/254715/85357
-#EXTINF:-1,[BR] Zoom TV HD
-http://supersonictv.live:8080/174374/254715/85358
-#EXTINF:-1,[BR] ZooMoo HD
-http://supersonictv.live:8080/174374/254715/85359
-#EXTINF:-1,[BR] ZooMoo SD
-http://supersonictv.live:8080/174374/254715/85360
-
-#EXTINF:-1,BAND NEWS 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/482
-#EXTINF:-1,BAND NEWS HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/432
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1018
 #EXTINF:-1,JOVEM PAN NEWS 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/847
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/847
 #EXTINF:-1,JOVEM PAN NEWS HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/846
-#EXTINF:-1,CNN BRASIL 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/433
-#EXTINF:-1,CNN BRASIL HDR+
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1018
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/846
+#EXTINF:-1,BAND NEWS 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/482
+#EXTINF:-1,BAND NEWS HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/432
 #EXTINF:-1,A&E 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/225
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/225
 #EXTINF:-1,AMC 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/228
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/228
+#EXTINF:-1,AMC DUAL
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/790
 #EXTINF:-1,AMC HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/229
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/229
 #EXTINF:-1,AMC HDR+
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1020
-#EXTINF:-1,ANIMAL PLANET HDR+
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/994
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1020
 #EXTINF:-1,ANIMAL PLANET 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/61
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/61
+#EXTINF:-1,ANIMAL PLANET HDR+
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/994
 #EXTINF:-1,ARTE 1 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/231
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/231
 #EXTINF:-1,ARTE 1 HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/232
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/232
 #EXTINF:-1,AXN 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/233
-#EXTINF:-1,BR: BIS
-http://iptvtree.net:8080/romaniamedia/2a4dcdecbd/24621
-#EXTINF:-1,BIS 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/419
-#EXTINF:-1,BIS HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/420
-#EXTINF:-1,CINEMAX 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/239
-#EXTINF:-1,CINEMAX HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/240
-#EXTINF:-1,CNT HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/444
-#EXTINF:-1,COMBATE 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/122
-#EXTINF:-1,COMBATE HDR+
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1001
-#EXTINF:-1,COMBATE HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/123
-#EXTINF:-1,COMEDY CENTRAL 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/99
-#EXTINF:-1,COMEDY CENTRAL HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/98
-#EXTINF:-1,CURTA HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/100
-#EXTINF:-1,FILM & ARTS HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/242
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/233
+#EXTINF:-1,BABY TV 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/767
+#EXTINF:-1,BABY TV HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/342
 #EXTINF:-1,FOOD NETWORK 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/104
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/104
 #EXTINF:-1,FOOD NETWORK HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/105
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/105
 #EXTINF:-1,FUTURA 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/243
-#EXTINF:-1,HISTORY CHANNEL 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/83
-#EXTINF:-1,HISTORY CHANNEL HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/82
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/243
 #EXTINF:-1,H2 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/815
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/815
 #EXTINF:-1,H2 HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/81
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/81
+#EXTINF:-1,HISTORY CHANNEL 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/83
+#EXTINF:-1,HISTORY CHANNEL HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/82
+#EXTINF:-1,BIS 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/419
+#EXTINF:-1,BIS HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/420
+#EXTINF:-1,CANAL BRASIL 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/236
+#EXTINF:-1,CANAL BRASIL HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/237
+#EXTINF:-1,CINEMAX 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/239
+#EXTINF:-1,CINEMAX HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/240
+#EXTINF:-1,COMBATE 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/122
+#EXTINF:-1,COMBATE HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/123
+#EXTINF:-1,COMBATE HDR+
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1001
+#EXTINF:-1,COMEDY CENTRAL 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/99
+#EXTINF:-1,COMEDY CENTRAL HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/98
+#EXTINF:-1,CURTA HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/100
+#EXTINF:-1,DAZN 1
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/206
+#EXTINF:-1,DAZN 1 HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/821
+#EXTINF:-1,DAZN 2
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/205
+#EXTINF:-1,DAZN 2 HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/822
+#EXTINF:-1,DAZN 3 HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/823
+#EXTINF:-1,DAZN 4 HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/824
 #EXTINF:-1,DISCOVERY CHANNEL 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/65
-#EXTINF:-1,DISCOVERY H&H HDR+
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1021
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/65
 #EXTINF:-1,DISCOVERY H&H 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/67
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/67
 #EXTINF:-1,DISCOVERY H&H HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/68
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/68
+#EXTINF:-1,DISCOVERY H&H HDR+
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1021
 #EXTINF:-1,DISCOVERY ID 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/69
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/69
 #EXTINF:-1,DISCOVERY ID HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/70
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/70
+#EXTINF:-1,DISCOVERY KIDS 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/348
+#EXTINF:-1,DISCOVERY KIDS HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/349
 #EXTINF:-1,DISCOVERY SCIENCE 4k
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/71
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/71
 #EXTINF:-1,DISCOVERY SCIENCE HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/72
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/72
 #EXTINF:-1,DISCOVERY THEATER 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/73
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/73
 #EXTINF:-1,DISCOVERY THEATER HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/74
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/74
 #EXTINF:-1,DISCOVERY TURBO 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/75
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/75
+#EXTINF:-1,DISCOVERY TURBO HDR+
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1022
 #EXTINF:-1,DISCOVERY WORLD 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/77
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/77
 #EXTINF:-1,DISCOVERY WORLD HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/78
-#EXTINF:-1,DISNEY CHANNEL  4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/351
-#EXTINF:-1,DISNEY CHANNEL HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/352
-#EXTINF:-1,E! 2 HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/101
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/78
 #EXTINF:-1,E! 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/102
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/102
 #EXTINF:-1,E! HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/103
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/103
+#EXTINF:-1,E! 2 HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/101
+
 #EXTINF:-1,FASHION TV HD 
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/878
-#EXTINF:-1,FEC 01
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1168
-#EXTINF:-1,FEC 02
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1169
-#EXTINF:-1,FEC 03
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1170
-#EXTINF:-1,FEC 04
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1171
-#EXTINF:-1,FEC 05
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1172
-#EXTINF:-1,FEC 06
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1173
-#EXTINF:-1,FEC 07
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1174
-#EXTINF:-1,FEC 08
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1175
-#EXTINF:-1,FEC 09
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1176
-#EXTINF:-1,FEC 10
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1177
-#EXTINF:-1,FEC 11
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1178
-#EXTINF:-1,FEC 12
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1179
-#EXTINF:-1,FEC 13
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1180
-#EXTINF:-1,FEC 14
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1181
-#EXTINF:-1,FEC 15
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1182
-#EXTINF:-1,FEC 16
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1183
-#EXTINF:-1,FEC 17
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1184
-#EXTINF:-1,FEC 18
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1185
-#EXTINF:-1,FEC 19
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1186
-#EXTINF:-1,FEC 20
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1187
-#EXTINF:-1,HBO HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/255
-#EXTINF:-1,BR: HBO+
-http://iptvtree.net:8080/romaniamedia/2a4dcdecbd/8823
-#EXTINF:-1,BR: HBO Pop
-http://iptvtree.net:8080/romaniamedia/2a4dcdecbd/173434
-#EXTINF:-1,HBO HDR+
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1000
-#EXTINF:-1,HBO + 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/246
-#EXTINF:-1,HBO + HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/245
-#EXTINF:-1,BR: HBO 2
-http://iptvtree.net:8080/romaniamedia/2a4dcdecbd/8821
-#EXTINF:-1,HBO 2 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/247
-#EXTINF:-1,HBO 2 HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/248
-#EXTINF:-1,HBO 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/251
-#EXTINF:-1,BR: HBO Family
-http://iptvtree.net:8080/romaniamedia/2a4dcdecbd/8839
-#EXTINF:-1,HBO FAMILY 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/252
-#EXTINF:-1,HBO FAMILY HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/253
-#EXTINF:-1,HBO MAX 1 HD 
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/832
-#EXTINF:-1,HBO MAX 2 HD 
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/833
-#EXTINF:-1,HBO MAX 3 HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/834
-#EXTINF:-1,HBO MAX 4 HD 
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/835
-#EXTINF:-1,BR: HBO Mundi
-http://iptvtree.net:8080/romaniamedia/2a4dcdecbd/8837
-#EXTINF:-1,HBO MUNDI 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/256
-#EXTINF:-1,HBO MUNDI HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/257
-#EXTINF:-1,HBO PLUS 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/258
-#EXTINF:-1,HBO PLUS HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/259
-#EXTINF:-1,HBO POP 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/260
-#EXTINF:-1,HBO POP HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/261
-#EXTINF:-1,HBO SIGNATURE 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/264
-#EXTINF:-1,HBO SIGNATURE HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/262
-#EXTINF:-1,HBO XTREME 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/266
-#EXTINF:-1,HBO XTREME HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/267
-#EXTINF:-1,GNT 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/107
-#EXTINF:-1,HGTV 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/816
-#EXTINF:-1,HGTV HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/552
-#EXTINF:-1,LIFETIME HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/269
-#EXTINF:-1,MEGAPIX HDR+
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/998
-#EXTINF:-1,MEGAPIX 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/270
-#EXTINF:-1,MEGAPIX HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/271
-#EXTINF:-1,OFF 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/273
-#EXTINF:-1,OFF HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/274
-#EXTINF:-1,STAR CHANNEL 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/281
-#EXTINF:-1,STAR CHANNEL HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/282
-#EXTINF:-1,STAR+ 1 HD 
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/829
-#EXTINF:-1,STAR+ 2 HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/826
-#EXTINF:-1,STAR+ 3 HD 
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/827
-#EXTINF:-1,STAR+ 4 HD 
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/828
-#EXTINF:-1,STAR+ 5 HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1147
-#EXTINF:-1,STAR+ 6 HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1148
-#EXTINF:-1,STAR+ 7 HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1149
-#EXTINF:-1,STAR+ 8 HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1150
-#EXTINF:-1,STUDIO UNIVERSAL 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/289
-#EXTINF:-1,TBS 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/290
-#EXTINF:-1,TBS HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/291
-#EXTINF:-1,TCM HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/292
-#EXTINF:-1,TCM UHD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/293
-#EXTINF:-1,TELECINE ACTION HDR+
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1019
-#EXTINF:-1,TELECINE ACTION 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/294
-#EXTINF:-1,TELECINE ACTION HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/295
-#EXTINF:-1,TELECINE CULT 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/297
-#EXTINF:-1,TELECINE CULT HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/298
-#EXTINF:-1,TELECINE FUN 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/300
-#EXTINF:-1,TELECINE FUN HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/301
-#EXTINF:-1,TELECINE PIPOCA 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/303
-#EXTINF:-1,TELECINE PIPOCA HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/304
-#EXTINF:-1,TELECINE PIPOCA HDR+
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/996
-#EXTINF:-1,TELECINE PREMIUM HDR+
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/997
-#EXTINF:-1,TELECINE PREMIUM 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/306
-#EXTINF:-1,TELECINE PREMIUM HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/307
-#EXTINF:-1,TELECINE TOUCH 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/309
-#EXTINF:-1,TELECINE TOUCH HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/310
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/878
+#EXTINF:-1,FILM & ARTS HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/242
+#EXTINF:-1,FISH TV 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/79
+#EXTINF:-1,FISH TV HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/80
 #EXTINF:-1,FX HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/244
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/244
+#EXTINF:-1,GLOOB 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/357
+#EXTINF:-1,GLOOB HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/358
+#EXTINF:-1,GLOOBINHO 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/359
+#EXTINF:-1,GLOOBINHO HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/360
+#EXTINF:-1,GNT 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/107
+#EXTINF:-1,HBO + 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/246
+#EXTINF:-1,HBO + DUAL
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/795
+#EXTINF:-1,HBO + HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/245
+#EXTINF:-1,HBO 2 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/247
+#EXTINF:-1,HBO 2 DUAL
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/794
+#EXTINF:-1,HBO 2 HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/248
+#EXTINF:-1,HBO 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/251
+#EXTINF:-1,HBO DUAL
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/793
+#EXTINF:-1,HBO FAMILY 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/252
+#EXTINF:-1,HBO FAMILY DUAL
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/796
+#EXTINF:-1,HBO FAMILY HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/253
+#EXTINF:-1,HBO HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/255
+#EXTINF:-1,HBO HDR+
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1000
+#EXTINF:-1,HBO MAX 1 HD 
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/832
+#EXTINF:-1,HBO MAX 2 HD 
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/833
+#EXTINF:-1,HBO MAX 3 HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/834
+#EXTINF:-1,HBO MAX 4 HD 
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/835
+#EXTINF:-1,HBO MUNDI 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/256
+#EXTINF:-1,HBO MUNDI HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/257
+#EXTINF:-1,HBO PLUS 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/258
+#EXTINF:-1,HBO PLUS HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/259
+#EXTINF:-1,HBO POP 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/260
+#EXTINF:-1,HBO POP DUAL
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/798
+#EXTINF:-1,HBO POP HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/261
+#EXTINF:-1,HBO SIGNATURE 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/264
+#EXTINF:-1,HBO SIGNATURE HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/262
+#EXTINF:-1,HBO XTREME 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/266
+#EXTINF:-1,HBO XTREME HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/267
+#EXTINF:-1,HGTV 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/816
+#EXTINF:-1,HGTV HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/552
+#EXTINF:-1,HGTV HDR+
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1006
+#EXTINF:-1,LIFETIME HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/269
+#EXTINF:-1,MEGAPIX 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/270
+#EXTINF:-1,MEGAPIX HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/271
+#EXTINF:-1,MEGAPIX HDR+
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/998
+#EXTINF:-1,MODO VIAGEM 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/85
+#EXTINF:-1,MTV 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/112
+#EXTINF:-1,MTV HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/422
+#EXTINF:-1,MULTISHOW HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/423
+#EXTINF:-1,MUSIC BOX  4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/424
+#EXTINF:-1,NATIONAL GEOGRAPHIC 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/87
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/88
+#EXTINF:-1,OFF 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/273
+#EXTINF:-1,OFF HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/274
+#EXTINF:-1,PARAMOUNT CHANNEL 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/275
+#EXTINF:-1,PARAMOUNT HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/276
+#EXTINF:-1,PARAMOUNT+ 1 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1151
+#EXTINF:-1,PARAMOUNT+ 2 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1152
+#EXTINF:-1,PARAMOUNT+ 3 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1153
+#EXTINF:-1,PARAMOUNT+ 4 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1154
+#EXTINF:-1,PRIME BOX BRASIL HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/277
+#EXTINF:-1,SONY CHANNEL HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/238
+#EXTINF:-1,SPACE 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/278
+#EXTINF:-1,STAR CHANNEL 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/281
+#EXTINF:-1,STAR CHANNEL HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/282
+#EXTINF:-1,STAR+ 1 HD 
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/829
+#EXTINF:-1,STAR+ 2 HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/826
+#EXTINF:-1,STAR+ 3 HD 
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/827
+#EXTINF:-1,STAR+ 4 HD 
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/828
+#EXTINF:-1,STAR+ 5 HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1147
+#EXTINF:-1,STAR+ 6 HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1148
+#EXTINF:-1,STAR+ 7 HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1149
+#EXTINF:-1,STAR+ 8 HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1150
+#EXTINF:-1,STUDIO UNIVERSAL 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/289
+#EXTINF:-1,TBS 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/290
+#EXTINF:-1,TBS DUAL
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/791
+#EXTINF:-1,TBS HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/291
+#EXTINF:-1,TCM HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/292
+#EXTINF:-1,TCM UHD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/293
+#EXTINF:-1,TELECINE ACTION 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/294
+#EXTINF:-1,TELECINE ACTION DUAL
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/785
+#EXTINF:-1,TELECINE ACTION HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/295
+#EXTINF:-1,TELECINE ACTION HDR+
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1019
+#EXTINF:-1,TELECINE CULT 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/297
+#EXTINF:-1,TELECINE CULT HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/298
+#EXTINF:-1,TELECINE FUN 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/300
+#EXTINF:-1,TELECINE FUN DUAL
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/789
+#EXTINF:-1,TELECINE FUN HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/301
+#EXTINF:-1,TELECINE PIPOCA 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/303
+#EXTINF:-1,TELECINE PIPOCA DUAL
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/788
+#EXTINF:-1,TELECINE PIPOCA HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/304
+#EXTINF:-1,TELECINE PIPOCA HDR+
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/996
+#EXTINF:-1,TELECINE PREMIUM 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/306
+#EXTINF:-1,TELECINE PREMIUM DUAL
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/787
+#EXTINF:-1,TELECINE PREMIUM HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/307
+#EXTINF:-1,TELECINE PREMIUM HDR+
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/997
+#EXTINF:-1,TELECINE TOUCH 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/309
+#EXTINF:-1,TELECINE TOUCH DUAL
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/786
+#EXTINF:-1,TELECINE TOUCH HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/310
 #EXTINF:-1,TLC 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/91
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/91
 #EXTINF:-1,TLC HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/92
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/92
 #EXTINF:-1,TNT 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/312
-#EXTINF:-1,TNT HDR+
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1004
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/312
 #EXTINF:-1,TNT HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/313
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/313
+#EXTINF:-1,TNT HDR+
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1004
 #EXTINF:-1,TNT NOVELA 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1167
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1167
 #EXTINF:-1,TNT SERIES 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/314
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/314
 #EXTINF:-1,TRACE BRAZUCA HD 
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/969
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/969
 #EXTINF:-1,TRAVEL BOX BRASIL 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/848
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/848
 #EXTINF:-1,TRU TV HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/541
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/541
 #EXTINF:-1,UFC FIGHT PASS
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1121
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1121
 #EXTINF:-1,UFC PPV
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1122
-#EXTINF:-1,BR: Universal TV
-http://iptvtree.net:8080/romaniamedia/2a4dcdecbd/7422
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1122
+#EXTINF:-1,UNIVERSAL CHANNEL DUAL
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/792
 #EXTINF:-1,UNIVERSAL CHANNEL HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/319
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/319
+#EXTINF:-1,USA NETWORK 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/781
 #EXTINF:-1,VH1 HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/430
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/430
 #EXTINF:-1,VH1 MEGAHITS
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/431
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/431
 #EXTINF:-1,VIVA 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/114
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/114
 #EXTINF:-1,WARNER CHANNEL 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/783
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/783
 #EXTINF:-1,WARNER CHANNEL HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/320
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/320
 #EXTINF:-1,WOOHOO HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/117
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/117
+#EXTINF:-1,CINE SKY 1 
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/754
+#EXTINF:-1,CINE SKY 10 
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/764
+#EXTINF:-1,CINE SKY 11 
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/809
+#EXTINF:-1,CINE SKY 12 
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/810
+#EXTINF:-1,CINE SKY 13 
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/811
+#EXTINF:-1,CINE SKY 14 
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/812
+#EXTINF:-1,CINE SKY 15 
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/813
+#EXTINF:-1,CINE SKY 2
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/755
+#EXTINF:-1,CINE SKY 4 
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/757
+#EXTINF:-1,CINE SKY 6 
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/760
+#EXTINF:-1,CINE SKY 7 
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/761
+#EXTINF:-1,CINE SKY 9 
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/763
+#EXTINF:-1,XPLUS PIPOCA 01
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1037
+#EXTINF:-1,XPLUS PIPOCA 02
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1038
+#EXTINF:-1,XPLUS PIPOCA 03
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1039
+#EXTINF:-1,XPLUS PIPOCA 04
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1040
+#EXTINF:-1,XPLUS PIPOCA 05
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1041
+#EXTINF:-1,XPLUS PIPOCA 06
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1042
+#EXTINF:-1,XPLUS PIPOCA 07
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1043
+#EXTINF:-1,XPLUS PIPOCA 08
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1044
+#EXTINF:-1,XPLUS PIPOCA 09
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1045
+#EXTINF:-1,XPLUS PIPOCA 10
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1046
+#EXTINF:-1,ZOOMOO 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/370
+#EXTINF:-1,movie
+http://authxplus-2.xyz:2082/movie/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1083.mp4
+#EXTINF:-1,NICK JR 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/363
+#EXTINF:-1,NICK JR HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/364
+#EXTINF:-1,NICKELODEON 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/365
+#EXTINF:-1,NICKELODEON HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/768
+#EXTINF:-1,BEN 10
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/678
+#EXTINF:-1,CARTOON NETWORK 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/346
+#EXTINF:-1,CARTOON NETWORK HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/347
+#EXTINF:-1,CARTOON NETWORK HDR+
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1002
+#EXTINF:-1,CARTOONITO 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/344
+#EXTINF:-1,CARTOONITO HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/345
+#EXTINF:-1,BOB ESPONJA
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/679
+#EXTINF:-1,3 PALAVRINHAS
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/670
+#EXTINF:-1,A CASA DO MICKEY MOUSE
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/671
+#EXTINF:-1,A MANSAO FOSTER
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/674
+#EXTINF:-1,A RODA DO ONIBUS 
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/675
+#EXTINF:-1,CAVALEIROS DO ZODIACO
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/680
+#EXTINF:-1,CHAVES 
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/682
+#EXTINF:-1,DISNEY CHANNEL  4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/351
+#EXTINF:-1,DISNEY CHANNEL HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/352
 #EXTINF:-1,DISNEY+ 08
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1269
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1269
 #EXTINF:-1,DISNEY+ 07
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1270
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1270
 #EXTINF:-1,DISNEY+ 06
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1271
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1271
 #EXTINF:-1,DISNEY+ 05
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1272
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1272
 #EXTINF:-1,DISNEY+ 04
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1273
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1273
 #EXTINF:-1,DISNEY+ 03
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1274
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1274
 #EXTINF:-1,DISNEY+ 02
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1275
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1275
 #EXTINF:-1,DISNEY+ 01
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1276
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1276
+#EXTINF:-1,STREET FIGHTER 
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/727
+#EXTINF:-1,TODO MUNDO ODEIA O CRIS
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/732
+#EXTINF:-1,TOM & JERRY
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/733
+#EXTINF:-1,TIMAO E PUMBA
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/731
+#EXTINF:-1,DOG TV HD 
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/879
+#EXTINF:-1,DOIS HOMENS E MEIO 
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/683
+#EXTINF:-1,DRAGON BALL 
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/684
+#EXTINF:-1,DRAGON BALL SUPER 
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/686
+#EXTINF:-1,DRAGON BALL Z
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/687
+#EXTINF:-1,NARUTO
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/704
+#EXTINF:-1,LIGA DA JUSTIÇA 
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/701
+#EXTINF:-1,MASHA E O URSO 
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/702
+#EXTINF:-1,PEPPA PIG
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/713
+#EXTINF:-1,PEQUENA SEREIA 
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/714
+#EXTINF:-1,PERNALONGA
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/715
+#EXTINF:-1,PICA PAU
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/716
+#EXTINF:-1,PINK E CEREBRO
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/717
+#EXTINF:-1,PINTINHO AMARELINHO
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/718
+#EXTINF:-1,PJ MASKS
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/719
+#EXTINF:-1,PLAY TV
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/426
+#EXTINF:-1,POKEMON
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/720
+#EXTINF:-1,POPEYE
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/721
+#EXTINF:-1,ONE PIECE EAST BLUE
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/705
+#EXTINF:-1,OS FLINSTONES
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/706
+#EXTINF:-1,OS JETSON 
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/707
+#EXTINF:-1,OS PADRINHOS MAGICOS
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/708
+#EXTINF:-1,OS PATOS
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/709
+#EXTINF:-1,OS SIMPSONS
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/710
 
-#EXTINF:-1,[BR] A&E FHD
-http://supersonictv.live:8080/241973/495982/84935
-#EXTINF:-1,[BR] Animal Planet FHD
-http://supersonictv.live:8080/241973/495982/84936
-#EXTINF:-1,[BR] Arte 1 FHD
-http://supersonictv.live:8080/241973/495982/84937
-#EXTINF:-1,[BR] AXN FHD
-http://supersonictv.live:8080/241973/495982/84938
-#EXTINF:-1,[BR] Baby FHD
-http://supersonictv.live:8080/241973/495982/84939
-#EXTINF:-1,[BR] Band News FHD
-http://supersonictv.live:8080/241973/495982/84941
-#EXTINF:-1,[BR] Band Sports FHD
-http://supersonictv.live:8080/241973/495982/84942
-#EXTINF:-1,[BR] BIS FHD
-http://supersonictv.live:8080/241973/495982/84943
-#EXTINF:-1,[BR] Boomerang FHD
-http://supersonictv.live:8080/241973/495982/84944
-#EXTINF:-1,[BR] Canal Brasil FHD
-http://supersonictv.live:8080/241973/495982/84945
-#EXTINF:-1,[BR] Cartoon Network FHD
-http://supersonictv.live:8080/241973/495982/84946
-#EXTINF:-1,[BR] Chef TV FHD
-http://supersonictv.live:8080/241973/495982/84947
-#EXTINF:-1,[BR] Cinemax FHD
-http://supersonictv.live:8080/241973/495982/84948
-#EXTINF:-1,[BR] Cinemax HD
-http://supersonictv.live:8080/241973/495982/84949
-#EXTINF:-1,[BR] CNN Brasil FHD
-http://supersonictv.live:8080/241973/495982/84950
-#EXTINF:-1,[BR] CNN Espanhol HD
-http://supersonictv.live:8080/241973/495982/84951
-#EXTINF:-1,[BR] CNN Internacional FHD
-http://supersonictv.live:8080/241973/495982/84952
-#EXTINF:-1,[BR] Combate FHD
-http://supersonictv.live:8080/241973/495982/84953
-#EXTINF:-1,[BR] Comedy Central FHD
-http://supersonictv.live:8080/241973/495982/84954
+#EXTINF:-1,BAND SPORTS 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/120
+#EXTINF:-1,BAND SPORTS HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/121
+#EXTINF:-1,BEIN SPORTS 1
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/901
+#EXTINF:-1,BEIN SPORTS 2
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/902
+#EXTINF:-1,BEIN SPORTS 3
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/903
+#EXTINF:-1,BEIN SPORTS 4
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/904
+#EXTINF:-1,BEIN SPORTS 5 
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/905
+#EXTINF:-1,BEIN SPORTS 6 
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/906
+#EXTINF:-1,BEIN SPORTS 7
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/907
 
-#EXTINF:-1,[BR] Curta! FHD
-http://supersonictv.live:8080/241973/495982/84963
-#EXTINF:-1,[BR] Discovery Channel FHD
-http://supersonictv.live:8080/241973/495982/84966
-#EXTINF:-1,[BR] Discovery Home & Health FHD
-http://supersonictv.live:8080/241973/495982/84967
-#EXTINF:-1,[BR] Discovery ID FHD
-http://supersonictv.live:8080/241973/495982/84968
-#EXTINF:-1,[BR] Discovery Kids FHD
-http://supersonictv.live:8080/241973/495982/84969
-#EXTINF:-1,[BR] Discovery Science FHD
-http://supersonictv.live:8080/241973/495982/84970
-#EXTINF:-1,[BR] Discovery Theather FHD
-http://supersonictv.live:8080/241973/495982/84971
-#EXTINF:-1,[BR] Discovery Turbo FHD
-http://supersonictv.live:8080/241973/495982/84972
-#EXTINF:-1,[BR] Discovery World FHD
-http://supersonictv.live:8080/241973/495982/84973
-#EXTINF:-1,[BR] Disney Channel FHD
-http://supersonictv.live:8080/241973/495982/84974
-#EXTINF:-1,[BR] Disney JR FHD
-http://supersonictv.live:8080/241973/495982/84975
-#EXTINF:-1,[BR] Disney XD FHD
-http://supersonictv.live:8080/241973/495982/84976
-#EXTINF:-1,[BR] E! FHD
-http://supersonictv.live:8080/241973/495982/84977
-#EXTINF:-1,[BR] ESPN 2 FHD
-http://supersonictv.live:8080/241973/495982/84978
-#EXTINF:-1,[BR] ESPN Brasil FHD
-http://supersonictv.live:8080/241973/495982/84979
-#EXTINF:-1,[BR] ESPN Extra FHD
-http://supersonictv.live:8080/241973/495982/84980
-#EXTINF:-1,[BR] ESPN FHD
-http://supersonictv.live:8080/241973/495982/84981
-#EXTINF:-1,[BR] ESPORTE INTERATIVO *
-http://supersonictv.live:8080/241973/495982/84982
-#EXTINF:-1,[BR] Fish TV FHD
-http://supersonictv.live:8080/241973/495982/84983
-#EXTINF:-1,[BR] FlaTV TESTE
-http://supersonictv.live:8080/241973/495982/84984
-#EXTINF:-1,[BR] Food Network FHD
-http://supersonictv.live:8080/241973/495982/84985
-#EXTINF:-1,[BR] FOX FHD
-http://supersonictv.live:8080/241973/495982/84986
-#EXTINF:-1,[BR] Fox Life FHD
-http://supersonictv.live:8080/241973/495982/84987
-#EXTINF:-1,[BR] Fox News FHD
-http://supersonictv.live:8080/241973/495982/84988
-#EXTINF:-1,[BR] Fox Premium 1 FHD
-http://supersonictv.live:8080/241973/495982/84989
-#EXTINF:-1,[BR] Fox Premium 2 FHD
-http://supersonictv.live:8080/241973/495982/84990
-#EXTINF:-1,[BR] Fox Sport HD
-http://supersonictv.live:8080/241973/495982/84991
-#EXTINF:-1,[BR] Fox Sports 2 FHD
-http://supersonictv.live:8080/241973/495982/84992
-#EXTINF:-1,[BR] Fox Sports FHD
-http://supersonictv.live:8080/241973/495982/84993
-#EXTINF:-1,[BR] Fox Sports SD
-http://supersonictv.live:8080/241973/495982/84994
-#EXTINF:-1,[BR] FX FHD
-http://supersonictv.live:8080/241973/495982/84995
-#EXTINF:-1,[BR] Gloob FHD
-http://supersonictv.live:8080/241973/495982/85030
-#EXTINF:-1,[BR] Gloobinho FHD
-http://supersonictv.live:8080/241973/495982/85031
-#EXTINF:-1,[BR] GNT FHD
-http://supersonictv.live:8080/241973/495982/85032
-#EXTINF:-1,[BR] H2 FHD
-http://supersonictv.live:8080/241973/495982/85033
-#EXTINF:-1,[BR] HBO 2 FHD
-http://supersonictv.live:8080/241973/495982/85034
-#EXTINF:-1,[BR] HBO Family FHD
-http://supersonictv.live:8080/241973/495982/85035
-#EXTINF:-1,[BR] HBO FHD
-http://supersonictv.live:8080/241973/495982/85036
-#EXTINF:-1,[BR] HBO Mundi FHD
-http://supersonictv.live:8080/241973/495982/85037
-#EXTINF:-1,[BR] HBO Plus FHD
-http://supersonictv.live:8080/241973/495982/85038
-#EXTINF:-1,[BR] HBO Pop FHD
-http://supersonictv.live:8080/241973/495982/85039
-#EXTINF:-1,[BR] HBO Signature FHD
-http://supersonictv.live:8080/241973/495982/85040
-#EXTINF:-1,[BR] HBO Xtreme FHD
-http://supersonictv.live:8080/241973/495982/85041
-#EXTINF:-1,[BR] HGTV FHD
-http://supersonictv.live:8080/241973/495982/85042
-#EXTINF:-1,[BR] i SAT FHD
-http://supersonictv.live:8080/241973/495982/85043
-#EXTINF:-1,[BR] Inter TV dos Vales FHD
-http://supersonictv.live:8080/241973/495982/85044
-#EXTINF:-1,[BR] Lifetime FHD
-http://supersonictv.live:8080/241973/495982/85045
-#EXTINF:-1,[BR] Mais Globosat FHD
-http://supersonictv.live:8080/241973/495982/85046
-#EXTINF:-1,[BR] Megapix FHD
-http://supersonictv.live:8080/241973/495982/85047
-#EXTINF:-1,[BR] MTV FHD
-http://supersonictv.live:8080/241973/495982/85048
-#EXTINF:-1,[BR] MTV HD
-http://supersonictv.live:8080/241973/495982/85049
-#EXTINF:-1,[BR] Multishow FHD
-http://supersonictv.live:8080/241973/495982/85050
-#EXTINF:-1,[BR] Music Box Brasil FHD
-http://supersonictv.live:8080/241973/495982/85051
-#EXTINF:-1,[BR] Natgeo FHD
-http://supersonictv.live:8080/241973/495982/85052
-#EXTINF:-1,[BR] Natgeo Kids FHD
-http://supersonictv.live:8080/241973/495982/85053
-#EXTINF:-1,[BR] Natgeo Wild FHD
-http://supersonictv.live:8080/241973/495982/85054
-#EXTINF:-1,[BR] Nick FHD
-http://supersonictv.live:8080/241973/495982/85055
-#EXTINF:-1,[BR] Nick JR FHD
-http://supersonictv.live:8080/241973/495982/85056
-#EXTINF:-1,[BR] NSC TV Blumenau FHD
-http://supersonictv.live:8080/241973/495982/85057
-#EXTINF:-1,[BR] OFF FHD
-http://supersonictv.live:8080/241973/495982/85058
-#EXTINF:-1,[BR] Paramount Channel FHD
-http://supersonictv.live:8080/241973/495982/85059
-#EXTINF:-1,[BR] Play Kids HD
-http://supersonictv.live:8080/241973/495982/85060
-#EXTINF:-1,[BR] Play TV FHD
-http://supersonictv.live:8080/241973/495982/85061
-#EXTINF:-1,[BR] Premiere 2 FHD
-http://supersonictv.live:8080/241973/495982/85062
-#EXTINF:-1,[BR] Premiere 3 FHD
-http://supersonictv.live:8080/241973/495982/85063
-#EXTINF:-1,[BR] Premiere 4 FHD
-http://supersonictv.live:8080/241973/495982/85064
-#EXTINF:-1,[BR] Premiere 5 FHD
-http://supersonictv.live:8080/241973/495982/85065
-#EXTINF:-1,[BR] Premiere 6 FHD
-http://supersonictv.live:8080/241973/495982/85066
-#EXTINF:-1,[BR] Premiere 7 FHD
-http://supersonictv.live:8080/241973/495982/85067
-#EXTINF:-1,[BR] Premiere Clubes FHD
-http://supersonictv.live:8080/241973/495982/85068
-#EXTINF:-1,[BR] Prime Box Brasil FHD
-http://supersonictv.live:8080/241973/495982/85069
-#EXTINF:-1,[BR] Sony FHD
-http://supersonictv.live:8080/241973/495982/85091
-#EXTINF:-1,[BR] Space FHD
-http://supersonictv.live:8080/241973/495982/85092
-#EXTINF:-1,[BR] SporTV 2 FHD
-http://supersonictv.live:8080/241973/495982/85093
-#EXTINF:-1,[BR] SporTV 3 FHD
-http://supersonictv.live:8080/241973/495982/85094
-#EXTINF:-1,[BR] SporTV FHD
-http://supersonictv.live:8080/241973/495982/85095
-#EXTINF:-1,[BR] Studio Universal FHD
-http://supersonictv.live:8080/241973/495982/85096
-#EXTINF:-1,[BR] SYFY FHD
-http://supersonictv.live:8080/241973/495982/85097
-#EXTINF:-1,[BR] TBS FHD
-http://supersonictv.live:8080/241973/495982/85098
-#EXTINF:-1,[BR] TC ACTION FHD
-http://supersonictv.live:8080/241973/495982/85099
-#EXTINF:-1,[BR] TC Cult FHD
-http://supersonictv.live:8080/241973/495982/85100
-#EXTINF:-1,[BR] TC Fun FHD
-http://supersonictv.live:8080/241973/495982/85101
-#EXTINF:-1,[BR] TC Pipoca FHD
-http://supersonictv.live:8080/241973/495982/85102
-#EXTINF:-1,[BR] TC Premium FHD
-http://supersonictv.live:8080/241973/495982/85103
-#EXTINF:-1,[BR] TC Touch FHD
-http://supersonictv.live:8080/241973/495982/85104
-#EXTINF:-1,[BR] TCM FHD
-http://supersonictv.live:8080/241973/495982/85105
-#EXTINF:-1,[BR] The History FHD
-http://supersonictv.live:8080/241973/495982/85106
-#EXTINF:-1,[BR] TLC FHD
-http://supersonictv.live:8080/241973/495982/85107
-#EXTINF:-1,[BR] TNT FHD
-http://supersonictv.live:8080/241973/495982/85108
-#EXTINF:-1,[BR] TNT Series FHD
-http://supersonictv.live:8080/241973/495982/85109
-#EXTINF:-1,[BR] Universal Channel FHD
-http://supersonictv.live:8080/241973/495982/85119
-#EXTINF:-1,[BR] VH1 Mega Hits FHD
-http://supersonictv.live:8080/241973/495982/85120
-#EXTINF:-1,[BR] Viva FHD
-http://supersonictv.live:8080/241973/495982/85121
-#EXTINF:-1,[BR] Warner Channel FHD
-http://supersonictv.live:8080/241973/495982/85122
-#EXTINF:-1,[BR] Wohoo FHD
-http://supersonictv.live:8080/241973/495982/85123
-#EXTINF:-1,[BR] AMC FHD
-http://supersonictv.live:8080/241973/495982/85125
-#EXTINF:-1,[BR] CGTN
-http://supersonictv.live:8080/241973/495982/85162
-#EXTINF:-1,[BR] CNT FHD
-http://supersonictv.live:8080/241973/495982/85163
-#EXTINF:-1,[BR] COM Brasil TV FHD
-http://supersonictv.live:8080/241973/495982/85164
-#EXTINF:-1,[BR] COMBATE 4K
-http://supersonictv.live:8080/241973/495982/85165
-#EXTINF:-1,[BR] Conmebol 1 HD
-http://supersonictv.live:8080/241973/495982/85166
-#EXTINF:-1,[BR] Conmebol 2 HD
-http://supersonictv.live:8080/241973/495982/85167
-#EXTINF:-1,[BR] Conmebol 4K
-http://supersonictv.live:8080/241973/495982/85168
-#EXTINF:-1,[BR] Conmebol 5 HD
-http://supersonictv.live:8080/241973/495982/85169
-#EXTINF:-1,[BR] Conmebol 6 HD
-http://supersonictv.live:8080/241973/495982/85170
-#EXTINF:-1,[BR] Dog TV FHD
-http://supersonictv.live:8080/241973/495982/85171
-#EXTINF:-1,[BR] ESPORTE INTERATIVO 5 HD
-http://supersonictv.live:8080/241973/495982/85172
-#EXTINF:-1,[BR] ESPORTE INTERATIVO 6 HD
-http://supersonictv.live:8080/241973/495982/85173
-#EXTINF:-1,[BR] ESPORTE INTERATIVO 7 HD
-http://supersonictv.live:8080/241973/495982/85174
-#EXTINF:-1,[BR] ESPORTE INTERATIVO 8 HD
-http://supersonictv.live:8080/241973/495982/85175
-#EXTINF:-1,[BR] ESPORTE INTERATIVO 9 HD
-http://supersonictv.live:8080/241973/495982/85176
-#EXTINF:-1,[BR] ESPORTE INTERATIVO 10 HD
-http://supersonictv.live:8080/241973/495982/85177
-#EXTINF:-1,[BR] ESPN Brasil 4K
-http://supersonictv.live:8080/241973/495982/85178
+#EXTINF:-1,ESPN  4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/130
+#EXTINF:-1,ESPN  HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/131
+#EXTINF:-1,ESPN 2 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/129
+#EXTINF:-1,ESPN 2 HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/135
+#EXTINF:-1,ESPN 3 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/127
+#EXTINF:-1,ESPN 3 HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/126
+#EXTINF:-1,ESPN 3 HDR+
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/995
+#EXTINF:-1,ESPN 4 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/142
+#EXTINF:-1,ESPN 4 HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/143
+#EXTINF:-1,ESPN 4 HDR
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/899
+#EXTINF:-1,ESPN 4 HDR+
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1007
+#EXTINF:-1,ESPN 6 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/133
+#EXTINF:-1,ESPN 6 HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/134
+#EXTINF:-1,ESPN 6 HDR+
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1005
+#EXTINF:-1,ESPN 5 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/139
+#EXTINF:-1,ESPN 5 HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/140
+#EXTINF:-1,ESPN 5 HDR+
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1008
 
-#EXTINF:-1,[BR] FOX SPORTS 2 4K
-http://supersonictv.live:8080/241973/495982/85181
-#EXTINF:-1,[BR] Fox Sports 4K
-http://supersonictv.live:8080/241973/495982/85182
 
-#EXTINF:-1,[BR] HBO 2 DUAL FHD
-http://supersonictv.live:8080/241973/495982/85211
-#EXTINF:-1,[BR] HBO 2 DUAL HD
-http://supersonictv.live:8080/241973/495982/85212
-#EXTINF:-1,[BR] HBO 4K
-http://supersonictv.live:8080/241973/495982/85213
-#EXTINF:-1,[BR] HBO DUAL FHD
-http://supersonictv.live:8080/241973/495982/85214
-#EXTINF:-1,[BR] HBO DUAL HD
-http://supersonictv.live:8080/241973/495982/85215
-#EXTINF:-1,[BR] HBO Family DUAL FHD
-http://supersonictv.live:8080/241973/495982/85216
-#EXTINF:-1,[BR] HBO Family DUAL HD
-http://supersonictv.live:8080/241973/495982/85217
-#EXTINF:-1,[BR] HBO Mundi DUAL FHD
-http://supersonictv.live:8080/241973/495982/85218
-#EXTINF:-1,[BR] HBO Mundi DUAL HD
-http://supersonictv.live:8080/241973/495982/85219
-#EXTINF:-1,[BR] HBO Pop DUAL HD
-http://supersonictv.live:8080/241973/495982/85220
-#EXTINF:-1,[BR] HBO XTREME 4K
-http://supersonictv.live:8080/241973/495982/85221
-#EXTINF:-1,[BR] HBO Xtreme DUAL FHD
-http://supersonictv.live:8080/241973/495982/85222
-#EXTINF:-1,[BR] HBO Xtreme DUAL HD
-http://supersonictv.live:8080/241973/495982/85223
-
-#EXTINF:-1,[BR] ITV HD
-http://supersonictv.live:8080/241973/495982/85227
-#EXTINF:-1,[BR] Jovem Pan News FHD
-http://supersonictv.live:8080/241973/495982/85228
-#EXTINF:-1,[BR] KPOP TV SY HD
-http://supersonictv.live:8080/241973/495982/85229
-#EXTINF:-1,[BR] Loading TV FHD
-http://supersonictv.live:8080/241973/495982/85230
-#EXTINF:-1,[BR] Master TV HD
-http://supersonictv.live:8080/241973/495982/85231
-#EXTINF:-1,[BR] MEGAPIX 4K
-http://supersonictv.live:8080/241973/495982/85232
-#EXTINF:-1,[BR] MULTISHOW 4K
-http://supersonictv.live:8080/241973/495982/85233
-#EXTINF:-1,[BR] Music Top HD
-http://supersonictv.live:8080/241973/495982/85234
-#EXTINF:-1,[BR] NATGEO 4K
-http://supersonictv.live:8080/241973/495982/85235
-#EXTINF:-1,[BR] NHK Japan
-http://supersonictv.live:8080/241973/495982/85236
-#EXTINF:-1,[BR] Polishop FHD
-http://supersonictv.live:8080/241973/495982/85239
-#EXTINF:-1,[BR] PREMIERE CLUBES 4K
-http://supersonictv.live:8080/241973/495982/85240
-
-#EXTINF:-1,[BR] Space 4K
-http://supersonictv.live:8080/241973/495982/85282
-#EXTINF:-1,[BR] SPORTV 4K
-http://supersonictv.live:8080/241973/495982/85283
-#EXTINF:-1,[BR] STAR CHANNEL 4K
-http://supersonictv.live:8080/241973/495982/85284
-#EXTINF:-1,[BR] Star DUAL HD
-http://supersonictv.live:8080/241973/495982/85285
-#EXTINF:-1,[BR] Studio Universal DUAL HD
-http://supersonictv.live:8080/241973/495982/85286
-#EXTINF:-1,[BR] Summer TV HD
-http://supersonictv.live:8080/241973/495982/85287
-#EXTINF:-1,[BR] Taormina TV HD
-http://supersonictv.live:8080/241973/495982/85288
-#EXTINF:-1,[BR] TC Action DUAL FHD
-http://supersonictv.live:8080/241973/495982/85289
-#EXTINF:-1,[BR] TC Action DUAL HD
-http://supersonictv.live:8080/241973/495982/85290
-#EXTINF:-1,[BR] TC Cult DUAL FHD
-http://supersonictv.live:8080/241973/495982/85291
-#EXTINF:-1,[BR] TC Cult DUAL HD
-http://supersonictv.live:8080/241973/495982/85292
-#EXTINF:-1,[BR] TC Fun DUAL FHD
-http://supersonictv.live:8080/241973/495982/85293
-#EXTINF:-1,[BR] TC Fun DUAL HD
-http://supersonictv.live:8080/241973/495982/85294
-#EXTINF:-1,[BR] TC Pipoca DUAL FHD
-http://supersonictv.live:8080/241973/495982/85295
-#EXTINF:-1,[BR] TC Pipoca DUAL HD
-http://supersonictv.live:8080/241973/495982/85296
-#EXTINF:-1,[BR] TC Premium DUAL FHD
-http://supersonictv.live:8080/241973/495982/85297
-#EXTINF:-1,[BR] TC Premium DUAL HD
-http://supersonictv.live:8080/241973/495982/85298
-#EXTINF:-1,[BR] TC Touch DUAL FHD
-http://supersonictv.live:8080/241973/495982/85299
-#EXTINF:-1,[BR] TC Touch DUAL HD
-http://supersonictv.live:8080/241973/495982/85300
-#EXTINF:-1,[BR] TELECINE PREMIUM 4K
-http://supersonictv.live:8080/241973/495982/85301
-#EXTINF:-1,[BR] Terra Viva FHD
-http://supersonictv.live:8080/241973/495982/85302
-#EXTINF:-1,[BR] Terra Viva HD
-http://supersonictv.live:8080/241973/495982/85303
-#EXTINF:-1,[BR] The KPOP FHD
-http://supersonictv.live:8080/241973/495982/85304
-#EXTINF:-1,[BR] TNT 4K
-http://supersonictv.live:8080/241973/495982/85305
-#EXTINF:-1,[BR] TNT DUAL FHD
-http://supersonictv.live:8080/241973/495982/85306
-#EXTINF:-1,[BR] TNT DUAL HD
-http://supersonictv.live:8080/241973/495982/85307
-#EXTINF:-1,[BR] TNT SÉRIES 4K
-http://supersonictv.live:8080/241973/495982/85308
-#EXTINF:-1,[BR] TNT Series DUAL HD
-http://supersonictv.live:8080/241973/495982/85309
-#EXTINF:-1,[BR] TNT SPORTS 1 HD
-http://supersonictv.live:8080/241973/495982/85310
-#EXTINF:-1,[BR] TNT SPORTS 1 SD
-http://supersonictv.live:8080/241973/495982/85311
-#EXTINF:-1,[BR] TNT SPORTS 2 HD
-http://supersonictv.live:8080/241973/495982/85312
-#EXTINF:-1,[BR] TNT SPORTS 2 SD
-http://supersonictv.live:8080/241973/495982/85313
-#EXTINF:-1,[BR] TNT SPORTS 3 HD
-http://supersonictv.live:8080/241973/495982/85314
-#EXTINF:-1,[BR] TNT SPORTS 3 SD
-http://supersonictv.live:8080/241973/495982/85315
-#EXTINF:-1,[BR] TNT SPORTS 4 HD
-http://supersonictv.live:8080/241973/495982/85316
-#EXTINF:-1,[BR] TNT SPORTS 4 SD
-http://supersonictv.live:8080/241973/495982/85317
-#EXTINF:-1,[BR] TNT SPORTS 5 HD
-http://supersonictv.live:8080/241973/495982/85318
-#EXTINF:-1,[BR] TNT SPORTS 5 SD
-http://supersonictv.live:8080/241973/495982/85319
-#EXTINF:-1,[BR] TNT SPORTS 6 HD
-http://supersonictv.live:8080/241973/495982/85320
-#EXTINF:-1,[BR] TNT SPORTS 6 SD
-http://supersonictv.live:8080/241973/495982/85321
-#EXTINF:-1,[BR] TNT SPORTS 7 HD
-http://supersonictv.live:8080/241973/495982/85322
-#EXTINF:-1,[BR] TNT SPORTS 7 SD
-http://supersonictv.live:8080/241973/495982/85323
-#EXTINF:-1,[BR] TNT SPORTS 8 HD
-http://supersonictv.live:8080/241973/495982/85324
-#EXTINF:-1,[BR] TNT SPORTS 8 SD
-http://supersonictv.live:8080/241973/495982/85325
-#EXTINF:-1,[BR] Travel Box FHD
-http://supersonictv.live:8080/241973/495982/85326
-
-#EXTINF:-1,[BR] TV das Artes
-http://supersonictv.live:8080/241973/495982/85335
-#EXTINF:-1,[BR] TV Envangelizar
-http://supersonictv.live:8080/241973/495982/85336
-#EXTINF:-1,[BR] TV Escola FHD
-http://supersonictv.live:8080/241973/495982/85337
-#EXTINF:-1,[BR] TV Escola HD
-http://supersonictv.live:8080/241973/495982/85338
-
-#EXTINF:-1,[BR] Universal TV DUAL HD
-http://supersonictv.live:8080/241973/495982/85354
-#EXTINF:-1,[BR] VH1 HD
-http://supersonictv.live:8080/241973/495982/85355
-#EXTINF:-1,[BR] Warner Channel DUAL HD
-http://supersonictv.live:8080/241973/495982/85356
-#EXTINF:-1,[BR] Yeeaah HD
-http://supersonictv.live:8080/241973/495982/85357
-#EXTINF:-1,[BR] Zoom TV HD
-http://supersonictv.live:8080/241973/495982/85358
-#EXTINF:-1,[BR] ZooMoo HD
-http://supersonictv.live:8080/241973/495982/85359
-#EXTINF:-1,[BR] ZooMoo SD
-http://supersonictv.live:8080/241973/495982/85360
-
-#EXTINF:-1,[BR] A&E FHD
-http://supersonictv.live:8080/247340/764085/84935
-#EXTINF:-1,[BR] Animal Planet FHD
-http://supersonictv.live:8080/247340/764085/84936
-#EXTINF:-1,[BR] Arte 1 FHD
-http://supersonictv.live:8080/247340/764085/84937
-#EXTINF:-1,[BR] AXN FHD
-http://supersonictv.live:8080/247340/764085/84938
-#EXTINF:-1,[BR] Baby FHD
-http://supersonictv.live:8080/247340/764085/84939
-#EXTINF:-1,[BR] Band FHD
-http://supersonictv.live:8080/247340/764085/84940
-#EXTINF:-1,[BR] Band News FHD
-http://supersonictv.live:8080/247340/764085/84941
-#EXTINF:-1,[BR] Band Sports FHD
-http://supersonictv.live:8080/247340/764085/84942
-#EXTINF:-1,[BR] BIS FHD
-http://supersonictv.live:8080/247340/764085/84943
-#EXTINF:-1,[BR] Boomerang FHD
-http://supersonictv.live:8080/247340/764085/84944
-#EXTINF:-1,[BR] Canal Brasil FHD
-http://supersonictv.live:8080/247340/764085/84945
-#EXTINF:-1,[BR] Cartoon Network FHD
-http://supersonictv.live:8080/247340/764085/84946
-#EXTINF:-1,[BR] Chef TV FHD
-http://supersonictv.live:8080/247340/764085/84947
-#EXTINF:-1,[BR] Cinemax FHD
-http://supersonictv.live:8080/247340/764085/84948
-#EXTINF:-1,[BR] Cinemax HD
-http://supersonictv.live:8080/247340/764085/84949
-#EXTINF:-1,[BR] CNN Brasil FHD
-http://supersonictv.live:8080/247340/764085/84950
-#EXTINF:-1,[BR] CNN Espanhol HD
-http://supersonictv.live:8080/247340/764085/84951
-#EXTINF:-1,[BR] CNN Internacional FHD
-http://supersonictv.live:8080/247340/764085/84952
-#EXTINF:-1,[BR] Combate FHD
-http://supersonictv.live:8080/247340/764085/84953
-#EXTINF:-1,[BR] Comedy Central FHD
-http://supersonictv.live:8080/247340/764085/84954
-#EXTINF:-1,[BR] COPA CATARINENSE *
-http://supersonictv.live:8080/247340/764085/84955
-#EXTINF:-1,[BR] COPA CATARINENSE 2 *
-http://supersonictv.live:8080/247340/764085/84956
-#EXTINF:-1,[BR] COPA CATARINENSE 2 HD *
-http://supersonictv.live:8080/247340/764085/84957
-#EXTINF:-1,[BR] COPA CATARINENSE HD *
-http://supersonictv.live:8080/247340/764085/84958
-#EXTINF:-1,[BR] COPA DO NORDESTE *
-http://supersonictv.live:8080/247340/764085/84959
-#EXTINF:-1,[BR] COPA DO NORDESTE 2 *
-http://supersonictv.live:8080/247340/764085/84960
-#EXTINF:-1,[BR] COPA DO NORDESTE 2 HD *
-http://supersonictv.live:8080/247340/764085/84961
-#EXTINF:-1,[BR] COPA DO NORDESTE HD *
-http://supersonictv.live:8080/247340/764085/84962
-#EXTINF:-1,[BR] Curta! FHD
-http://supersonictv.live:8080/247340/764085/84963
-#EXTINF:-1,[BR] Discovery Channel FHD
-http://supersonictv.live:8080/247340/764085/84966
-#EXTINF:-1,[BR] Discovery Home & Health FHD
-http://supersonictv.live:8080/247340/764085/84967
-#EXTINF:-1,[BR] Discovery ID FHD
-http://supersonictv.live:8080/247340/764085/84968
-#EXTINF:-1,[BR] Discovery Kids FHD
-http://supersonictv.live:8080/247340/764085/84969
-#EXTINF:-1,[BR] Discovery Science FHD
-http://supersonictv.live:8080/247340/764085/84970
-#EXTINF:-1,[BR] Discovery Theather FHD
-http://supersonictv.live:8080/247340/764085/84971
-#EXTINF:-1,[BR] Discovery Turbo FHD
-http://supersonictv.live:8080/247340/764085/84972
-#EXTINF:-1,[BR] Discovery World FHD
-http://supersonictv.live:8080/247340/764085/84973
-#EXTINF:-1,[BR] Disney Channel FHD
-http://supersonictv.live:8080/247340/764085/84974
-#EXTINF:-1,[BR] Disney JR FHD
-http://supersonictv.live:8080/247340/764085/84975
-#EXTINF:-1,[BR] Disney XD FHD
-http://supersonictv.live:8080/247340/764085/84976
-#EXTINF:-1,[BR] E! FHD
-http://supersonictv.live:8080/247340/764085/84977
-#EXTINF:-1,[BR] ESPN 2 FHD
-http://supersonictv.live:8080/247340/764085/84978
-#EXTINF:-1,[BR] ESPN Brasil FHD
-http://supersonictv.live:8080/247340/764085/84979
-#EXTINF:-1,[BR] ESPN Extra FHD
-http://supersonictv.live:8080/247340/764085/84980
-#EXTINF:-1,[BR] ESPN FHD
-http://supersonictv.live:8080/247340/764085/84981
-#EXTINF:-1,[BR] ESPORTE INTERATIVO *
-http://supersonictv.live:8080/247340/764085/84982
-#EXTINF:-1,[BR] Fish TV FHD
-http://supersonictv.live:8080/247340/764085/84983
-#EXTINF:-1,[BR] FlaTV TESTE
-http://supersonictv.live:8080/247340/764085/84984
-#EXTINF:-1,[BR] Food Network FHD
-http://supersonictv.live:8080/247340/764085/84985
-#EXTINF:-1,[BR] FOX FHD
-http://supersonictv.live:8080/247340/764085/84986
-#EXTINF:-1,[BR] Fox Life FHD
-http://supersonictv.live:8080/247340/764085/84987
-#EXTINF:-1,[BR] Fox News FHD
-http://supersonictv.live:8080/247340/764085/84988
-#EXTINF:-1,[BR] Fox Premium 1 FHD
-http://supersonictv.live:8080/247340/764085/84989
-#EXTINF:-1,[BR] Fox Premium 2 FHD
-http://supersonictv.live:8080/247340/764085/84990
-#EXTINF:-1,[BR] Fox Sport HD
-http://supersonictv.live:8080/247340/764085/84991
-#EXTINF:-1,[BR] Fox Sports 2 FHD
-http://supersonictv.live:8080/247340/764085/84992
-#EXTINF:-1,[BR] Fox Sports FHD
-http://supersonictv.live:8080/247340/764085/84993
-#EXTINF:-1,[BR] Fox Sports SD
-http://supersonictv.live:8080/247340/764085/84994
-#EXTINF:-1,[BR] FX FHD
-http://supersonictv.live:8080/247340/764085/84995
-#EXTINF:-1,[BR] Globo TV Brasilia HD
-http://supersonictv.live:8080/247340/764085/84996
-#EXTINF:-1,[BR] Globo Centro America FHD
-http://supersonictv.live:8080/247340/764085/84997
-#EXTINF:-1,[BR] Globo EPTV Campinas FHD
-http://supersonictv.live:8080/247340/764085/84998
-#EXTINF:-1,[BR] GLOBO EPTV CAMPINAS SD#
-http://supersonictv.live:8080/247340/764085/84999
-#EXTINF:-1,[BR] GLOBO EPTV RIBEIRÃƒO PRETO SD#
-http://supersonictv.live:8080/247340/764085/85000
-#EXTINF:-1,[BR] Globo EPTV Sul de Minas FHD
-http://supersonictv.live:8080/247340/764085/85001
-#EXTINF:-1,[BR] GLOBO INTER TV CABUGI SD#
-http://supersonictv.live:8080/247340/764085/85002
-#EXTINF:-1,[BR] Globo Inter TV Grande Minas FHD
-http://supersonictv.live:8080/247340/764085/85003
-#EXTINF:-1,[BR] Globo Minas FHD
-http://supersonictv.live:8080/247340/764085/85004
-#EXTINF:-1,[BR] Globo News FHD
-http://supersonictv.live:8080/247340/764085/85005
-#EXTINF:-1,[BR] Globo Nordeste FHD
-http://supersonictv.live:8080/247340/764085/85006
-#EXTINF:-1,[BR] Globo NSC Florianopolis FHD
-http://supersonictv.live:8080/247340/764085/85007
-#EXTINF:-1,[BR] GLOBO RBS PORTO ALEGRE SD#
-http://supersonictv.live:8080/247340/764085/85008
-#EXTINF:-1,[BR] GLOBO RBS TV POA FHD
-http://supersonictv.live:8080/247340/764085/85009
-#EXTINF:-1,[BR] GLOBO REDE AMAZÃ”NICA MANAUS SD#
-http://supersonictv.live:8080/247340/764085/85010
-#EXTINF:-1,[BR] GLOBO RIO HD#
-http://supersonictv.live:8080/247340/764085/85011
-#EXTINF:-1,[BR] Globo RJ FHD
-http://supersonictv.live:8080/247340/764085/85012
-#EXTINF:-1,[BR] Globo RPC Curitiba FHD
-http://supersonictv.live:8080/247340/764085/85013
-#EXTINF:-1,[BR] Globo RPC Foz do Iguaçu FHD
-http://supersonictv.live:8080/247340/764085/85014
-#EXTINF:-1,[BR] GLOBO SP FHD
-http://supersonictv.live:8080/247340/764085/85015
-#EXTINF:-1,[BR] Globo TV Anhanguera  SD
-http://supersonictv.live:8080/247340/764085/85016
-#EXTINF:-1,[BR] GLOBO TV ANHANGUERA GOIÃ‚NIA SD#
-http://supersonictv.live:8080/247340/764085/85017
-#EXTINF:-1,[BR] Globo TV Bahia FHD
-http://supersonictv.live:8080/247340/764085/85018
-#EXTINF:-1,[BR] Globo TV Belem FHD
-http://supersonictv.live:8080/247340/764085/85019
-#EXTINF:-1,[BR] Globo TV Brasilia FHD
-http://supersonictv.live:8080/247340/764085/85020
-#EXTINF:-1,[BR] GLOBO TV LIBERAL BELEM SD#
-http://supersonictv.live:8080/247340/764085/85021
-#EXTINF:-1,[BR] Globo TV Mirante FHD
-http://supersonictv.live:8080/247340/764085/85022
-#EXTINF:-1,[BR] Globo TV Morena FHD
-http://supersonictv.live:8080/247340/764085/85023
-#EXTINF:-1,[BR] GLOBO TV TEM BAURU SD#
-http://supersonictv.live:8080/247340/764085/85024
-#EXTINF:-1,[BR] GLOBO TV TEM SOROCABA SD#
-http://supersonictv.live:8080/247340/764085/85025
-#EXTINF:-1,[BR] GLOBO TV TRIBUNA SANTOS SD#
-http://supersonictv.live:8080/247340/764085/85026
-#EXTINF:-1,[BR] GLOBO TV VANGUARDA SÃƒO JOSÃ‰ DOS CAMPOS SD#
-http://supersonictv.live:8080/247340/764085/85027
-#EXTINF:-1,[BR] Globo TV Verdes Mares FHD
-http://supersonictv.live:8080/247340/764085/85028
-#EXTINF:-1,[BR] GloboTV Anhanguera FHD
-http://supersonictv.live:8080/247340/764085/85029
-#EXTINF:-1,[BR] Gloob FHD
-http://supersonictv.live:8080/247340/764085/85030
-#EXTINF:-1,[BR] Gloobinho FHD
-http://supersonictv.live:8080/247340/764085/85031
-#EXTINF:-1,[BR] GNT FHD
-http://supersonictv.live:8080/247340/764085/85032
-#EXTINF:-1,[BR] H2 FHD
-http://supersonictv.live:8080/247340/764085/85033
-#EXTINF:-1,[BR] HBO 2 FHD
-http://supersonictv.live:8080/247340/764085/85034
-#EXTINF:-1,[BR] HBO Family FHD
-http://supersonictv.live:8080/247340/764085/85035
-#EXTINF:-1,[BR] HBO FHD
-http://supersonictv.live:8080/247340/764085/85036
-#EXTINF:-1,[BR] HBO Mundi FHD
-http://supersonictv.live:8080/247340/764085/85037
-#EXTINF:-1,[BR] HBO Plus FHD
-http://supersonictv.live:8080/247340/764085/85038
-#EXTINF:-1,[BR] HBO Pop FHD
-http://supersonictv.live:8080/247340/764085/85039
-#EXTINF:-1,[BR] HBO Signature FHD
-http://supersonictv.live:8080/247340/764085/85040
-#EXTINF:-1,[BR] HBO Xtreme FHD
-http://supersonictv.live:8080/247340/764085/85041
-#EXTINF:-1,[BR] HGTV FHD
-http://supersonictv.live:8080/247340/764085/85042
-#EXTINF:-1,[BR] i SAT FHD
-http://supersonictv.live:8080/247340/764085/85043
-#EXTINF:-1,[BR] Inter TV dos Vales FHD
-http://supersonictv.live:8080/247340/764085/85044
-#EXTINF:-1,[BR] Lifetime FHD
-http://supersonictv.live:8080/247340/764085/85045
-#EXTINF:-1,[BR] Mais Globosat FHD
-http://supersonictv.live:8080/247340/764085/85046
-#EXTINF:-1,[BR] Megapix FHD
-http://supersonictv.live:8080/247340/764085/85047
-#EXTINF:-1,[BR] Multishow FHD
-http://supersonictv.live:8080/247340/764085/85050
-#EXTINF:-1,[BR] Music Box Brasil FHD
-http://supersonictv.live:8080/247340/764085/85051
-#EXTINF:-1,[BR] Natgeo FHD
-http://supersonictv.live:8080/247340/764085/85052
-#EXTINF:-1,[BR] Natgeo Kids FHD
-http://supersonictv.live:8080/247340/764085/85053
-#EXTINF:-1,[BR] Natgeo Wild FHD
-http://supersonictv.live:8080/247340/764085/85054
-#EXTINF:-1,[BR] Nick FHD
-http://supersonictv.live:8080/247340/764085/85055
-#EXTINF:-1,[BR] Nick JR FHD
-http://supersonictv.live:8080/247340/764085/85056
-#EXTINF:-1,[BR] OFF FHD
-http://supersonictv.live:8080/247340/764085/85058
-#EXTINF:-1,[BR] Paramount Channel FHD
-http://supersonictv.live:8080/247340/764085/85059
-#EXTINF:-1,[BR] Shoptime FHD
-http://supersonictv.live:8080/247340/764085/85090
-#EXTINF:-1,[BR] Sony FHD
-http://supersonictv.live:8080/247340/764085/85091
-#EXTINF:-1,[BR] Space FHD
-http://supersonictv.live:8080/247340/764085/85092
-#EXTINF:-1,[BR] Studio Universal FHD
-http://supersonictv.live:8080/247340/764085/85096
-#EXTINF:-1,[BR] SYFY FHD
-http://supersonictv.live:8080/247340/764085/85097
-#EXTINF:-1,[BR] TBS FHD
-http://supersonictv.live:8080/247340/764085/85098
-#EXTINF:-1,[BR] TC ACTION FHD
-http://supersonictv.live:8080/247340/764085/85099
-#EXTINF:-1,[BR] TC Cult FHD
-http://supersonictv.live:8080/247340/764085/85100
-#EXTINF:-1,[BR] TC Fun FHD
-http://supersonictv.live:8080/247340/764085/85101
-#EXTINF:-1,[BR] TC Pipoca FHD
-http://supersonictv.live:8080/247340/764085/85102
-#EXTINF:-1,[BR] TC Premium FHD
-http://supersonictv.live:8080/247340/764085/85103
-#EXTINF:-1,[BR] TC Touch FHD
-http://supersonictv.live:8080/247340/764085/85104
-#EXTINF:-1,[BR] TCM FHD
-http://supersonictv.live:8080/247340/764085/85105
-#EXTINF:-1,[BR] The History FHD
-http://supersonictv.live:8080/247340/764085/85106
-#EXTINF:-1,[BR] TLC FHD
-http://supersonictv.live:8080/247340/764085/85107
-#EXTINF:-1,[BR] TNT FHD
-http://supersonictv.live:8080/247340/764085/85108
-#EXTINF:-1,[BR] TNT Series FHD
-http://supersonictv.live:8080/247340/764085/85109
-#EXTINF:-1,[BR] Universal Channel FHD
-http://supersonictv.live:8080/247340/764085/85119
-#EXTINF:-1,[BR] VH1 Mega Hits FHD
-http://supersonictv.live:8080/247340/764085/85120
-#EXTINF:-1,[BR] Viva FHD
-http://supersonictv.live:8080/247340/764085/85121
-#EXTINF:-1,[BR] Warner Channel FHD
-http://supersonictv.live:8080/247340/764085/85122
-#EXTINF:-1,[BR] Wohoo FHD
-http://supersonictv.live:8080/247340/764085/85123
-#EXTINF:-1,[BR] TV Tem Bauru FHD
-http://supersonictv.live:8080/247340/764085/85124
-#EXTINF:-1,[BR] AMC FHD
-http://supersonictv.live:8080/247340/764085/85125
-#EXTINF:-1,[BR] FOX SPORTS 2 4K
-http://supersonictv.live:8080/247340/764085/85181
-#EXTINF:-1,[BR] Fox Sports 4K
-http://supersonictv.live:8080/247340/764085/85182
-#EXTINF:-1,[BR] HBO 2 DUAL FHD
-http://supersonictv.live:8080/247340/764085/85211
-#EXTINF:-1,[BR] HBO 2 DUAL HD
-http://supersonictv.live:8080/247340/764085/85212
-#EXTINF:-1,[BR] HBO 4K
-http://supersonictv.live:8080/247340/764085/85213
-#EXTINF:-1,[BR] HBO DUAL FHD
-http://supersonictv.live:8080/247340/764085/85214
-#EXTINF:-1,[BR] HBO DUAL HD
-http://supersonictv.live:8080/247340/764085/85215
-#EXTINF:-1,[BR] HBO Family DUAL FHD
-http://supersonictv.live:8080/247340/764085/85216
-#EXTINF:-1,[BR] HBO Family DUAL HD
-http://supersonictv.live:8080/247340/764085/85217
-#EXTINF:-1,[BR] HBO Mundi DUAL FHD
-http://supersonictv.live:8080/247340/764085/85218
-#EXTINF:-1,[BR] HBO Mundi DUAL HD
-http://supersonictv.live:8080/247340/764085/85219
-#EXTINF:-1,[BR] HBO Pop DUAL HD
-http://supersonictv.live:8080/247340/764085/85220
-#EXTINF:-1,[BR] HBO XTREME 4K
-http://supersonictv.live:8080/247340/764085/85221
-#EXTINF:-1,[BR] HBO Xtreme DUAL FHD
-http://supersonictv.live:8080/247340/764085/85222
-#EXTINF:-1,[BR] HBO Xtreme DUAL HD
-http://supersonictv.live:8080/247340/764085/85223
-#EXTINF:-1,[BR] Heavy Metal TV
-http://supersonictv.live:8080/247340/764085/85224
-#EXTINF:-1,[BR] ITV HD
-http://supersonictv.live:8080/247340/764085/85227
-#EXTINF:-1,[BR] Jovem Pan News FHD
-http://supersonictv.live:8080/247340/764085/85228
-#EXTINF:-1,[BR] KPOP TV SY HD
-http://supersonictv.live:8080/247340/764085/85229
-#EXTINF:-1,[BR] Loading TV FHD
-http://supersonictv.live:8080/247340/764085/85230
-#EXTINF:-1,[BR] Master TV HD
-http://supersonictv.live:8080/247340/764085/85231
-#EXTINF:-1,[BR] MEGAPIX 4K
-http://supersonictv.live:8080/247340/764085/85232
-#EXTINF:-1,[BR] MULTISHOW 4K
-http://supersonictv.live:8080/247340/764085/85233
-#EXTINF:-1,[BR] Music Top HD
-http://supersonictv.live:8080/247340/764085/85234
-#EXTINF:-1,[BR] NATGEO 4K
-http://supersonictv.live:8080/247340/764085/85235
-#EXTINF:-1,[BR] Space 4K
-http://supersonictv.live:8080/247340/764085/85282
-#EXTINF:-1,[BR] SPORTV 4K
-http://supersonictv.live:8080/247340/764085/85283
-#EXTINF:-1,[BR] STAR CHANNEL 4K
-http://supersonictv.live:8080/247340/764085/85284
-#EXTINF:-1,[BR] Star DUAL HD
-http://supersonictv.live:8080/247340/764085/85285
-#EXTINF:-1,[BR] Studio Universal DUAL HD
-http://supersonictv.live:8080/247340/764085/85286
-#EXTINF:-1,[BR] Summer TV HD
-http://supersonictv.live:8080/247340/764085/85287
-#EXTINF:-1,[BR] Taormina TV HD
-http://supersonictv.live:8080/247340/764085/85288
-#EXTINF:-1,[BR] TC Action DUAL FHD
-http://supersonictv.live:8080/247340/764085/85289
-#EXTINF:-1,[BR] TC Action DUAL HD
-http://supersonictv.live:8080/247340/764085/85290
-#EXTINF:-1,[BR] TC Cult DUAL FHD
-http://supersonictv.live:8080/247340/764085/85291
-#EXTINF:-1,[BR] TC Cult DUAL HD
-http://supersonictv.live:8080/247340/764085/85292
-#EXTINF:-1,[BR] TC Fun DUAL FHD
-http://supersonictv.live:8080/247340/764085/85293
-#EXTINF:-1,[BR] TC Fun DUAL HD
-http://supersonictv.live:8080/247340/764085/85294
-#EXTINF:-1,[BR] TC Pipoca DUAL FHD
-http://supersonictv.live:8080/247340/764085/85295
-#EXTINF:-1,[BR] TC Pipoca DUAL HD
-http://supersonictv.live:8080/247340/764085/85296
-#EXTINF:-1,[BR] TC Premium DUAL FHD
-http://supersonictv.live:8080/247340/764085/85297
-#EXTINF:-1,[BR] TC Premium DUAL HD
-http://supersonictv.live:8080/247340/764085/85298
-#EXTINF:-1,[BR] TC Touch DUAL FHD
-http://supersonictv.live:8080/247340/764085/85299
-#EXTINF:-1,[BR] TC Touch DUAL HD
-http://supersonictv.live:8080/247340/764085/85300
-#EXTINF:-1,[BR] TELECINE PREMIUM 4K
-http://supersonictv.live:8080/247340/764085/85301
-#EXTINF:-1,[BR] The KPOP FHD
-http://supersonictv.live:8080/247340/764085/85304
-#EXTINF:-1,[BR] TNT 4K
-http://supersonictv.live:8080/247340/764085/85305
-#EXTINF:-1,[BR] TNT DUAL FHD
-http://supersonictv.live:8080/247340/764085/85306
-#EXTINF:-1,[BR] TNT DUAL HD
-http://supersonictv.live:8080/247340/764085/85307
-#EXTINF:-1,[BR] TNT SÉRIES 4K
-http://supersonictv.live:8080/247340/764085/85308
-#EXTINF:-1,[BR] TNT Series DUAL HD
-http://supersonictv.live:8080/247340/764085/85309
-#EXTINF:-1,[BR] TNT SPORTS 1 HD
-http://supersonictv.live:8080/247340/764085/85310
-#EXTINF:-1,[BR] TNT SPORTS 1 SD
-http://supersonictv.live:8080/247340/764085/85311
-#EXTINF:-1,[BR] TNT SPORTS 2 HD
-http://supersonictv.live:8080/247340/764085/85312
-#EXTINF:-1,[BR] TNT SPORTS 2 SD
-http://supersonictv.live:8080/247340/764085/85313
-#EXTINF:-1,[BR] TNT SPORTS 3 HD
-http://supersonictv.live:8080/247340/764085/85314
-#EXTINF:-1,[BR] TNT SPORTS 3 SD
-http://supersonictv.live:8080/247340/764085/85315
-#EXTINF:-1,[BR] TNT SPORTS 4 HD
-http://supersonictv.live:8080/247340/764085/85316
-#EXTINF:-1,[BR] TNT SPORTS 4 SD
-http://supersonictv.live:8080/247340/764085/85317
-#EXTINF:-1,[BR] TNT SPORTS 5 HD
-http://supersonictv.live:8080/247340/764085/85318
-#EXTINF:-1,[BR] TNT SPORTS 5 SD
-http://supersonictv.live:8080/247340/764085/85319
-#EXTINF:-1,[BR] TNT SPORTS 6 HD
-http://supersonictv.live:8080/247340/764085/85320
-#EXTINF:-1,[BR] TNT SPORTS 6 SD
-http://supersonictv.live:8080/247340/764085/85321
-#EXTINF:-1,[BR] TNT SPORTS 7 HD
-http://supersonictv.live:8080/247340/764085/85322
-#EXTINF:-1,[BR] TNT SPORTS 7 SD
-http://supersonictv.live:8080/247340/764085/85323
-#EXTINF:-1,[BR] TNT SPORTS 8 HD
-http://supersonictv.live:8080/247340/764085/85324
-#EXTINF:-1,[BR] TNT SPORTS 8 SD
-http://supersonictv.live:8080/247340/764085/85325
-http://supersonictv.live:8080/247340/764085/85336
-#EXTINF:-1,[BR] TV Escola FHD
-http://supersonictv.live:8080/247340/764085/85337
-#EXTINF:-1,[BR] TV Escola HD
-http://supersonictv.live:8080/247340/764085/85338
-#EXTINF:-1,[BR] TV UAI HD
-http://supersonictv.live:8080/247340/764085/85350
-#EXTINF:-1,[BR] TV5 Monde HD
-http://supersonictv.live:8080/247340/764085/85351
-#EXTINF:-1,[BR] TVE FHD
-http://supersonictv.live:8080/247340/764085/85352
-#EXTINF:-1,[BR] TVE RS FHD
-http://supersonictv.live:8080/247340/764085/85353
-#EXTINF:-1,[BR] Universal TV DUAL HD
-http://supersonictv.live:8080/247340/764085/85354
-#EXTINF:-1,[BR] VH1 HD
-http://supersonictv.live:8080/247340/764085/85355
-#EXTINF:-1,[BR] Warner Channel DUAL HD
-http://supersonictv.live:8080/247340/764085/85356
-#EXTINF:-1,[BR] Yeeaah HD
-http://supersonictv.live:8080/247340/764085/85357
-#EXTINF:-1,[BR] Zoom TV HD
-http://supersonictv.live:8080/247340/764085/85358
-#EXTINF:-1,[BR] ZooMoo HD
-http://supersonictv.live:8080/247340/764085/85359
-#EXTINF:-1,[BR] ZooMoo SD
-http://supersonictv.live:8080/247340/764085/85360
-#EXTINF:-1,[BR] 24h Power Couple
-http://supersonictv.live:8080/247340/764085/85361
-#EXTINF:-1,[BR] DJTV HD
-http://supersonictv.live:8080/247340/764085/85362
-#EXTINF:-1,[BR] TV MaisNews|Cultura FHD
-http://supersonictv.live:8080/247340/764085/85363
-#EXTINF:-1,[BR] Life Channel BR FHD
-http://supersonictv.live:8080/247340/764085/85364
-#EXTINF:-1,[BR] TV Carioca HD
-http://supersonictv.live:8080/247340/764085/85365
-#EXTINF:-1,[BR] TV Pampa HD
-http://supersonictv.live:8080/247340/764085/85366
-#EXTINF:-1,[BR] Primer TV HD
-http://supersonictv.live:8080/247340/764085/85367
-#EXTINF:-1,[BR] ChromaTV
-http://supersonictv.live:8080/247340/764085/85368
-#EXTINF:-1,[BR] TV Mon HD
-http://supersonictv.live:8080/247340/764085/85369
-#EXTINF:-1,[BR] Demais TV
-http://supersonictv.live:8080/247340/764085/85370
-#EXTINF:-1,[BR] TV A Plateia HD
-http://supersonictv.live:8080/247340/764085/85371
-#EXTINF:-1,[BR] Vale TV-Play
-http://supersonictv.live:8080/247340/764085/85372
-#EXTINF:-1,[BR] Vale EU TV
-http://supersonictv.live:8080/247340/764085/85373
-#EXTINF:-1,[BR] Urban TV HD
-http://supersonictv.live:8080/247340/764085/85374
-#EXTINF:-1,[BR] TVideosNews HD
-http://supersonictv.live:8080/247340/764085/85375
-#EXTINF:-1,[BR] VRT Channel HD
-http://supersonictv.live:8080/247340/764085/85376
-#EXTINF:-1,[BR] SporTV 4 HD Olimpíadas
-http://supersonictv.live:8080/247340/764085/85387
-
-#EXTINF:-1,[BR] A&E FHD
-http://supersonictv.live:8080/174374/254715/84935
-#EXTINF:-1,[BR] Animal Planet FHD
-http://supersonictv.live:8080/174374/254715/84936
-#EXTINF:-1,[BR] Arte 1 FHD
-http://supersonictv.live:8080/174374/254715/84937
-#EXTINF:-1,[BR] AXN FHD
-http://supersonictv.live:8080/174374/254715/84938
-#EXTINF:-1,[BR] Baby FHD
-http://supersonictv.live:8080/174374/254715/84939
-#EXTINF:-1,[BR] Band FHD
-http://supersonictv.live:8080/174374/254715/84940
-#EXTINF:-1,[BR] Band News FHD
-http://supersonictv.live:8080/174374/254715/84941
-#EXTINF:-1,[BR] Band Sports FHD
-http://supersonictv.live:8080/174374/254715/84942
-#EXTINF:-1,[BR] BIS FHD
-http://supersonictv.live:8080/174374/254715/84943
-#EXTINF:-1,[BR] Boomerang FHD
-http://supersonictv.live:8080/174374/254715/84944
-#EXTINF:-1,[BR] Canal Brasil FHD
-http://supersonictv.live:8080/174374/254715/84945
-#EXTINF:-1,[BR] Cartoon Network FHD
-http://supersonictv.live:8080/174374/254715/84946
-#EXTINF:-1,[BR] Chef TV FHD
-http://supersonictv.live:8080/174374/254715/84947
-#EXTINF:-1,[BR] Cinemax FHD
-http://supersonictv.live:8080/174374/254715/84948
-#EXTINF:-1,[BR] Cinemax HD
-http://supersonictv.live:8080/174374/254715/84949
-#EXTINF:-1,[BR] CNN Brasil FHD
-http://supersonictv.live:8080/174374/254715/84950
-#EXTINF:-1,[BR] CNN Espanhol HD
-http://supersonictv.live:8080/174374/254715/84951
-#EXTINF:-1,[BR] CNN Internacional FHD
-http://supersonictv.live:8080/174374/254715/84952
-#EXTINF:-1,[BR] Combate FHD
-http://supersonictv.live:8080/174374/254715/84953
-#EXTINF:-1,[BR] Comedy Central FHD
-http://supersonictv.live:8080/174374/254715/84954
-#EXTINF:-1,[BR] Curta! FHD
-http://supersonictv.live:8080/174374/254715/84963
-#EXTINF:-1,[BR] Discovery Channel FHD
-http://supersonictv.live:8080/174374/254715/84966
-#EXTINF:-1,[BR] Discovery Home & Health FHD
-http://supersonictv.live:8080/174374/254715/84967
-#EXTINF:-1,[BR] Discovery ID FHD
-http://supersonictv.live:8080/174374/254715/84968
-#EXTINF:-1,[BR] Discovery Kids FHD
-http://supersonictv.live:8080/174374/254715/84969
-#EXTINF:-1,[BR] Discovery Science FHD
-http://supersonictv.live:8080/174374/254715/84970
-#EXTINF:-1,[BR] Discovery Theather FHD
-http://supersonictv.live:8080/174374/254715/84971
-#EXTINF:-1,[BR] Discovery Turbo FHD
-http://supersonictv.live:8080/174374/254715/84972
-#EXTINF:-1,[BR] Discovery World FHD
-http://supersonictv.live:8080/174374/254715/84973
-#EXTINF:-1,[BR] Disney Channel FHD
-http://supersonictv.live:8080/174374/254715/84974
-#EXTINF:-1,[BR] Disney JR FHD
-http://supersonictv.live:8080/174374/254715/84975
-#EXTINF:-1,[BR] Disney XD FHD
-http://supersonictv.live:8080/174374/254715/84976
-#EXTINF:-1,[BR] E! FHD
-http://supersonictv.live:8080/174374/254715/84977
-#EXTINF:-1,[BR] ESPN 2 FHD
-http://supersonictv.live:8080/174374/254715/84978
-#EXTINF:-1,[BR] ESPN Brasil FHD
-http://supersonictv.live:8080/174374/254715/84979
-#EXTINF:-1,[BR] ESPN Extra FHD
-http://supersonictv.live:8080/174374/254715/84980
-#EXTINF:-1,[BR] ESPN FHD
-http://supersonictv.live:8080/174374/254715/84981
-#EXTINF:-1,[BR] ESPORTE INTERATIVO *
-http://supersonictv.live:8080/174374/254715/84982
-#EXTINF:-1,[BR] Food Network FHD
-http://supersonictv.live:8080/174374/254715/84985
-#EXTINF:-1,[BR] FOX FHD
-http://supersonictv.live:8080/174374/254715/84986
-#EXTINF:-1,[BR] Fox Life FHD
-http://supersonictv.live:8080/174374/254715/84987
-#EXTINF:-1,[BR] Fox News FHD
-http://supersonictv.live:8080/174374/254715/84988
-#EXTINF:-1,[BR] Fox Premium 1 FHD
-http://supersonictv.live:8080/174374/254715/84989
-#EXTINF:-1,[BR] Fox Premium 2 FHD
-http://supersonictv.live:8080/174374/254715/84990
-#EXTINF:-1,[BR] Fox Sport HD
-http://supersonictv.live:8080/174374/254715/84991
-#EXTINF:-1,[BR] Fox Sports 2 FHD
-http://supersonictv.live:8080/174374/254715/84992
-#EXTINF:-1,[BR] Fox Sports FHD
-http://supersonictv.live:8080/174374/254715/84993
-#EXTINF:-1,[BR] Fox Sports SD
-http://supersonictv.live:8080/174374/254715/84994
-#EXTINF:-1,[BR] FX FHD
-http://supersonictv.live:8080/174374/254715/84995
-#EXTINF:-1,[BR] Globo News FHD
-http://supersonictv.live:8080/174374/254715/85005
-#EXTINF:-1,[BR] GNT FHD
-http://supersonictv.live:8080/174374/254715/85032
-#EXTINF:-1,[BR] H2 FHD
-http://supersonictv.live:8080/174374/254715/85033
-#EXTINF:-1,[BR] HBO 2 FHD
-http://supersonictv.live:8080/174374/254715/85034
-#EXTINF:-1,[BR] HBO Family FHD
-http://supersonictv.live:8080/174374/254715/85035
-#EXTINF:-1,[BR] HBO FHD
-http://supersonictv.live:8080/174374/254715/85036
-#EXTINF:-1,[BR] HBO Mundi FHD
-http://supersonictv.live:8080/174374/254715/85037
-#EXTINF:-1,[BR] HBO Plus FHD
-http://supersonictv.live:8080/174374/254715/85038
-#EXTINF:-1,[BR] HBO Pop FHD
-http://supersonictv.live:8080/174374/254715/85039
-#EXTINF:-1,[BR] HBO Signature FHD
-http://supersonictv.live:8080/174374/254715/85040
-#EXTINF:-1,[BR] HBO Xtreme FHD
-http://supersonictv.live:8080/174374/254715/85041
-#EXTINF:-1,[BR] HGTV FHD
-http://supersonictv.live:8080/174374/254715/85042
-#EXTINF:-1,[BR] i SAT FHD
-http://supersonictv.live:8080/174374/254715/85043
-#EXTINF:-1,[BR] Inter TV dos Vales FHD
-http://supersonictv.live:8080/174374/254715/85044
-#EXTINF:-1,[BR] Lifetime FHD
-http://supersonictv.live:8080/174374/254715/85045
-#EXTINF:-1,[BR] Mais Globosat FHD
-http://supersonictv.live:8080/174374/254715/85046
-#EXTINF:-1,[BR] Megapix FHD
-http://supersonictv.live:8080/174374/254715/85047
-#EXTINF:-1,[BR] MTV FHD
-http://supersonictv.live:8080/174374/254715/85048
-#EXTINF:-1,[BR] MTV HD
-http://supersonictv.live:8080/174374/254715/85049
-#EXTINF:-1,[BR] Multishow FHD
-http://supersonictv.live:8080/174374/254715/85050
-#EXTINF:-1,[BR] Music Box Brasil FHD
-http://supersonictv.live:8080/174374/254715/85051
-#EXTINF:-1,[BR] Natgeo FHD
-http://supersonictv.live:8080/174374/254715/85052
-#EXTINF:-1,[BR] Natgeo Kids FHD
-http://supersonictv.live:8080/174374/254715/85053
-#EXTINF:-1,[BR] Natgeo Wild FHD
-http://supersonictv.live:8080/174374/254715/85054
-#EXTINF:-1,[BR] Nick FHD
-http://supersonictv.live:8080/174374/254715/85055
-#EXTINF:-1,[BR] Nick JR FHD
-http://supersonictv.live:8080/174374/254715/85056
-#EXTINF:-1,[BR] NSC TV Blumenau FHD
-http://supersonictv.live:8080/174374/254715/85057
-#EXTINF:-1,[BR] OFF FHD
-http://supersonictv.live:8080/174374/254715/85058
-#EXTINF:-1,[BR] Paramount Channel FHD
-http://supersonictv.live:8080/174374/254715/85059
-#EXTINF:-1,[BR] Play Kids HD
-http://supersonictv.live:8080/174374/254715/85060
-#EXTINF:-1,[BR] Play TV FHD
-http://supersonictv.live:8080/174374/254715/85061
-#EXTINF:-1,[BR] Premiere 2 FHD
-http://supersonictv.live:8080/174374/254715/85062
-#EXTINF:-1,[BR] Premiere 3 FHD
-http://supersonictv.live:8080/174374/254715/85063
-#EXTINF:-1,[BR] Premiere 4 FHD
-http://supersonictv.live:8080/174374/254715/85064
-#EXTINF:-1,[BR] Premiere 5 FHD
-http://supersonictv.live:8080/174374/254715/85065
-#EXTINF:-1,[BR] Premiere 6 FHD
-http://supersonictv.live:8080/174374/254715/85066
-#EXTINF:-1,[BR] Premiere 7 FHD
-http://supersonictv.live:8080/174374/254715/85067
-#EXTINF:-1,[BR] Premiere Clubes FHD
-http://supersonictv.live:8080/174374/254715/85068
-#EXTINF:-1,[BR] Prime Box Brasil FHD
-http://supersonictv.live:8080/174374/254715/85069
-#EXTINF:-1,[BR] Sony FHD
-http://supersonictv.live:8080/174374/254715/85091
-#EXTINF:-1,[BR] Space FHD
-http://supersonictv.live:8080/174374/254715/85092
-#EXTINF:-1,[BR] SporTV 2 FHD
-http://supersonictv.live:8080/174374/254715/85093
-#EXTINF:-1,[BR] SporTV 3 FHD
-http://supersonictv.live:8080/174374/254715/85094
-#EXTINF:-1,[BR] SporTV FHD
-http://supersonictv.live:8080/174374/254715/85095
-#EXTINF:-1,[BR] Studio Universal FHD
-http://supersonictv.live:8080/174374/254715/85096
-#EXTINF:-1,[BR] SYFY FHD
-http://supersonictv.live:8080/174374/254715/85097
-#EXTINF:-1,[BR] TBS FHD
-http://supersonictv.live:8080/174374/254715/85098
-#EXTINF:-1,[BR] TC ACTION FHD
-http://supersonictv.live:8080/174374/254715/85099
-#EXTINF:-1,[BR] TC Cult FHD
-http://supersonictv.live:8080/174374/254715/85100
-#EXTINF:-1,[BR] TC Fun FHD
-http://supersonictv.live:8080/174374/254715/85101
-#EXTINF:-1,[BR] TC Pipoca FHD
-http://supersonictv.live:8080/174374/254715/85102
-#EXTINF:-1,[BR] TC Premium FHD
-http://supersonictv.live:8080/174374/254715/85103
-#EXTINF:-1,[BR] TC Touch FHD
-http://supersonictv.live:8080/174374/254715/85104
-#EXTINF:-1,[BR] TCM FHD
-http://supersonictv.live:8080/174374/254715/85105
-#EXTINF:-1,[BR] The History FHD
-http://supersonictv.live:8080/174374/254715/85106
-#EXTINF:-1,[BR] TLC FHD
-http://supersonictv.live:8080/174374/254715/85107
-#EXTINF:-1,[BR] TNT FHD
-http://supersonictv.live:8080/174374/254715/85108
-#EXTINF:-1,[BR] TNT Series FHD
-http://supersonictv.live:8080/174374/254715/85109
-#EXTINF:-1,[BR] Tooncast FHD
-http://supersonictv.live:8080/174374/254715/85110
-#EXTINF:-1,[BR] Tru TV FHD
-http://supersonictv.live:8080/174374/254715/85111
-#EXTINF:-1,[BR] Universal Channel FHD
-http://supersonictv.live:8080/174374/254715/85119
-#EXTINF:-1,[BR] VH1 Mega Hits FHD
-http://supersonictv.live:8080/174374/254715/85120
-#EXTINF:-1,[BR] Viva FHD
-http://supersonictv.live:8080/174374/254715/85121
-#EXTINF:-1,[BR] Warner Channel FHD
-http://supersonictv.live:8080/174374/254715/85122
-#EXTINF:-1,[BR] Wohoo FHD
-http://supersonictv.live:8080/174374/254715/85123
-#EXTINF:-1,[BR] AMC FHD
-http://supersonictv.live:8080/174374/254715/85125
-#EXTINF:-1,[BR] All Sports HD
-http://supersonictv.live:8080/174374/254715/85149
-#EXTINF:-1,[BR] AllTV HD
-http://supersonictv.live:8080/174374/254715/85150
-#EXTINF:-1,[BR] Canal 26 Argentina
-http://supersonictv.live:8080/174374/254715/85152
-#EXTINF:-1,[BR] Canal Rural FHD
-http://supersonictv.live:8080/174374/254715/85153
-#EXTINF:-1,[BR] Canale 7 Itália
-http://supersonictv.live:8080/174374/254715/85154
-#EXTINF:-1,[BR] Carioca 2 HD
-http://supersonictv.live:8080/174374/254715/85157
-#EXTINF:-1,[BR] Carioca HD
-http://supersonictv.live:8080/174374/254715/85158
-#EXTINF:-1,[BR] CBN Rio
-http://supersonictv.live:8080/174374/254715/85159
-#EXTINF:-1,[BR] CBN São Paulo
-http://supersonictv.live:8080/174374/254715/85160
-#EXTINF:-1,[BR] Central|Top TV HD
-http://supersonictv.live:8080/174374/254715/85161
-#EXTINF:-1,[BR] CGTN
-http://supersonictv.live:8080/174374/254715/85162
-#EXTINF:-1,[BR] CNT FHD
-http://supersonictv.live:8080/174374/254715/85163
-#EXTINF:-1,[BR] COM Brasil TV FHD
-http://supersonictv.live:8080/174374/254715/85164
-#EXTINF:-1,[BR] COMBATE 4K
-http://supersonictv.live:8080/174374/254715/85165
-#EXTINF:-1,[BR] Conmebol 1 HD
-http://supersonictv.live:8080/174374/254715/85166
-#EXTINF:-1,[BR] Conmebol 2 HD
-http://supersonictv.live:8080/174374/254715/85167
-#EXTINF:-1,[BR] Conmebol 4K
-http://supersonictv.live:8080/174374/254715/85168
-#EXTINF:-1,[BR] Conmebol 5 HD
-http://supersonictv.live:8080/174374/254715/85169
-#EXTINF:-1,[BR] Conmebol 6 HD
-http://supersonictv.live:8080/174374/254715/85170
-#EXTINF:-1,[BR] ESPN Brasil 4K
-http://supersonictv.live:8080/174374/254715/85178
-#EXTINF:-1,[BR] FOX SPORTS 2 4K
-http://supersonictv.live:8080/174374/254715/85181
-#EXTINF:-1,[BR] Fox Sports 4K
-http://supersonictv.live:8080/174374/254715/85182
-#EXTINF:-1,[BR] HBO 2 DUAL FHD
-http://supersonictv.live:8080/174374/254715/85211
-#EXTINF:-1,[BR] HBO 2 DUAL HD
-http://supersonictv.live:8080/174374/254715/85212
-#EXTINF:-1,[BR] HBO 4K
-http://supersonictv.live:8080/174374/254715/85213
-#EXTINF:-1,[BR] HBO DUAL FHD
-http://supersonictv.live:8080/174374/254715/85214
-#EXTINF:-1,[BR] HBO DUAL HD
-http://supersonictv.live:8080/174374/254715/85215
-#EXTINF:-1,[BR] HBO Family DUAL FHD
-http://supersonictv.live:8080/174374/254715/85216
-#EXTINF:-1,[BR] HBO Family DUAL HD
-http://supersonictv.live:8080/174374/254715/85217
-#EXTINF:-1,[BR] HBO Mundi DUAL FHD
-http://supersonictv.live:8080/174374/254715/85218
-#EXTINF:-1,[BR] HBO Mundi DUAL HD
-http://supersonictv.live:8080/174374/254715/85219
-#EXTINF:-1,[BR] HBO Pop DUAL HD
-http://supersonictv.live:8080/174374/254715/85220
-#EXTINF:-1,[BR] HBO XTREME 4K
-http://supersonictv.live:8080/174374/254715/85221
-#EXTINF:-1,[BR] HBO Xtreme DUAL FHD
-http://supersonictv.live:8080/174374/254715/85222
-#EXTINF:-1,[BR] HBO Xtreme DUAL HD
-http://supersonictv.live:8080/174374/254715/85223
-#EXTINF:-1,[BR] Heavy Metal TV
-http://supersonictv.live:8080/174374/254715/85224
-#EXTINF:-1,[BR] Igreja Mundial FHD
-http://supersonictv.live:8080/174374/254715/85225
-#EXTINF:-1,[BR] Jovem Pan News FHD
-http://supersonictv.live:8080/174374/254715/85228
-#EXTINF:-1,[BR] KPOP TV SY HD
-http://supersonictv.live:8080/174374/254715/85229
-#EXTINF:-1,[BR] Loading TV FHD
-http://supersonictv.live:8080/174374/254715/85230
-#EXTINF:-1,[BR] Master TV HD
-http://supersonictv.live:8080/174374/254715/85231
-#EXTINF:-1,[BR] MEGAPIX 4K
-http://supersonictv.live:8080/174374/254715/85232
-#EXTINF:-1,[BR] MULTISHOW 4K
-http://supersonictv.live:8080/174374/254715/85233
-#EXTINF:-1,[BR] Music Top HD
-http://supersonictv.live:8080/174374/254715/85234
-#EXTINF:-1,[BR] NATGEO 4K
-http://supersonictv.live:8080/174374/254715/85235
-#EXTINF:-1,[BR] Space 4K
-http://supersonictv.live:8080/174374/254715/85282
-#EXTINF:-1,[BR] SPORTV 4K
-http://supersonictv.live:8080/174374/254715/85283
-#EXTINF:-1,[BR] STAR CHANNEL 4K
-http://supersonictv.live:8080/174374/254715/85284
-#EXTINF:-1,[BR] Star DUAL HD
-http://supersonictv.live:8080/174374/254715/85285
-#EXTINF:-1,[BR] Studio Universal DUAL HD
-http://supersonictv.live:8080/174374/254715/85286
-#EXTINF:-1,[BR] TC Action DUAL FHD
-http://supersonictv.live:8080/174374/254715/85289
-#EXTINF:-1,[BR] TC Action DUAL HD
-http://supersonictv.live:8080/174374/254715/85290
-#EXTINF:-1,[BR] TC Cult DUAL FHD
-http://supersonictv.live:8080/174374/254715/85291
-#EXTINF:-1,[BR] TC Cult DUAL HD
-http://supersonictv.live:8080/174374/254715/85292
-#EXTINF:-1,[BR] TC Fun DUAL FHD
-http://supersonictv.live:8080/174374/254715/85293
-#EXTINF:-1,[BR] TC Fun DUAL HD
-http://supersonictv.live:8080/174374/254715/85294
-#EXTINF:-1,[BR] TC Pipoca DUAL FHD
-http://supersonictv.live:8080/174374/254715/85295
-#EXTINF:-1,[BR] TC Pipoca DUAL HD
-http://supersonictv.live:8080/174374/254715/85296
-#EXTINF:-1,[BR] TC Premium DUAL FHD
-http://supersonictv.live:8080/174374/254715/85297
-#EXTINF:-1,[BR] TC Premium DUAL HD
-http://supersonictv.live:8080/174374/254715/85298
-#EXTINF:-1,[BR] TC Touch DUAL FHD
-http://supersonictv.live:8080/174374/254715/85299
-#EXTINF:-1,[BR] TC Touch DUAL HD
-http://supersonictv.live:8080/174374/254715/85300
-#EXTINF:-1,[BR] TELECINE PREMIUM 4K
-http://supersonictv.live:8080/174374/254715/85301
-#EXTINF:-1,[BR] TNT 4K
-http://supersonictv.live:8080/174374/254715/85305
-#EXTINF:-1,[BR] TNT DUAL FHD
-http://supersonictv.live:8080/174374/254715/85306
-#EXTINF:-1,[BR] TNT DUAL HD
-http://supersonictv.live:8080/174374/254715/85307
-#EXTINF:-1,[BR] TNT SÉRIES 4K
-http://supersonictv.live:8080/174374/254715/85308
-#EXTINF:-1,[BR] TNT Series DUAL HD
-http://supersonictv.live:8080/174374/254715/85309
-#EXTINF:-1,[BR] TNT SPORTS 1 HD
-http://supersonictv.live:8080/174374/254715/85310
-#EXTINF:-1,[BR] TNT SPORTS 1 SD
-http://supersonictv.live:8080/174374/254715/85311
-#EXTINF:-1,[BR] TNT SPORTS 2 HD
-http://supersonictv.live:8080/174374/254715/85312
-#EXTINF:-1,[BR] TNT SPORTS 2 SD
-http://supersonictv.live:8080/174374/254715/85313
-#EXTINF:-1,[BR] TNT SPORTS 3 HD
-http://supersonictv.live:8080/174374/254715/85314
-#EXTINF:-1,[BR] TNT SPORTS 3 SD
-http://supersonictv.live:8080/174374/254715/85315
-#EXTINF:-1,[BR] TNT SPORTS 4 HD
-http://supersonictv.live:8080/174374/254715/85316
-#EXTINF:-1,[BR] TNT SPORTS 4 SD
-http://supersonictv.live:8080/174374/254715/85317
-#EXTINF:-1,[BR] TNT SPORTS 5 HD
-http://supersonictv.live:8080/174374/254715/85318
-#EXTINF:-1,[BR] TNT SPORTS 5 SD
-http://supersonictv.live:8080/174374/254715/85319
-#EXTINF:-1,[BR] TNT SPORTS 6 HD
-http://supersonictv.live:8080/174374/254715/85320
-#EXTINF:-1,[BR] TNT SPORTS 6 SD
-http://supersonictv.live:8080/174374/254715/85321
-#EXTINF:-1,[BR] TNT SPORTS 7 HD
-http://supersonictv.live:8080/174374/254715/85322
-#EXTINF:-1,[BR] TNT SPORTS 7 SD
-http://supersonictv.live:8080/174374/254715/85323
-#EXTINF:-1,[BR] TNT SPORTS 8 HD
-http://supersonictv.live:8080/174374/254715/85324
-#EXTINF:-1,[BR] TNT SPORTS 8 SD
-http://supersonictv.live:8080/174374/254715/85325
-#EXTINF:-1,[BR] Universal TV DUAL HD
-http://supersonictv.live:8080/174374/254715/85354
-#EXTINF:-1,[BR] VH1 HD
-http://supersonictv.live:8080/174374/254715/85355
-#EXTINF:-1,[BR] Warner Channel DUAL HD
-http://supersonictv.live:8080/174374/254715/85356
-#EXTINF:-1,[BR] Yeeaah HD
-http://supersonictv.live:8080/174374/254715/85357
-#EXTINF:-1,[BR] Zoom TV HD
-http://supersonictv.live:8080/174374/254715/85358
-#EXTINF:-1,[BR] ZooMoo HD
-http://supersonictv.live:8080/174374/254715/85359
-#EXTINF:-1,[BR] ZooMoo SD
-http://supersonictv.live:8080/174374/254715/85360
+#EXTINF:-1,NBA 1 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1156
+#EXTINF:-1,NBA 2 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1157
+#EXTINF:-1,GOAT TV 2 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1264
+#EXTINF:-1,GOAT TV 1 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1263
+#EXTINF:-1,CAZE 3 TV
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1145
+#EXTINF:-1,CAZE 1 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1265
+#EXTINF:-1,CAZE 2 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1266
+#EXTINF:-1,PREMIERE SPORTS 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1267
+#EXTINF:-1,FOX SPORTS 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1268
+#EXTINF:-1,SPORTV 1 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/183
+#EXTINF:-1,SPORTV 1 HDR
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/178
+#EXTINF:-1,SPORTV 1 HDR+
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/993
+#EXTINF:-1,SPORTV 2 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/172
+#EXTINF:-1,SPORTV 2 HDR+
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1016
+#EXTINF:-1,SPORTV 3 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/175
+#EXTINF:-1,PREMIERE 1 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/148
+#EXTINF:-1,PREMIERE 2 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/149
+#EXTINF:-1,PREMIERE 2 HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/150
+#EXTINF:-1,PREMIERE 3 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/153
+#EXTINF:-1,PREMIERE 3 HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/152
+#EXTINF:-1,PREMIERE 4 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/155
+#EXTINF:-1,PREMIERE 4 HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/154
+#EXTINF:-1,PREMIERE 5 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/157
+#EXTINF:-1,PREMIERE 5 HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/156
+#EXTINF:-1,PREMIERE 6 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/159
+#EXTINF:-1,PREMIERE 6 HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/158
+#EXTINF:-1,PREMIERE 7 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/161
+#EXTINF:-1,PREMIERE 7 HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/160
+#EXTINF:-1,PREMIERE 8 HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/162
+#EXTINF:-1,PREMIERE 9 HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/163
+#EXTINF:-1,PREMIERE CLUB HDR+
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/1003
+#EXTINF:-1,PREMIERE CLUBES 4K
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/165
+#EXTINF:-1,PREMIERE CLUBES HD
+http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/164
