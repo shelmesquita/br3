@@ -668,69 +668,124 @@ http://iptvtree.net:8080/romaniamedia/45127bdd19/1517
 #EXTINF:-1,PT: Combate
 http://iptvtree.net:8080/romaniamedia/45127bdd19/306093
 
-#EXTINF:-1,SPORT TV 1
-http://rnpro.club:80/fmaiaptl/sebbRzx9LrVa/78
-#EXTINF:-1,SPORT TV 1 [HD]
-http://rnpro.club:80/fmaiaptl/sebbRzx9LrVa/79
-#EXTINF:-1,SPORT TV 1 [FHD]
-http://rnpro.club:80/fmaiaptl/sebbRzx9LrVa/80
-#EXTINF:-1,SPORT TV 1 [HEVC]
-http://rnpro.club:80/fmaiaptl/sebbRzx9LrVa/63133
-#EXTINF:-1,SPORT TV 2
-http://rnpro.club:80/fmaiaptl/sebbRzx9LrVa/81
-#EXTINF:-1,SPORT TV 2 [HD]
-http://rnpro.club:80/fmaiaptl/sebbRzx9LrVa/82
-#EXTINF:-1,SPORT TV 2 [FHD]
-http://rnpro.club:80/fmaiaptl/sebbRzx9LrVa/83
-#EXTINF:-1,SPORT TV 2 [HEVC]
-http://rnpro.club:80/fmaiaptl/sebbRzx9LrVa/63134
-#EXTINF:-1,SPORT TV 3
-http://rnpro.club:80/fmaiaptl/sebbRzx9LrVa/84
-#EXTINF:-1,SPORT TV 3 [HD]
-http://rnpro.club:80/fmaiaptl/sebbRzx9LrVa/85
-#EXTINF:-1,SPORT TV 3 [FHD]
-http://rnpro.club:80/fmaiaptl/sebbRzx9LrVa/86
-#EXTINF:-1,SPORT TV 3 [HEVC]
-http://rnpro.club:80/fmaiaptl/sebbRzx9LrVa/63135
-#EXTINF:-1,SPORT TV 4
-http://rnpro.club:80/fmaiaptl/sebbRzx9LrVa/87
-#EXTINF:-1,SPORT TV 4 [FHD]
-http://rnpro.club:80/fmaiaptl/sebbRzx9LrVa/88
-#EXTINF:-1,SPORT TV 4 [HEVC]
-http://rnpro.club:80/fmaiaptl/sebbRzx9LrVa/63136
-#EXTINF:-1,SPORT TV 5
-http://rnpro.club:80/fmaiaptl/sebbRzx9LrVa/89
-#EXTINF:-1,SPORT TV 5 [HD]
-http://rnpro.club:80/fmaiaptl/sebbRzx9LrVa/65712
-#EXTINF:-1,SPORT TV 5 [FHD]
-http://rnpro.club:80/fmaiaptl/sebbRzx9LrVa/90
-#EXTINF:-1,SPORT TV 5 [HEVC]
-http://rnpro.club:80/fmaiaptl/sebbRzx9LrVa/63137
-#EXTINF:-1,SPORT TV 6 [HD]
-http://rnpro.club:80/fmaiaptl/sebbRzx9LrVa/88752
-#EXTINF:-1,SPORT TV 6 [FHD]
-http://rnpro.club:80/fmaiaptl/sebbRzx9LrVa/101411
-#EXTINF:-1,SPORT TV 7
-http://rnpro.club:80/fmaiaptl/sebbRzx9LrVa/119293
-#EXTINF:-1,SPORT TV 7 [FHD]
-http://rnpro.club:80/fmaiaptl/sebbRzx9LrVa/119294
-#EXTINF:-1,EUROSPORT 1
-http://rnpro.club:80/fmaiaptl/sebbRzx9LrVa/104
-#EXTINF:-1,EUROSPORT 1 [FHD]
-http://rnpro.club:80/fmaiaptl/sebbRzx9LrVa/105
-#EXTINF:-1,EUROSPORT 2
-http://rnpro.club:80/fmaiaptl/sebbRzx9LrVa/106
-#EXTINF:-1,EUROSPORT 2 [FHD]
-http://rnpro.club:80/fmaiaptl/sebbRzx9LrVa/65098
-#EXTINF:-1,EUROSPORT 1 LOW
-http://rnpro.club:80/fmaiaptl/sebbRzx9LrVa/74735
-#EXTINF:-1,EUROSPORT 2 LOW
-http://rnpro.club:80/fmaiaptl/sebbRzx9LrVa/74736
-#EXTINF:-1,FR: Eurosport 1
-http://rnpro.club:80/fmaiaptl/sebbRzx9LrVa/118392
-#EXTINF:-1,FR: Eurosport 2
-http://rnpro.club:80/fmaiaptl/sebbRzx9LrVa/118391
-#EXTINF:-1,DE: Eurosport 1
-http://rnpro.club:80/fmaiaptl/sebbRzx9LrVa/122330
-#EXTINF:-1,DE: Eurosport 2
-http://rnpro.club:80/fmaiaptl/sebbRzx9LrVa/122329
+#EXTINF:-1,US Bally Sports Southeast 
+http://fortv.cc:8080/q8KuDU/354945/81111
+#EXTINF:-1,US NBC Sports Network (F)
+http://fortv.cc:8080/q8KuDU/354945/46725
+#EXTINF:-1,US Bally Sports Detroit (A)
+http://fortv.cc:8080/q8KuDU/354945/20930
+#EXTINF:-1,US Bally Sports Midwest (A)
+http://fortv.cc:8080/q8KuDU/354945/66795
+#EXTINF:-1,US Bally Sports Oklahoma (A)
+http://fortv.cc:8080/q8KuDU/354945/20934
+#EXTINF:-1,US Bally Sports Southeast 
+http://fortv.cc:8080/q8KuDU/354945/2213
+#EXTINF:-1,US Bally Sports Southwest 
+http://fortv.cc:8080/q8KuDU/354945/21843
+#EXTINF:-1,US Bally Sports West 
+http://fortv.cc:8080/q8KuDU/354945/20932
+#EXTINF:-1,US Bally Sports North (A)
+http://fortv.cc:8080/q8KuDU/354945/58827
+#EXTINF:-1,US Bally Sports Detroit 
+http://fortv.cc:8080/q8KuDU/354945/20936
+#EXTINF:-1,US Bally Sports Ohio (A)
+http://fortv.cc:8080/q8KuDU/354945/17752
+
+#EXTINF:-1,ESPN 1 (NL)
+http://glass-iptv.one:8080/Rea@ivan@zec/JjqK6d8Vff2S/353
+#EXTINF:-1,ESPN 2 (NL)
+http://glass-iptv.one:8080/Rea@ivan@zec/JjqK6d8Vff2S/354
+#EXTINF:-1,ESPN 3 (NL)
+http://glass-iptv.one:8080/Rea@ivan@zec/JjqK6d8Vff2S/351
+#EXTINF:-1,ESPN 3 (US)
+http://glass-iptv.one:8080/Rea@ivan@zec/JjqK6d8Vff2S/16947
+#EXTINF:-1,ESPN 4 (NL)
+http://glass-iptv.one:8080/Rea@ivan@zec/JjqK6d8Vff2S/355
+#EXTINF:-1,EUROSPORT 1 (DE)
+http://glass-iptv.one:8080/Rea@ivan@zec/JjqK6d8Vff2S/339
+#EXTINF:-1,EUROSPORT 1 (FR)
+http://glass-iptv.one:8080/Rea@ivan@zec/JjqK6d8Vff2S/340
+#EXTINF:-1,EUROSPORT 1 HD (UK)
+http://glass-iptv.one:8080/Rea@ivan@zec/JjqK6d8Vff2S/342
+#EXTINF:-1,EUROSPORT 2 (DE)
+http://glass-iptv.one:8080/Rea@ivan@zec/JjqK6d8Vff2S/19978
+#EXTINF:-1,EUROSPORT 2 (FR)
+http://glass-iptv.one:8080/Rea@ivan@zec/JjqK6d8Vff2S/346
+#EXTINF:-1,EUROSPORT 2 HD (UK)
+http://glass-iptv.one:8080/Rea@ivan@zec/JjqK6d8Vff2S/348
+#EXTINF:-1,ESPN 1 (NL)
+http://glass-iptv.one:8080/@IGOR@MARIN/nKSUuAt5j6/353
+#EXTINF:-1,ESPN 2 (NL)
+http://glass-iptv.one:8080/@IGOR@MARIN/nKSUuAt5j6/354
+#EXTINF:-1,ESPN 3 (NL)
+http://glass-iptv.one:8080/@IGOR@MARIN/nKSUuAt5j6/351
+#EXTINF:-1,ESPN 3 (US)
+http://glass-iptv.one:8080/@IGOR@MARIN/nKSUuAt5j6/16947
+#EXTINF:-1,ESPN 4 (NL)
+http://glass-iptv.one:8080/@IGOR@MARIN/nKSUuAt5j6/355
+#EXTINF:-1,EUROSPORT 1 (DE)
+http://glass-iptv.one:8080/@IGOR@MARIN/nKSUuAt5j6/339
+#EXTINF:-1,EUROSPORT 1 (FR)
+http://glass-iptv.one:8080/@IGOR@MARIN/nKSUuAt5j6/340
+#EXTINF:-1,EUROSPORT 1 HD (UK)
+http://glass-iptv.one:8080/@IGOR@MARIN/nKSUuAt5j6/342
+#EXTINF:-1,EUROSPORT 2 (DE)
+http://glass-iptv.one:8080/@IGOR@MARIN/nKSUuAt5j6/19978
+#EXTINF:-1,EUROSPORT 2 (FR)
+http://glass-iptv.one:8080/@IGOR@MARIN/nKSUuAt5j6/346
+#EXTINF:-1,EUROSPORT 2 HD (UK)
+http://glass-iptv.one:8080/@IGOR@MARIN/nKSUuAt5j6/348
+#EXTINF:-1,US ESPN SEC Network 
+http://fortv.cc:8080/q8KuDU/354945/17608
+#EXTINF:-1,US ESPN 2 
+http://fortv.cc:8080/q8KuDU/354945/2210
+#EXTINF:-1,US ESPN 1 (HD) 
+http://fortv.cc:8080/q8KuDU/354945/14197
+#EXTINF:-1,US ESPN 1 (HD) 
+http://fortv.cc:8080/q8KuDU/354945/9802
+#EXTINF:-1,US ESPNU College Sports 
+http://fortv.cc:8080/q8KuDU/354945/10255
+#EXTINF:-1,US YES Network
+http://fortv.cc:8080/q8KuDU/354945/57972
+#EXTINF:-1,US ACC Network (A)
+http://fortv.cc:8080/q8KuDU/354945/9273
+#EXTINF:-1,US Altitude Sports HD 
+http://fortv.cc:8080/q8KuDU/354945/79545
+#EXTINF:-1,US Big Ten HD
+http://fortv.cc:8080/q8KuDU/354945/9828
+#EXTINF:-1,US CBS Sports Network HD 
+http://fortv.cc:8080/q8KuDU/354945/10454
+#EXTINF:-1,US Fox Sports 1 
+http://fortv.cc:8080/q8KuDU/354945/1846
+#EXTINF:-1,US Fox Sports 2 (A)
+http://fortv.cc:8080/q8KuDU/354945/1847
+#EXTINF:-1,US Bally Sports North (A)
+http://fortv.cc:8080/q8KuDU/354945/20928
+#EXTINF:-1,US Bally Sports Carolinas (A)
+http://fortv.cc:8080/q8KuDU/354945/20929
+#EXTINF:-1,US Bally Sports South
+http://fortv.cc:8080/q8KuDU/354945/20931
+#EXTINF:-1,US Bally Sports South (A)
+http://fortv.cc:8080/q8KuDU/354945/20922
+#EXTINF:-1,CA TSN 1 (E)
+http://fortv.cc:8080/q8KuDU/354945/57292
+#EXTINF:-1,CA TSN 1 (R)
+http://fortv.cc:8080/q8KuDU/354945/47440
+#EXTINF:-1,CA TSN 2 (R)
+http://fortv.cc:8080/q8KuDU/354945/16129
+#EXTINF:-1,CA TSN 2 HD 
+http://fortv.cc:8080/q8KuDU/354945/47442
+#EXTINF:-1,CA TSN 3 HD 
+http://fortv.cc:8080/q8KuDU/354945/10389
+#EXTINF:-1,CA TSN 3 HD 
+http://fortv.cc:8080/q8KuDU/354945/47444
+#EXTINF:-1,CA TSN 4 
+http://fortv.cc:8080/q8KuDU/354945/66783
+#EXTINF:-1,CA TSN 4 (B)
+http://fortv.cc:8080/q8KuDU/354945/47446
+#EXTINF:-1,CA TSN 5 
+http://fortv.cc:8080/q8KuDU/354945/57467
+#EXTINF:-1,CA TSN 5 HD 
+http://fortv.cc:8080/q8KuDU/354945/16131
+#EXTINF:-1,CA TSN 5 
+http://fortv.cc:8080/q8KuDU/354945/57295
