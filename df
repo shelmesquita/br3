@@ -1,11 +1,20 @@
 #EXTM3U
 
+#EXTINF:-1,BRZ: BAND NEWS HD
+http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673455.ts
+#EXTINF:-1,BRZ: CNN BRASIL HD
+http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673456.ts
+#EXTINF:-1,Brasil: GLOBO NEWS FHD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/383.ts
+#EXTINF:-1,BR: Globo News
+http://iptvtree.net:8080/romaniamedia/45127bdd19/14513
+#EXTINF:-1,BRZ: GLOBO NEWS HD
+http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673457.ts
 #EXTINF:-1,BRZ: Jovem Pan News HD
 http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673366.ts
 #EXTINF:-1,BRZ: COMBATE HD
 http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673368.ts
-#EXTINF:-1,BRZ: FOX SPORTS2 HD
-http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673372.ts
+
 #EXTINF:-1,BRZ: A&E HD
 http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673398.ts
 #EXTINF:-1,BRZ: AMC HD
@@ -20,6 +29,8 @@ http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673402.ts
 http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673403.ts
 #EXTINF:-1,BRZ: FX HD
 http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673404.ts
+#EXTINF:-1,BR: Fox Life
+http://iptvtree.net:8080/romaniamedia/45127bdd19/8818
 #EXTINF:-1,BRZ: MEGAPIX HD
 http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673405.ts
 #EXTINF:-1,BRZ: PARAMOUNT CHANNEL HD
@@ -30,18 +41,54 @@ http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673407.ts
 http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673408.ts
 #EXTINF:-1,BRZ: STUDIO UNIVERSAL HD
 http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673409.ts
+#EXTINF:-1,BRZ: UNIVERSAL CHANNEL HD
+http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673412.ts
+
+#EXTINF:-1,BR: TNT Series
+http://iptvtree.net:8080/romaniamedia/45127bdd19/8827
+#EXTINF:-1,BR: TNT
+http://iptvtree.net:8080/romaniamedia/45127bdd19/8840
 #EXTINF:-1,BRZ: TNT HD
 http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673410.ts
 #EXTINF:-1,BRZ: TNT SÃ‰RIES HD
 http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673411.ts
-#EXTINF:-1,BRZ: UNIVERSAL CHANNEL HD
-http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673412.ts
+#EXTINF:-1,Brasil: TNT FHD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/408.ts
+#EXTINF:-1,Brasil: TNT SERIES FHD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/409.ts
+#EXTINF:-1,Brasil: WARNER CHANNEL FHD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/410.ts
 #EXTINF:-1,BRZ: WARNER HD
 http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673413.ts
 #EXTINF:-1,BRZ: ANIMAL PLANET HD
 http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673414.ts
+
+#EXTINF:-1,Brasil: E! HD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/374.ts
+#EXTINF:-1,Brasil: FOOD NETWORK FHD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/377.ts
+#EXTINF:-1,Brasil: Star Channel
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/378.ts
+#EXTINF:-1,Brasil: LIFETIME HD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/392.ts
+#EXTINF:-1,Brasil: NATIONAL GEOGRAPHIC FHD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/395.ts
+#EXTINF:-1,BRZ: DISCOVERY ID INVESTIGAÃ‡ÃƒO HD
+http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673425.ts
+#EXTINF:-1,BR: Investigation Discovery
+http://iptvtree.net:8080/romaniamedia/45127bdd19/14529
+#EXTINF:-1,Brasil: Investigacao Discovery FHD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/391.ts
+#EXTINF:-1,BRZ: NATIONAL GEOGRAPHIC HD
+http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673426.ts
 #EXTINF:-1,BRZ: DISCOVERY CHANNEL HD
 http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673415.ts
+#EXTINF:-1,Brasil: DISCOVERY CHANNEL FHD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/368.ts
+#EXTINF:-1,Brasil: Discovery Kids
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/371.ts
+#EXTINF:-1,Brasil: DISCOVERY THEATER FHD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/369.ts
 #EXTINF:-1,BRZ: DISCOVERY HOME & HEALTH HD
 http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673416.ts
 #EXTINF:-1,BRZ: DISCOVERY SCIENCE HD
@@ -54,16 +101,113 @@ http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673419.ts
 http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673420.ts
 #EXTINF:-1,BRZ: FISH TV HD
 http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673421.ts
-#EXTINF:-1,BRZ: HISTORY2 HD
-http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673422.ts
 #EXTINF:-1,BRZ: HGTV HD
 http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673423.ts
+#EXTINF:-1,Brasil: HISTORY CHANNEL FHD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/390.ts
+#EXTINF:-1,BR: History
+http://iptvtree.net:8080/romaniamedia/45127bdd19/8901
+#EXTINF:-1,Brasil: H2 FHD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/385.ts
+#EXTINF:-1,BRZ: HISTORY2 HD
+http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673422.ts
 #EXTINF:-1,BRZ: HISTORY CHANNEL HD
 http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673424.ts
-#EXTINF:-1,BRZ: DISCOVERY ID INVESTIGAÃ‡ÃƒO HD
-http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673425.ts
-#EXTINF:-1,BRZ: NATIONAL GEOGRAPHIC HD
-http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673426.ts
+#EXTINF:-1,BR: History 2
+http://iptvtree.net:8080/romaniamedia/45127bdd19/14516
+#EXTINF:-1,BR: Discovery Science
+http://iptvtree.net:8080/romaniamedia/45127bdd19/8910
+#EXTINF:-1,BR: Discovery H&H Brasil
+http://iptvtree.net:8080/romaniamedia/45127bdd19/8904
+#EXTINF:-1,BR: Discovery Channel
+http://iptvtree.net:8080/romaniamedia/45127bdd19/299696
+#EXTINF:-1,BR: Discovery World
+http://iptvtree.net:8080/romaniamedia/45127bdd19/279608
+#EXTINF:-1,BRZ: DISCOVERY WORLD HD
+http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673484.ts
+#EXTINF:-1,BRZ: CURTA HD
+http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673485.ts
+#EXTINF:-1,BR: Curta
+http://iptvtree.net:8080/romaniamedia/45127bdd19/166654
+#EXTINF:-1,Brasil: HBO 2 FHD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/386.ts
+#EXTINF:-1,Brasil: HBO Extreme
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/393.ts
+#EXTINF:-1,Brasil: HBO FAMILY HD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/387.ts
+#EXTINF:-1,BR: HBO Mundi
+http://iptvtree.net:8080/romaniamedia/45127bdd19/8837
+#EXTINF:-1,BR: HBO Family
+http://iptvtree.net:8080/romaniamedia/45127bdd19/8839
+#EXTINF:-1,Brasil: HBO FHD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/388.ts
+#EXTINF:-1,Brasil: HBO SIGNATURE FHD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/389.ts
+#EXTINF:-1,BR: HBO 2
+http://iptvtree.net:8080/romaniamedia/45127bdd19/8821
+#EXTINF:-1,BR: HBO+
+http://iptvtree.net:8080/romaniamedia/45127bdd19/8823
+#EXTINF:-1,BR: HBO
+http://iptvtree.net:8080/romaniamedia/45127bdd19/8822
+#EXTINF:-1,BRZ: HBO 2 HD
+http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673468.ts
+#EXTINF:-1,BRZ: HBO FAMILY HD
+http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673469.ts
+#EXTINF:-1,BRZ: HBO HD
+http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673470.ts
+#EXTINF:-1,BRZ: HBO MUNDI HD
+http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673471.ts
+#EXTINF:-1,BRZ: HBO PLUS HD
+http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673472.ts
+#EXTINF:-1,BR: HBO Pop
+http://iptvtree.net:8080/romaniamedia/45127bdd19/173434
+#EXTINF:-1,BRZ: HBO POP HD
+http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673473.ts
+#EXTINF:-1,BRZ: HBO SIGNATURE HD
+http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673474.ts
+#EXTINF:-1,BR: HBO Xtreme
+http://iptvtree.net:8080/romaniamedia/45127bdd19/8824
+#EXTINF:-1,BR: HBO Signature
+http://iptvtree.net:8080/romaniamedia/45127bdd19/8836
+#EXTINF:-1,BRZ: HBO EXTREME HD
+http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673475.ts
+
+#EXTINF:-1,Brasil: TELECINE ACTION
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/405.ts
+#EXTINF:-1,Brasil: TELECINE PIPOCA FHD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/406.ts
+#EXTINF:-1,Brasil: TELECINE PREMIUM FHD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/407.ts
+#EXTINF:-1,BRZ: TELECINE ACTION HD
+http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673476.ts
+#EXTINF:-1,BRZ: TELECINE CULT HD
+http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673477.ts
+#EXTINF:-1,BRZ: TELECINE FUN HD
+http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673478.ts
+#EXTINF:-1,BRZ: TELECINE PREMIUM HD
+http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673479.ts
+#EXTINF:-1,BRZ: TELECINE TOUCH HD
+http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673480.ts
+#EXTINF:-1,BRZ: ZOOMOO HD
+http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673482.ts
+#EXTINF:-1,BRZ: TELECINE PIPOCA HD
+http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673483.ts
+#EXTINF:-1,BR: Telecine Touch
+http://iptvtree.net:8080/romaniamedia/45127bdd19/8828
+#EXTINF:-1,BR: Telecine Premium
+http://iptvtree.net:8080/romaniamedia/45127bdd19/8829
+#EXTINF:-1,BR: Telecine Pipoca
+http://iptvtree.net:8080/romaniamedia/45127bdd19/8830
+#EXTINF:-1,BR: Telecine Fun
+http://iptvtree.net:8080/romaniamedia/45127bdd19/8831
+#EXTINF:-1,BR: Telecine Cult
+http://iptvtree.net:8080/romaniamedia/45127bdd19/197080
+#EXTINF:-1,BR: Telecine Action
+http://iptvtree.net:8080/romaniamedia/45127bdd19/193685
+
+
+
+
 #EXTINF:-1,BRZ: CARTOONITO HD
 http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673430.ts
 #EXTINF:-1,BRZ: CARTOON NETWORK HD
@@ -80,12 +224,6 @@ http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673435.ts
 http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673436.ts
 #EXTINF:-1,BRZ: VIVA HD
 http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673454.ts
-#EXTINF:-1,BRZ: BAND NEWS HD
-http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673455.ts
-#EXTINF:-1,BRZ: CNN BRASIL HD
-http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673456.ts
-#EXTINF:-1,BRZ: GLOBO NEWS HD
-http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673457.ts
 #EXTINF:-1,BRZ: BIS HD
 http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673459.ts
 #EXTINF:-1,BRZ: E! HD
@@ -98,42 +236,6 @@ http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673465.ts
 http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673466.ts
 #EXTINF:-1,BRZ: WOOHOO HD
 http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673467.ts
-#EXTINF:-1,BRZ: HBO 2 HD
-http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673468.ts
-#EXTINF:-1,BRZ: HBO FAMILY HD
-http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673469.ts
-#EXTINF:-1,BRZ: HBO HD
-http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673470.ts
-#EXTINF:-1,BRZ: HBO MUNDI HD
-http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673471.ts
-#EXTINF:-1,BRZ: HBO PLUS HD
-http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673472.ts
-#EXTINF:-1,BRZ: HBO POP HD
-http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673473.ts
-#EXTINF:-1,BRZ: HBO SIGNATURE HD
-http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673474.ts
-#EXTINF:-1,BRZ: HBO EXTREME HD
-http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673475.ts
-#EXTINF:-1,BRZ: TELECINE ACTION HD
-http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673476.ts
-#EXTINF:-1,BRZ: TELECINE CULT HD
-http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673477.ts
-#EXTINF:-1,BRZ: TELECINE FUN HD
-http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673478.ts
-#EXTINF:-1,BRZ: TELECINE PREMIUM HD
-http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673479.ts
-#EXTINF:-1,BRZ: TELECINE TOUCH HD
-http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673480.ts
-#EXTINF:-1,BRZ: TNT SPORTS 02 HD
-http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673481.ts
-#EXTINF:-1,BRZ: ZOOMOO HD
-http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673482.ts
-#EXTINF:-1,BRZ: TELECINE PIPOCA HD
-http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673483.ts
-#EXTINF:-1,BRZ: DISCOVERY WORLD HD
-http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673484.ts
-#EXTINF:-1,BRZ: CURTA HD
-http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673485.ts
 #EXTINF:-1,BRZ: TBS HD
 http://goldpromax.pro:8089/live/3785723615616/3785723615616/85673486.ts
 #EXTINF:-1,BRZ: FOOD NETWORK HD
@@ -153,91 +255,27 @@ http://latinapro.net:25461/CARLOSa61/rodriguez2CA/365.ts
 http://latinapro.net:25461/CARLOSa61/rodriguez2CA/366.ts
 #EXTINF:-1,Brasil: COMEDY CENTRAL FHD
 http://latinapro.net:25461/CARLOSa61/rodriguez2CA/367.ts
-#EXTINF:-1,Brasil: DISCOVERY CHANNEL FHD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/368.ts
-#EXTINF:-1,Brasil: Discovery Kids
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/371.ts
-#EXTINF:-1,Brasil: DISCOVERY THEATER FHD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/369.ts
 #EXTINF:-1,Brasil: DISNEY CHANNEL FHD
 http://latinapro.net:25461/CARLOSa61/rodriguez2CA/370.ts
-#EXTINF:-1,Brasil: E! HD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/374.ts
-#EXTINF:-1,Brasil: FOOD NETWORK FHD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/377.ts
-#EXTINF:-1,Brasil: Star Channel
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/378.ts
-#EXTINF:-1,Brasil: GLOBO NEWS FHD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/383.ts
-#EXTINF:-1,Brasil: H2 FHD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/385.ts
-#EXTINF:-1,Brasil: HBO 2 FHD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/386.ts
-#EXTINF:-1,Brasil: HBO Extreme
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/393.ts
-#EXTINF:-1,Brasil: HBO FAMILY HD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/387.ts
-#EXTINF:-1,Brasil: HBO FHD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/388.ts
-#EXTINF:-1,Brasil: HBO SIGNATURE FHD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/389.ts
-#EXTINF:-1,Brasil: HISTORY CHANNEL FHD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/390.ts
-#EXTINF:-1,Brasil: Investigacao Discovery FHD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/391.ts
-#EXTINF:-1,Brasil: LIFETIME HD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/392.ts
-#EXTINF:-1,Brasil: NATIONAL GEOGRAPHIC FHD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/395.ts
 #EXTINF:-1,Brasil: NICK JR FHD
 http://latinapro.net:25461/CARLOSa61/rodriguez2CA/396.ts
 #EXTINF:-1,Brasil: NICKELODEON HD
 http://latinapro.net:25461/CARLOSa61/rodriguez2CA/397.ts
 #EXTINF:-1,Brasil: SPACE FHD
 http://latinapro.net:25461/CARLOSa61/rodriguez2CA/401.ts
-#EXTINF:-1,Brasil: TELECINE ACTION
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/405.ts
-#EXTINF:-1,Brasil: TELECINE PIPOCA FHD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/406.ts
-#EXTINF:-1,Brasil: TELECINE PREMIUM FHD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/407.ts
-#EXTINF:-1,Brasil: TNT FHD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/408.ts
-#EXTINF:-1,Brasil: TNT SERIES FHD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/409.ts
-#EXTINF:-1,Brasil: WARNER CHANNEL FHD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/410.ts
 
 #EXTINF:-1,BR: WooHoo
 http://iptvtree.net:8080/romaniamedia/45127bdd19/14555
 #EXTINF:-1,BR: Warner TV
 http://iptvtree.net:8080/romaniamedia/45127bdd19/8825
-#EXTINF:-1,BR: History
-http://iptvtree.net:8080/romaniamedia/45127bdd19/8901
 #EXTINF:-1,BR: Gloob
 http://iptvtree.net:8080/romaniamedia/45127bdd19/14605
-#EXTINF:-1,BR: Globo News
-http://iptvtree.net:8080/romaniamedia/45127bdd19/14513
 #EXTINF:-1,BR: ARTE 1
 http://iptvtree.net:8080/romaniamedia/45127bdd19/8833
 #EXTINF:-1,BR: Anime TV
 http://iptvtree.net:8080/romaniamedia/45127bdd19/286067
 #EXTINF:-1,BR: NAT GEO
 http://iptvtree.net:8080/romaniamedia/45127bdd19/14531
-#EXTINF:-1,BR: Investigation Discovery
-http://iptvtree.net:8080/romaniamedia/45127bdd19/14529
-#EXTINF:-1,BR: History 2
-http://iptvtree.net:8080/romaniamedia/45127bdd19/14516
-#EXTINF:-1,BR: Discovery World
-http://iptvtree.net:8080/romaniamedia/45127bdd19/279608
-#EXTINF:-1,BR: Discovery Science
-http://iptvtree.net:8080/romaniamedia/45127bdd19/8910
-#EXTINF:-1,BR: Discovery H&H Brasil
-http://iptvtree.net:8080/romaniamedia/45127bdd19/8904
-#EXTINF:-1,BR: Discovery Channel
-http://iptvtree.net:8080/romaniamedia/45127bdd19/299696
-#EXTINF:-1,BR: Curta
-http://iptvtree.net:8080/romaniamedia/45127bdd19/166654
 #EXTINF:-1,BR: A&E
 http://iptvtree.net:8080/romaniamedia/45127bdd19/8816
 #EXTINF:-1,BR: NAT GEO Wild
@@ -262,22 +300,6 @@ http://iptvtree.net:8080/romaniamedia/45127bdd19/14501
 http://iptvtree.net:8080/romaniamedia/45127bdd19/14553
 #EXTINF:-1,BR: Universal TV
 http://iptvtree.net:8080/romaniamedia/45127bdd19/7422
-#EXTINF:-1,BR: TNT Series
-http://iptvtree.net:8080/romaniamedia/45127bdd19/8827
-#EXTINF:-1,BR: TNT
-http://iptvtree.net:8080/romaniamedia/45127bdd19/8840
-#EXTINF:-1,BR: Telecine Touch
-http://iptvtree.net:8080/romaniamedia/45127bdd19/8828
-#EXTINF:-1,BR: Telecine Premium
-http://iptvtree.net:8080/romaniamedia/45127bdd19/8829
-#EXTINF:-1,BR: Telecine Pipoca
-http://iptvtree.net:8080/romaniamedia/45127bdd19/8830
-#EXTINF:-1,BR: Telecine Fun
-http://iptvtree.net:8080/romaniamedia/45127bdd19/8831
-#EXTINF:-1,BR: Telecine Cult
-http://iptvtree.net:8080/romaniamedia/45127bdd19/197080
-#EXTINF:-1,BR: Telecine Action
-http://iptvtree.net:8080/romaniamedia/45127bdd19/193685
 #EXTINF:-1,BR: TCM
 http://iptvtree.net:8080/romaniamedia/45127bdd19/8853
 #EXTINF:-1,BR: SYFY
@@ -292,24 +314,6 @@ http://iptvtree.net:8080/romaniamedia/45127bdd19/295111
 http://iptvtree.net:8080/romaniamedia/45127bdd19/8882
 #EXTINF:-1,BR: Paramount Network
 http://iptvtree.net:8080/romaniamedia/45127bdd19/8859
-#EXTINF:-1,BR: HBO+
-http://iptvtree.net:8080/romaniamedia/45127bdd19/8823
-#EXTINF:-1,BR: HBO Xtreme
-http://iptvtree.net:8080/romaniamedia/45127bdd19/8824
-#EXTINF:-1,BR: HBO Signature
-http://iptvtree.net:8080/romaniamedia/45127bdd19/8836
-#EXTINF:-1,BR: HBO Pop
-http://iptvtree.net:8080/romaniamedia/45127bdd19/173434
-#EXTINF:-1,BR: HBO Mundi
-http://iptvtree.net:8080/romaniamedia/45127bdd19/8837
-#EXTINF:-1,BR: HBO Family
-http://iptvtree.net:8080/romaniamedia/45127bdd19/8839
-#EXTINF:-1,BR: HBO 2
-http://iptvtree.net:8080/romaniamedia/45127bdd19/8821
-#EXTINF:-1,BR: HBO
-http://iptvtree.net:8080/romaniamedia/45127bdd19/8822
-#EXTINF:-1,BR: Fox Life
-http://iptvtree.net:8080/romaniamedia/45127bdd19/8818
 #EXTINF:-1,BR: Fox Crime
 http://iptvtree.net:8080/romaniamedia/45127bdd19/16366
 #EXTINF:-1,BR: Fox Channel
