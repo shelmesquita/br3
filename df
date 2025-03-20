@@ -1,21 +1,19 @@
 #EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="BR | A&E HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/aande.png" group-title="ⓣⓥ ║  BRASIL",BR | A&E HD
+http://pro2.premium-tv.org:80/aziz/aziz/155806
+#EXTINF:-1 tvg-ID="" tvg-name="BR | BIS HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/bis.png" group-title="ⓣⓥ ║  BRASIL",BR | BIS HD
+http://pro2.premium-tv.org:80/aziz/aziz/155790
+#EXTINF:-1 tvg-ID="" tvg-name="BR | COMEDY CENTRAL HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/comedycentral.png" group-title="ⓣⓥ ║  BRASIL",BR | COMEDY CENTRAL HD
+http://pro2.premium-tv.org:80/aziz/aziz/155800
+#EXTINF:-1 tvg-ID="" tvg-name="BR | E! HD" tvg-logo="https://logo-iptvpro.com/logo/52430.png" group-title="ⓣⓥ ║  BRASIL",BR | E! HD
+http://pro2.premium-tv.org:80/aziz/aziz/220305
+#EXTINF:-1 tvg-ID="" tvg-name="BR | FASHION HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/fashiontv.png" group-title="ⓣⓥ ║  BRASIL",BR | FASHION HD
+http://pro2.premium-tv.org:80/aziz/aziz/155701
+#EXTINF:-1 tvg-ID="FishTV.br" tvg-name="BR | FISH TV HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/fishtv.png" group-title="ⓣⓥ ║  BRASIL",BR | FISH TV HD
+http://pro2.premium-tv.org:80/aziz/aziz/155706
+#EXTINF:-1 tvg-ID="" tvg-name="BR | FOOD NETWORK HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/foodnetworkhd.png" group-title="ⓣⓥ ║  BRASIL",BR | FOOD NETWORK HD
+http://pro2.premium-tv.org:80/aziz/aziz/155710
 
-#EXTINF:-1,A&E FHD
-http://cdntkzx.xyz:80/144170328/119277680/17574.ts
-#EXTINF:-1,A&E FHD [H265]
-http://cdntkzx.xyz:80/144170328/119277680/113147.ts
-#EXTINF:-1,A&E HD
-http://cdntkzx.xyz:80/144170328/119277680/17575.ts
-#EXTINF:-1,A&E SD
-http://cdntkzx.xyz:80/144170328/119277680/113098.ts
-#EXTINF:-1,AMC FHD
-http://cdntkzx.xyz:80/144170328/119277680/113102.ts
-#EXTINF:-1,AMC FHD [H265]
-http://cdntkzx.xyz:80/144170328/119277680/113146.ts
-#EXTINF:-1,AMC HD
-http://cdntkzx.xyz:80/144170328/119277680/17987.ts
-#EXTINF:-1,AMC SD
-http://cdntkzx.xyz:80/144170328/119277680/113101.ts
 #EXTINF:-1 tvg-ID="" tvg-name="•●★----BR | NOTÍCIAS BR |----★●•" tvg-logo="http://logo.premium-ott.com:8000/flags/br.png" group-title="ⓣⓥ ║  BRASIL",•●★----BR | NOTÍCIAS BR |----★●•
 http://pro2.premium-tv.org:8789/aziz/aziz/155782
 #EXTINF:-1 tvg-ID="" tvg-name="BR | CNN BRASIL  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/langfr-360px-CNN_Brasil.svg.png" group-title="ⓣⓥ ║  BRASIL",BR | CNN BRASIL  HD
