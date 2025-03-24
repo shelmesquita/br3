@@ -1,18 +1,70 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="BR | A&E HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/aande.png" group-title="ⓣⓥ ║  BRASIL",BR | A&E HD
-http://pro2.premium-tv.org:80/aziz/aziz/155806
-#EXTINF:-1 tvg-ID="" tvg-name="BR | BIS HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/bis.png" group-title="ⓣⓥ ║  BRASIL",BR | BIS HD
-http://pro2.premium-tv.org:80/aziz/aziz/155790
-#EXTINF:-1 tvg-ID="" tvg-name="BR | COMEDY CENTRAL HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/comedycentral.png" group-title="ⓣⓥ ║  BRASIL",BR | COMEDY CENTRAL HD
-http://pro2.premium-tv.org:80/aziz/aziz/155800
-#EXTINF:-1 tvg-ID="" tvg-name="BR | E! HD" tvg-logo="https://logo-iptvpro.com/logo/52430.png" group-title="ⓣⓥ ║  BRASIL",BR | E! HD
-http://pro2.premium-tv.org:80/aziz/aziz/220305
-#EXTINF:-1 tvg-ID="" tvg-name="BR | FASHION HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/fashiontv.png" group-title="ⓣⓥ ║  BRASIL",BR | FASHION HD
-http://pro2.premium-tv.org:80/aziz/aziz/155701
-#EXTINF:-1 tvg-ID="FishTV.br" tvg-name="BR | FISH TV HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/fishtv.png" group-title="ⓣⓥ ║  BRASIL",BR | FISH TV HD
-http://pro2.premium-tv.org:80/aziz/aziz/155706
-#EXTINF:-1 tvg-ID="" tvg-name="BR | FOOD NETWORK HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/foodnetworkhd.png" group-title="ⓣⓥ ║  BRASIL",BR | FOOD NETWORK HD
-http://pro2.premium-tv.org:80/aziz/aziz/155710
+
+#EXTINF:-1,BR: GLOBO HD
+http://cord-cutter.net:8080/hq3y4G/234247/164943
+#EXTINF:-1,BR: GLOBO MINAS HD
+http://cord-cutter.net:8080/hq3y4G/234247/164944
+#EXTINF:-1,BR: GLOBO NEWS HD
+http://cord-cutter.net:8080/hq3y4G/234247/164945
+#EXTINF:-1,BR: ESPN
+http://cord-cutter.net:8080/hq3y4G/234247/164948
+#EXTINF:-1,BR: HBO HD
+http://cord-cutter.net:8080/hq3y4G/234247/164950
+#EXTINF:-1,BR: TNT SERIES HD
+http://cord-cutter.net:8080/hq3y4G/234247/164958
+
+#EXTINF:-1,BR:-----|Noticias|-----------------------
+http://yesimes.oknirvana.club:8880/D12m3567/86176145/66165
+#EXTINF:-1,BR079:CNN BRASIL HD
+http://yesimes.oknirvana.club:8880/D12m3567/86176145/2453
+#EXTINF:-1,BR007:Band News HD
+http://yesimes.oknirvana.club:8880/D12m3567/86176145/2525
+#EXTINF:-1,BR176:Globo News FHD
+http://yesimes.oknirvana.club:8880/D12m3567/86176145/65731
+#EXTINF:-1,BR177:Globo News SD
+http://yesimes.oknirvana.club:8880/D12m3567/86176145/65732
+#EXTINF:-1,BR045:Globo News HD
+http://yesimes.oknirvana.club:8880/D12m3567/86176145/2487
+
+
+
+#EXTINF:-1,BR:-----|Noticias|-----------------------
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/66165
+#EXTINF:-1,BR079:CNN BRASIL HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2453
+#EXTINF:-1,BR007:Band News HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2525
+#EXTINF:-1,BR176:Globo News FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65731
+#EXTINF:-1,BR177:Globo News SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65732
+#EXTINF:-1,BR045:Globo News HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2487
+
+
+#EXTINF:-1,BR:-----|Noticias|-----------------------
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/66165
+#EXTINF:-1,BR079:CNN BRASIL HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2453
+#EXTINF:-1,BR007:Band News HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2525
+#EXTINF:-1,BR176:Globo News FHD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65731
+#EXTINF:-1,BR177:Globo News SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65732
+
+#EXTINF:-1,BR:-----|Filmes e Series|---------------------------------
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/66011
+#EXTINF:-1,BR061:Max
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2471
+#EXTINF:-1,BR062:Max Prime
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2470
+#EXTINF:-1,BR063:Max Up
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2469
+#EXTINF:-1,BR080:Globo SP
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2452
+#EXTINF:-1,BR099:TLC HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2433
 
 #EXTINF:-1 tvg-ID="" tvg-name="•●★----BR | NOTÍCIAS BR |----★●•" tvg-logo="http://logo.premium-ott.com:8000/flags/br.png" group-title="ⓣⓥ ║  BRASIL",•●★----BR | NOTÍCIAS BR |----★●•
 http://pro2.premium-tv.org:8789/aziz/aziz/155782
