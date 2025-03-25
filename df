@@ -1,37 +1,15 @@
-#EXTM3U
-
-#EXTINF:-1,BR: GLOBO HD
-http://cord-cutter.net:8080/hq3y4G/234247/164943
-#EXTINF:-1,BR: GLOBO MINAS HD
-http://cord-cutter.net:8080/hq3y4G/234247/164944
-#EXTINF:-1,BR: GLOBO NEWS HD
-http://cord-cutter.net:8080/hq3y4G/234247/164945
-#EXTINF:-1,BR: ESPN
-http://cord-cutter.net:8080/hq3y4G/234247/164948
-#EXTINF:-1,BR: HBO HD
-http://cord-cutter.net:8080/hq3y4G/234247/164950
-#EXTINF:-1,BR: TNT SERIES HD
-http://cord-cutter.net:8080/hq3y4G/234247/164958
-
 #EXTINF:-1,BR:-----|Noticias|-----------------------
-http://yesimes.oknirvana.club:8880/D12m3567/86176145/66165
-#EXTINF:-1,BR079:CNN BRASIL HD
-http://yesimes.oknirvana.club:8880/D12m3567/86176145/2453
-#EXTINF:-1,BR007:Band News HD
-http://yesimes.oknirvana.club:8880/D12m3567/86176145/2525
-#EXTINF:-1,BR176:Globo News FHD
-http://yesimes.oknirvana.club:8880/D12m3567/86176145/65731
-#EXTINF:-1,BR177:Globo News SD
-http://yesimes.oknirvana.club:8880/D12m3567/86176145/65732
-#EXTINF:-1,BR045:Globo News HD
-http://yesimes.oknirvana.club:8880/D12m3567/86176145/2487
 
-
-
-#EXTINF:-1,BR:-----|Noticias|-----------------------
-http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/66165
 #EXTINF:-1,BR079:CNN BRASIL HD
 http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2453
+#EXTINF:-1,BR079:CNN BRASIL HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2453
+#EXTINF:-1,BR079:CNN BRASIL HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2453
+#EXTINF:-1,BR007:Band News HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2525
+#EXTINF:-1,BR007:Band News HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2525
 #EXTINF:-1,BR007:Band News HD
 http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2525
 #EXTINF:-1,BR176:Globo News FHD
@@ -40,19 +18,207 @@ http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65731
 http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65732
 #EXTINF:-1,BR045:Globo News HD
 http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2487
-
-
-#EXTINF:-1,BR:-----|Noticias|-----------------------
-http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/66165
-#EXTINF:-1,BR079:CNN BRASIL HD
-http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2453
-#EXTINF:-1,BR007:Band News HD
-http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2525
+#EXTINF:-1,BR177:Globo News SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65732
 #EXTINF:-1,BR176:Globo News FHD
 http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65731
 #EXTINF:-1,BR177:Globo News SD
 http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65732
+#EXTINF:-1,BR045:Globo News HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2487
+#EXTINF:-1,BR176:Globo News FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65731
+#EXTINF:-1,BR045:Globo News HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2487
+#EXTINF:-1,BR:-----|Documentarios|---------------------------------
 
+#EXTINF:-1,BR108:Animal Planet FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65663
+#EXTINF:-1,BR003:Animal Planet HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2529
+#EXTINF:-1,BR108:Animal Planet FHD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65663
+#EXTINF:-1,BR003:Animal Planet HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2529
+#EXTINF:-1,BR108:Animal Planet FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65663
+#EXTINF:-1,BR003:Animal Planet HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2529
+#EXTINF:-1,BR019:Discovery Civilization HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2513
+#EXTINF:-1,BR019:Discovery Civilization HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2513
+#EXTINF:-1,BR019:Discovery Civilization HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2513
+#EXTINF:-1,BR138:Discovery Science FHD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65693
+#EXTINF:-1,BR022:Discovery Science HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2510
+#EXTINF:-1,BR139:Discovery Science SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65694
+#EXTINF:-1,BR138:Discovery Science FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65693
+#EXTINF:-1,BR138:Discovery Science FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65693
+#EXTINF:-1,BR022:Discovery Science HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2510
+#EXTINF:-1,BR139:Discovery Science SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65694
+#EXTINF:-1,BR023:Discovery Theater HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2509
+#EXTINF:-1,BR022:Discovery Science HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2510
+#EXTINF:-1,BR139:Discovery Science SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65694
+#EXTINF:-1,BR023:Discovery Theater HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2509
+#EXTINF:-1,BR023:Discovery Theater HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2509
+#EXTINF:-1,BR024:Discovery Turbo HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2508
+#EXTINF:-1,BR144:Discovery Turbo SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65699
+#EXTINF:-1,BR024:Discovery Turbo HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2508
+#EXTINF:-1,BR144:Discovery Turbo SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65699
+#EXTINF:-1,BR145:Discovery World FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65700
+#EXTINF:-1,BR025:Discovery World HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2507
+#EXTINF:-1,BR146:Discovery World SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65701
+#EXTINF:-1,BR145:Discovery World FHD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65700
+#EXTINF:-1,BR025:Discovery World HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2507
+#EXTINF:-1,BR146:Discovery World SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65701
+#EXTINF:-1,BR145:Discovery World FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65700
+#EXTINF:-1,BR025:Discovery World HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2507
+#EXTINF:-1,BR146:Discovery World SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65701
+#EXTINF:-1,BR058:Investigacao Discovery HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2474
+#EXTINF:-1,BR201:Investigacao Discovery SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65756
+#EXTINF:-1,BR058:Investigacao Discovery HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2474
+#EXTINF:-1,BR018:Discovery HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2514
+#EXTINF:-1,BR018:Discovery HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2514
+#EXTINF:-1,BR018:Discovery HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2514
+#EXTINF:-1,BR201:Investigacao Discovery SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65756
+#EXTINF:-1,BR058:Investigacao Discovery HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2474
+#EXTINF:-1,BR201:Investigacao Discovery SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65756
+#EXTINF:-1,BR198:History Channel FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65753
+#EXTINF:-1,BR057:History HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2475
+#EXTINF:-1,BR199:History Channel SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65754
+#EXTINF:-1,BR198:History Channel FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65753
+#EXTINF:-1,BR057:History HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2475
+#EXTINF:-1,BR199:History Channel SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65754
+#EXTINF:-1,BR184:H2 FHD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65739
+#EXTINF:-1,BR184:H2 FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65739
+#EXTINF:-1,BR051:H2 HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2481
+#EXTINF:-1,BR185:H2 SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65740
+#EXTINF:-1,BR051:H2 HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2481
+#EXTINF:-1,BR185:H2 SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65740
+#EXTINF:-1,BR198:History Channel FHD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65753
+#EXTINF:-1,BR057:History HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2475
+#EXTINF:-1,BR199:History Channel SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65754
+#EXTINF:-1,BR184:H2 FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65739
+#EXTINF:-1,BR051:H2 HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2481
+#EXTINF:-1,BR185:H2 SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65740
+#EXTINF:-1,BR068:NAT GEO HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2464
+#EXTINF:-1,BR068:NAT GEO HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2464
+#EXTINF:-1,BR070:NAT GEO Wild HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2462
+#EXTINF:-1,BR068:NAT GEO HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2464
+#EXTINF:-1,BR070:NAT GEO Wild HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2462
+#EXTINF:-1,BR142:Discovery TLC SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65697
+#EXTINF:-1,BR142:Discovery TLC SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65697
+#EXTINF:-1,BR142:Discovery TLC SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65697
+
+#EXTINF:-1,BR134:Discovery Home & Health FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65689
+#EXTINF:-1,BR020:Discovery Home Health HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2512
+#EXTINF:-1,BR135:Discovery Home & Health SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65690
+#EXTINF:-1,BR134:Discovery Home & Health FHD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65689
+#EXTINF:-1,BR020:Discovery Home Health HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2512
+#EXTINF:-1,BR135:Discovery Home & Health SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65690
+#EXTINF:-1,BR134:Discovery Home & Health FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65689
+#EXTINF:-1,BR020:Discovery Home Health HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2512
+#EXTINF:-1,BR135:Discovery Home & Health SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65690
+#EXTINF:-1,BR029:E! HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2503
+#EXTINF:-1,BR153:E! SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65708
+#EXTINF:-1,BR029:E! HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2503
+#EXTINF:-1,BR153:E! SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65708
+#EXTINF:-1,BR029:E! HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2503
+#EXTINF:-1,BR153:E! SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65708
+#EXTINF:-1,BR160:Food Network FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65715
+#EXTINF:-1,BR037:Food Network HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2495
+#EXTINF:-1,BR161:Food Network SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65716
+#EXTINF:-1,BR160:Food Network FHD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65715
+#EXTINF:-1,BR037:Food Network HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2495
+#EXTINF:-1,BR161:Food Network SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65716
+#EXTINF:-1,BR160:Food Network FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65715
+#EXTINF:-1,BR037:Food Network HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2495
+#EXTINF:-1,BR161:Food Network SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65716
 #EXTINF:-1,BR:-----|Filmes e Series|---------------------------------
 http://yesimes.oknirvana.club:8880/6mk150004/18315958/66011
 #EXTINF:-1,BR061:Max
@@ -61,665 +227,855 @@ http://yesimes.oknirvana.club:8880/6mk150004/18315958/2471
 http://yesimes.oknirvana.club:8880/6mk150004/18315958/2470
 #EXTINF:-1,BR063:Max Up
 http://yesimes.oknirvana.club:8880/6mk150004/18315958/2469
-#EXTINF:-1,BR080:Globo SP
-http://yesimes.oknirvana.club:8880/6mk150004/18315958/2452
 #EXTINF:-1,BR099:TLC HD
 http://yesimes.oknirvana.club:8880/6mk150004/18315958/2433
+#EXTINF:-1,BR104:A&E FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65659
+#EXTINF:-1,BR001:A&E HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2531
+#EXTINF:-1,BR105:A&E SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65660
+#EXTINF:-1,BR104:A&E FHD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65659
+#EXTINF:-1,BR001:A&E HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2531
+#EXTINF:-1,BR105:A&E SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65660
+#EXTINF:-1,BR104:A&E FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65659
+#EXTINF:-1,BR001:A&E HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2531
+#EXTINF:-1,BR105:A&E SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65660
+#EXTINF:-1,BR106:AMC FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65661
+#EXTINF:-1,BR002:AMC HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2530
+#EXTINF:-1,BR107:AMC SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65662
+#EXTINF:-1,BR106:AMC FHD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65661
+#EXTINF:-1,BR002:AMC HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2530
+#EXTINF:-1,BR107:AMC SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65662
+#EXTINF:-1,BR106:AMC FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65661
+#EXTINF:-1,BR002:AMC HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2530
+#EXTINF:-1,BR107:AMC SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65662
+#EXTINF:-1,BR112:AXN FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65667
+#EXTINF:-1,BR005:AXN HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2527
+#EXTINF:-1,BR113:AXN SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65668
+#EXTINF:-1,BR112:AXN FHD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65667
+#EXTINF:-1,BR005:AXN HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2527
+#EXTINF:-1,BR113:AXN SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65668
+#EXTINF:-1,BR112:AXN FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65667
+#EXTINF:-1,BR005:AXN HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2527
+#EXTINF:-1,BR113:AXN SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65668
+#EXTINF:-1,BR122:Cinemax FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65677
+#EXTINF:-1,BR014:Cinemax HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2518
+#EXTINF:-1,BR123:Cinemax SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65678
+#EXTINF:-1,BR122:Cinemax FHD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65677
+#EXTINF:-1,BR014:Cinemax HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2518
+#EXTINF:-1,BR123:Cinemax SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65678
+#EXTINF:-1,BR122:Cinemax FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65677
+#EXTINF:-1,BR014:Cinemax HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2518
+#EXTINF:-1,BR123:Cinemax SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65678
+#EXTINF:-1,BR162:Fox FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65717
+#EXTINF:-1,BR038:Fox HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2494
+#EXTINF:-1,BR168:Fox SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65723
+#EXTINF:-1,BR162:Fox FHD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65717
+#EXTINF:-1,BR038:Fox HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2494
+#EXTINF:-1,BR168:Fox SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65723
+#EXTINF:-1,BR162:Fox FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65717
+#EXTINF:-1,BR038:Fox HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2494
+#EXTINF:-1,BR168:Fox SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65723
+#EXTINF:-1,BR173:Fx FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65728
+#EXTINF:-1,BR044:FX HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2488
+#EXTINF:-1,BR174:Fx SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65729
+#EXTINF:-1,BR173:Fx FHD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65728
+#EXTINF:-1,BR044:FX HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2488
+#EXTINF:-1,BR174:Fx SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65729
+#EXTINF:-1,BR044:FX HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2488
+#EXTINF:-1,BR173:Fx FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65728
+#EXTINF:-1,BR174:Fx SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65729
+#EXTINF:-1,BR039:Fox Life HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2493
+#EXTINF:-1,BR163:Fox Life SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65718
+#EXTINF:-1,BR039:Fox Life HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2493
+#EXTINF:-1,BR163:Fox Life SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65718
+#EXTINF:-1,BR039:Fox Life HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2493
+#EXTINF:-1,BR163:Fox Life SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65718
+#EXTINF:-1,BR061:Max
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2471
+#EXTINF:-1,BR061:Max
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2471
+#EXTINF:-1,BR062:Max Prime
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2470
+#EXTINF:-1,BR062:Max Prime
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2470
+#EXTINF:-1,BR063:Max Up
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2469
+#EXTINF:-1,BR063:Max Up
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2469
+#EXTINF:-1,BR064:MegaPix HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2468
+#EXTINF:-1,BR064:MegaPix HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2468
+#EXTINF:-1,BR064:MegaPix HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2468
+#EXTINF:-1,BR218:Paramount Channel FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65773
+#EXTINF:-1,BR074:Paramount Channel HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2458
+#EXTINF:-1,BR219:Paramount Channel SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65774
+#EXTINF:-1,BR074:Paramount Channel HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2458
+#EXTINF:-1,BR219:Paramount Channel SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65774
+#EXTINF:-1,BR218:Paramount Channel FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65773
+#EXTINF:-1,BR074:Paramount Channel HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2458
+#EXTINF:-1,BR219:Paramount Channel SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65774
+#EXTINF:-1,BR232:Space FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65787
+#EXTINF:-1,BR086:Space HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2446
+#EXTINF:-1,BR233:Space SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65788
+#EXTINF:-1,BR232:Space FHD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65787
+#EXTINF:-1,BR086:Space HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2446
+#EXTINF:-1,BR233:Space SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65788
+#EXTINF:-1,BR232:Space FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65787
+#EXTINF:-1,BR086:Space HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2446
+#EXTINF:-1,BR233:Space SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65788
+#EXTINF:-1,BR240:Studio Universal FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65795
+#EXTINF:-1,BR090:Studio Universal HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2442
+#EXTINF:-1,BR241:Studio Universal SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65796
+#EXTINF:-1,BR240:Studio Universal FHD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65795
+#EXTINF:-1,BR090:Studio Universal HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2442
+#EXTINF:-1,BR241:Studio Universal SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65796
+#EXTINF:-1,BR240:Studio Universal FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65795
+#EXTINF:-1,BR090:Studio Universal HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2442
+#EXTINF:-1,BR241:Studio Universal SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65796
+#EXTINF:-1,BR242:Syfy FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65797
+#EXTINF:-1,BR091:SYFY HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2441
+#EXTINF:-1,BR243:Syfy SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65798
+#EXTINF:-1,BR242:Syfy FHD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65797
+#EXTINF:-1,BR091:SYFY HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2441
+#EXTINF:-1,BR243:Syfy SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65798
+#EXTINF:-1,BR242:Syfy FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65797
+#EXTINF:-1,BR091:SYFY HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2441
+#EXTINF:-1,BR243:Syfy SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65798
+#EXTINF:-1,BR099:TLC HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2433
+#EXTINF:-1,BR099:TLC HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2433
+#EXTINF:-1,BR244:Tbs FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65799
+#EXTINF:-1,BR092:TBS HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2440
+#EXTINF:-1,BR244:Tbs FHD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65799
+#EXTINF:-1,BR092:TBS HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2440
+#EXTINF:-1,BR244:Tbs FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65799
+#EXTINF:-1,BR092:TBS HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2440
+#EXTINF:-1,BR082:Warner Channel HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2450
+#EXTINF:-1,BR267:Warner Channel SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65822
+#EXTINF:-1,BR082:Warner Channel HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2450
+#EXTINF:-1,BR267:Warner Channel SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65822
+#EXTINF:-1,BR082:Warner Channel HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2450
+#EXTINF:-1,BR267:Warner Channel SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65822
+#EXTINF:-1,BR100:TNT HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2432
+#EXTINF:-1,BR100:TNT HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2432
+#EXTINF:-1,BR100:TNT HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2432
+#EXTINF:-1,BR259:TNT Series FHD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65814
+#EXTINF:-1,BR101:TNT Series  HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2431
+#EXTINF:-1,BR260:TNT Series SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65815
+#EXTINF:-1,BR259:TNT Series FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65814
+#EXTINF:-1,BR101:TNT Series  HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2431
+#EXTINF:-1,BR260:TNT Series SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65815
+#EXTINF:-1,BR259:TNT Series FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65814
+#EXTINF:-1,BR101:TNT Series  HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2431
+#EXTINF:-1,BR260:TNT Series SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65815
+#EXTINF:-1,BR261:Universal Channel FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65816
+#EXTINF:-1,BR103:Universal Channel HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2429
+#EXTINF:-1,BR262:Universal Channel SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65817
+#EXTINF:-1,BR261:Universal Channel FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65816
+#EXTINF:-1,BR103:Universal Channel HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2429
+#EXTINF:-1,BR262:Universal Channel SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65817
+#EXTINF:-1,BR261:Universal Channel FHD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65816
+#EXTINF:-1,BR103:Universal Channel HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2429
+#EXTINF:-1,BR262:Universal Channel SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65817
+#EXTINF:-1,BR272:CANAL BRASIL
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/66008
+#EXTINF:-1,BR272:CANAL BRASIL
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/66008
+#EXTINF:-1,BR:-----|Esportes|---------------------------------
+#EXTINF:-1,BR008:Band Sports HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2524
+#EXTINF:-1,BR008:Band Sports HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2524
+#EXTINF:-1,BR117:Band Sports SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65672
+#EXTINF:-1,BR008:Band Sports HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2524
+#EXTINF:-1,BR015:Combate HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2517
+#EXTINF:-1,BR015:Combate HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2517
+#EXTINF:-1,BR127:Conmebol 1
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65682
+#EXTINF:-1,BR157:Conmebol 2
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65712
+#EXTINF:-1,BR015:Combate HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2517
+#EXTINF:-1,BR033:ESPN HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2499
+#EXTINF:-1,BR033:ESPN HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2499
+#EXTINF:-1,BR031:ESPN BRASIL HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2501
+#EXTINF:-1,BR156:Espn Extra FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65711
+#EXTINF:-1,BR030:ESPN Extra HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2502
+#EXTINF:-1,BR031:ESPN BRASIL HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2501
+#EXTINF:-1,BR156:Espn Extra FHD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65711
+#EXTINF:-1,BR030:ESPN Extra HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2502
+#EXTINF:-1,BR033:ESPN HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2499
+#EXTINF:-1,BR156:Espn Extra FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65711
+#EXTINF:-1,BR154:Espn Brasil FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65709
+#EXTINF:-1,BR031:ESPN BRASIL HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2501
+#EXTINF:-1,BR158:Espn SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65713
+#EXTINF:-1,BR155:Espn Brasil SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65710
+#EXTINF:-1,BR030:ESPN Extra HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2502
+#EXTINF:-1,BR012:FISH TV HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2520
+#EXTINF:-1,BR217:Off SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65772
+#EXTINF:-1,BR073:Off HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2459
+#EXTINF:-1,BR073:Off HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2459
+#EXTINF:-1,BR042:Fox Sports 2 HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2490
+#EXTINF:-1,BR043:Fox Sports 1 HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2489
+#EXTINF:-1,BR042:Fox Sports 2 HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2490
+#EXTINF:-1,BR043:Fox Sports 1 HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2489
+#EXTINF:-1,BR042:Fox Sports 2 HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2490
+#EXTINF:-1,BR043:Fox Sports 1 HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2489
+#EXTINF:-1,BR088:Sport TV 3 HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2444
+#EXTINF:-1,BR088:Sport TV 3 HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2444
+#EXTINF:-1,BR236:Sportv 3 FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65791
+#EXTINF:-1,BR088:Sport TV 3 HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2444
+#EXTINF:-1,BR237:Sportv 3 SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65792
+#EXTINF:-1,BR087:Sport TV 2 HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2445
+#EXTINF:-1,BR234:Sportv 2 FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65789
+#EXTINF:-1,BR235:Sportv 2 SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65790
+#EXTINF:-1,BR087:Sport TV 2 HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2445
+#EXTINF:-1,BR087:Sport TV 2 HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2445
+#EXTINF:-1,BR089:Sport TV 1 HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2443
+#EXTINF:-1,BR089:Sport TV 1 HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2443
+#EXTINF:-1,BR238:Sportv FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65793
+#EXTINF:-1,BR089:Sport TV 1 HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2443
+#EXTINF:-1,BR239:Sportv SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65794
+#EXTINF:-1,BR034:DAZN 1 HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2498
+#EXTINF:-1,BR034:DAZN 1 HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2498
+#EXTINF:-1,BR034:DAZN 1 HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2498
+#EXTINF:-1,BR032:WOOHOO HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2500
+#EXTINF:-1,BR268:Woohoo FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65823
+#EXTINF:-1,BR032:WOOHOO HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2500
+#EXTINF:-1,BR268:Woohoo FHD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65823
+#EXTINF:-1,BR032:WOOHOO HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2500
+#EXTINF:-1,BR268:Woohoo FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65823
+#EXTINF:-1,BR:-----|Musicas|--------------------------
+#EXTINF:-1,BR010:BIS HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2522
+#EXTINF:-1,BR010:BIS HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2522
+#EXTINF:-1,BR010:BIS HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2522
+#EXTINF:-1,BR205:Mtv FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65760
+#EXTINF:-1,BR065:MTV HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2467
+#EXTINF:-1,BR207:Multishow FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65762
+#EXTINF:-1,BR066:Multishow HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2466
+#EXTINF:-1,BR066:Multishow HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2466
+#EXTINF:-1,BR207:Multishow FHD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65762
+#EXTINF:-1,BR066:Multishow HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2466
+#EXTINF:-1,BR209:Music Box SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65764
+#EXTINF:-1,BR067:BG MUSIC HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2465
+#EXTINF:-1,BR067:BG MUSIC HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2465
+#EXTINF:-1,BR009:Tooncast
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2523
+#EXTINF:-1,BR205:Mtv FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65760
+#EXTINF:-1,BR207:Multishow FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65762
+#EXTINF:-1,BR209:Music Box SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65764
+#EXTINF:-1,BR:-----|Canais Hbo|---------------------------------
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/66018
+#EXTINF:-1,BR189:Hbo FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65744
+#EXTINF:-1,BR054:HBO HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2478
+#EXTINF:-1,BR193:Hbo SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65748
+#EXTINF:-1,BR189:Hbo FHD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65744
+#EXTINF:-1,BR054:HBO HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2478
+#EXTINF:-1,BR193:Hbo SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65748
+#EXTINF:-1,BR189:Hbo FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65744
+#EXTINF:-1,BR054:HBO HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2478
+#EXTINF:-1,BR193:Hbo SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65748
+#EXTINF:-1,BR186:Hbo 2 FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65741
+#EXTINF:-1,BR052:HBO 2 HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2480
+#EXTINF:-1,BR187:Hbo 2 SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65742
+#EXTINF:-1,BR186:Hbo 2 FHD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65741
+#EXTINF:-1,BR052:HBO 2 HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2480
+#EXTINF:-1,BR187:Hbo 2 SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65742
+#EXTINF:-1,BR186:Hbo 2 FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65741
+#EXTINF:-1,BR052:HBO 2 HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2480
+#EXTINF:-1,BR187:Hbo 2 SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65742
+#EXTINF:-1,BR053:HBO Family HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2479
+#EXTINF:-1,BR188:Hbo family SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65743
+#EXTINF:-1,BR053:HBO Family HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2479
+#EXTINF:-1,BR188:Hbo family SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65743
+#EXTINF:-1,BR053:HBO Family HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2479
+#EXTINF:-1,BR188:Hbo family SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65743
+#EXTINF:-1,BR191:Hbo Plus FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65746
+#EXTINF:-1,BR055:HBO Plus HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2477
+#EXTINF:-1,BR192:Hbo Plus SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65747
+#EXTINF:-1,BR191:Hbo Plus FHD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65746
+#EXTINF:-1,BR055:HBO Plus HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2477
+#EXTINF:-1,BR192:Hbo Plus SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65747
+#EXTINF:-1,BR191:Hbo Plus FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65746
+#EXTINF:-1,BR055:HBO Plus HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2477
+#EXTINF:-1,BR192:Hbo Plus SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65747
+#EXTINF:-1,BR194:Hbo Signature FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65749
+#EXTINF:-1,BR056:HBO Signature HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2476
+#EXTINF:-1,BR195:Hbo Signature SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65750
+#EXTINF:-1,BR194:Hbo Signature FHD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65749
+#EXTINF:-1,BR056:HBO Signature HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2476
+#EXTINF:-1,BR195:Hbo Signature SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65750
+#EXTINF:-1,BR194:Hbo Signature FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65749
+#EXTINF:-1,BR056:HBO Signature HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2476
+#EXTINF:-1,BR195:Hbo Signature SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65750
+#EXTINF:-1,BR196:Hbo Xtreme FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65751
+#EXTINF:-1,BR197:Hbo Xtreme SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65752
+#EXTINF:-1,BR196:Hbo Xtreme FHD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65751
+#EXTINF:-1,BR197:Hbo Xtreme SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65752
+#EXTINF:-1,BR196:Hbo Xtreme FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65751
+#EXTINF:-1,BR197:Hbo Xtreme SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65752
+#EXTINF:-1,BR190:Hbo Mundi SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65745
+#EXTINF:-1,BR190:Hbo Mundi SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65745
+#EXTINF:-1,BR190:Hbo Mundi SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65745
+#EXTINF:-1,BR:-----|Canais Telecine|---------------------------------
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/66012
+#EXTINF:-1,BR245:Telecine Action FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65800
+#EXTINF:-1,BR093:Telecine Action HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2439
+#EXTINF:-1,BR246:Telecine Action SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65801
+#EXTINF:-1,BR245:Telecine Action FHD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65800
+#EXTINF:-1,BR093:Telecine Action HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2439
+#EXTINF:-1,BR246:Telecine Action SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65801
+#EXTINF:-1,BR245:Telecine Action FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65800
+#EXTINF:-1,BR093:Telecine Action HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2439
+#EXTINF:-1,BR246:Telecine Action SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65801
+#EXTINF:-1,BR247:Telecine Cult FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65802
+#EXTINF:-1,BR094:Telecine Cult HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2438
+#EXTINF:-1,BR248:Telecine Cult SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65803
+#EXTINF:-1,BR247:Telecine Cult FHD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65802
+#EXTINF:-1,BR094:Telecine Cult HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2438
+#EXTINF:-1,BR248:Telecine Cult SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65803
+#EXTINF:-1,BR247:Telecine Cult FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65802
+#EXTINF:-1,BR094:Telecine Cult HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2438
+#EXTINF:-1,BR248:Telecine Cult SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65803
+#EXTINF:-1,BR249:Telecine Fun FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65804
+#EXTINF:-1,BR095:Telecine Fun HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2437
+#EXTINF:-1,BR250:Telecine Fun SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65805
+#EXTINF:-1,BR249:Telecine Fun FHD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65804
+#EXTINF:-1,BR095:Telecine Fun HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2437
+#EXTINF:-1,BR250:Telecine Fun SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65805
+#EXTINF:-1,BR095:Telecine Fun HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2437
+#EXTINF:-1,BR250:Telecine Fun SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65805
+#EXTINF:-1,BR251:Telecine Pipoca FHD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65806
+#EXTINF:-1,BR096:Telecine Pipoca HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2436
+#EXTINF:-1,BR252:Telecine Pipoca SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65807
+#EXTINF:-1,BR251:Telecine Pipoca FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65806
+#EXTINF:-1,BR096:Telecine Pipoca HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2436
+#EXTINF:-1,BR252:Telecine Pipoca SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65807
+#EXTINF:-1,BR251:Telecine Pipoca FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65806
+#EXTINF:-1,BR096:Telecine Pipoca HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2436
+#EXTINF:-1,BR252:Telecine Pipoca SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65807
+#EXTINF:-1,BR249:Telecine Fun FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65804
+#EXTINF:-1,BR253:Telecine Premium FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65808
+#EXTINF:-1,BR097:Telecine Premium HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2435
+#EXTINF:-1,BR254:Telecine Premium SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65809
+#EXTINF:-1,BR253:Telecine Premium FHD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65808
+#EXTINF:-1,BR097:Telecine Premium HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2435
+#EXTINF:-1,BR254:Telecine Premium SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65809
+#EXTINF:-1,BR253:Telecine Premium FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65808
+#EXTINF:-1,BR097:Telecine Premium HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2435
+#EXTINF:-1,BR254:Telecine Premium SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65809
+#EXTINF:-1,BR255:Telecine Touch FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65810
+#EXTINF:-1,BR098:Telecine Touch HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2434
+#EXTINF:-1,BR256:Telecine Touch SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65811
+#EXTINF:-1,BR255:Telecine Touch FHD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65810
+#EXTINF:-1,BR098:Telecine Touch HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2434
+#EXTINF:-1,BR256:Telecine Touch SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65811
+#EXTINF:-1,BR255:Telecine Touch FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65810
+#EXTINF:-1,BR098:Telecine Touch HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2434
+#EXTINF:-1,BR256:Telecine Touch SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65811
+#EXTINF:-1,BR:-----|Canais Premiere|---------------------------------
 
-#EXTINF:-1 tvg-ID="" tvg-name="•●★----BR | NOTÍCIAS BR |----★●•" tvg-logo="http://logo.premium-ott.com:8000/flags/br.png" group-title="ⓣⓥ ║  BRASIL",•●★----BR | NOTÍCIAS BR |----★●•
-http://pro2.premium-tv.org:8789/aziz/aziz/155782
-#EXTINF:-1 tvg-ID="" tvg-name="BR | CNN BRASIL  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/langfr-360px-CNN_Brasil.svg.png" group-title="ⓣⓥ ║  BRASIL",BR | CNN BRASIL  HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155861
-#EXTINF:-1 tvg-ID="" tvg-name="BR | JOVEM PAN NEWS HD" tvg-logo="https://logo-iptvpro.com/logo/52371.png" group-title="ⓣⓥ ║  BRASIL",BR | JOVEM PAN NEWS HD
-http://pro2.premium-tv.org:8789/aziz/aziz/220588
-#EXTINF:-1,Brasil: GLOBO NEWS FHD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/383.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | GLOBO NEWS HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/globonews.png" group-title="ⓣⓥ ║  BRASIL",BR | GLOBO NEWS HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155780
-#EXTINF:-1 tvg-ID="" tvg-name="BR | RECORD NEWS HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/recordnews.png" group-title="ⓣⓥ ║  BRASIL",BR | RECORD NEWS HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155781
-#EXTINF:-1 tvg-ID="" tvg-name="BR | BAND NEWS HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/bandnews.png" group-title="ⓣⓥ ║  BRASIL",BR | BAND NEWS HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155779
+#EXTINF:-1,BR220:Premiere 2 FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65775
+#EXTINF:-1,BR075:Premiere 2 HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2457
+#EXTINF:-1,BR221:Premiere 2 SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65776
+#EXTINF:-1,BR220:Premiere 2 FHD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65775
+#EXTINF:-1,BR075:Premiere 2 HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2457
+#EXTINF:-1,BR221:Premiere 2 SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65776
+#EXTINF:-1,BR220:Premiere 2 FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65775
+#EXTINF:-1,BR075:Premiere 2 HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2457
+#EXTINF:-1,BR221:Premiere 2 SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65776
+#EXTINF:-1,BR076:Premiere 3 HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2456
+#EXTINF:-1,BR222:Premiere 3 SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65777
+#EXTINF:-1,BR076:Premiere 3 HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2456
+#EXTINF:-1,BR222:Premiere 3 SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65777
+#EXTINF:-1,BR076:Premiere 3 HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2456
+#EXTINF:-1,BR222:Premiere 3 SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65777
+#EXTINF:-1,BR223:Premiere 4 FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65778
+#EXTINF:-1,BR077:Premiere 4 HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2455
+#EXTINF:-1,BR224:Premiere 4 SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65779
+#EXTINF:-1,BR223:Premiere 4 FHD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65778
+#EXTINF:-1,BR077:Premiere 4 HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2455
+#EXTINF:-1,BR224:Premiere 4 SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65779
+#EXTINF:-1,BR223:Premiere 4 FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65778
+#EXTINF:-1,BR077:Premiere 4 HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2455
+#EXTINF:-1,BR224:Premiere 4 SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65779
+#EXTINF:-1,BR225:Premiere 5 FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65780
+#EXTINF:-1,BR078:Premiere 5 HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2454
+#EXTINF:-1,BR226:Premiere 5 SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65781
+#EXTINF:-1,BR225:Premiere 5 FHD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65780
+#EXTINF:-1,BR078:Premiere 5 HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2454
+#EXTINF:-1,BR226:Premiere 5 SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65781
+#EXTINF:-1,BR225:Premiere 5 FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65780
+#EXTINF:-1,BR078:Premiere 5 HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2454
+#EXTINF:-1,BR226:Premiere 5 SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65781
+#EXTINF:-1,BR227:Premiere Clubes FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65782
+#EXTINF:-1,BR081:Premiere Clubes HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2451
+#EXTINF:-1,BR228:Premiere Clubes SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65783
+#EXTINF:-1,BR227:Premiere Clubes FHD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65782
+#EXTINF:-1,BR081:Premiere Clubes HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2451
+#EXTINF:-1,BR228:Premiere Clubes SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65783
+#EXTINF:-1,BR227:Premiere Clubes FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65782
+#EXTINF:-1,BR081:Premiere Clubes HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2451
+#EXTINF:-1,BR228:Premiere Clubes SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65783
+#EXTINF:-1,BR:-----|Infantis|---------------------------------
 
-#EXTINF:-1 tvg-ID="" tvg-name="•●★---BR | VARIEDADES BR |---★●•" tvg-logo="http://logo.premium-ott.com:8000/flags/br.png" group-title="ⓣⓥ ║  BRASIL",•●★---BR | VARIEDADES BR |---★●•
-http://pro2.premium-tv.org:8789/aziz/aziz/155717
-#EXTINF:-1 tvg-ID="" tvg-name="BR | BIS HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/bis.png" group-title="ⓣⓥ ║  BRASIL",BR | BIS HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155790
-#EXTINF:-1,BIS 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/419
-#EXTINF:-1,BIS HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/420
-#EXTINF:-1,BIS 4K
-http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/419
-#EXTINF:-1,BIS HD
-http://authxplus-2.xyz:2082/XPLUS2EXTRA-ky4s23DEWV/HEVDdG1VSh/420
-#EXTINF:-1 tvg-ID="" tvg-name="BR | COMEDY CENTRAL HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/comedycentral.png" group-title="ⓣⓥ ║  BRASIL",BR | COMEDY CENTRAL HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155800
-#EXTINF:-1 tvg-ID="" tvg-name="BR | E! HD" tvg-logo="https://logo-iptvpro.com/logo/52430.png" group-title="ⓣⓥ ║  BRASIL",BR | E! HD
-http://pro2.premium-tv.org:8789/aziz/aziz/220305
-#EXTINF:-1,Brasil: E! HD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/374.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | FASHION HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/fashiontv.png" group-title="ⓣⓥ ║  BRASIL",BR | FASHION HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155701
-#EXTINF:-1 tvg-ID="FishTV.br" tvg-name="BR | FISH TV HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/fishtv.png" group-title="ⓣⓥ ║  BRASIL",BR | FISH TV HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155706
-#EXTINF:-1 tvg-ID="" tvg-name="BR | GNT HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/gnt.png" group-title="ⓣⓥ ║  BRASIL",BR | GNT HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155714
-#EXTINF:-1 tvg-ID="" tvg-name="BR | HGTV HD" tvg-logo="https://logo-iptvpro.com/logo/52425.png" group-title="ⓣⓥ ║  BRASIL",BR | HGTV HD
-http://pro2.premium-tv.org:8789/aziz/aziz/220304
-#EXTINF:-1 tvg-ID="Lifetime.br" tvg-name="BR | LIFE TIME HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/lifetime.png" group-title="ⓣⓥ ║  BRASIL",BR | LIFE TIME HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155803
-#EXTINF:-1,Brasil: LIFETIME HD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/392.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | MTV 00S HD" tvg-logo="https://logo-iptvpro.com/logo/52421.png" group-title="ⓣⓥ ║  BRASIL",BR | MTV 00S HD
-http://pro2.premium-tv.org:8789/aziz/aziz/220302
-#EXTINF:-1 tvg-ID="" tvg-name="BR | MTV HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/mtv.png" group-title="ⓣⓥ ║  BRASIL",BR | MTV HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155786
-#EXTINF:-1 tvg-ID="" tvg-name="BR | MTV LIVE HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/mtvlivehd.png" group-title="ⓣⓥ ║  BRASIL",BR | MTV LIVE HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155785
-#EXTINF:-1 tvg-ID="" tvg-name="BR | MULTISHOW HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/multishow.png" group-title="ⓣⓥ ║  BRASIL",BR | MULTISHOW HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155787
-#EXTINF:-1 tvg-ID="" tvg-name="BR | MUSIC BOX" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/musicboxbrazil.png" group-title="ⓣⓥ ║  BRASIL",BR | MUSIC BOX
-http://pro2.premium-tv.org:8789/aziz/aziz/155783
-#EXTINF:-1 tvg-ID="" tvg-name="BR | PRIME BOX" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/primeboxbrasil.png" group-title="ⓣⓥ ║  BRASIL",BR | PRIME BOX
-http://pro2.premium-tv.org:8789/aziz/aziz/155822
-#EXTINF:-1 tvg-ID="" tvg-name="BR | RETRO MUSIC" tvg-logo="https://logo-iptvpro.com/logo/52414.png" group-title="ⓣⓥ ║  BRASIL",BR | RETRO MUSIC
-http://pro2.premium-tv.org:8789/aziz/aziz/220300
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TLC HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/tlc.png" group-title="ⓣⓥ ║  BRASIL",BR | TLC HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155716
-#EXTINF:-1,TLC 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/91
-#EXTINF:-1,TLC HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/92
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TRACE BRAZUCA HD" tvg-logo="https://logo-iptvpro.com/logo/52412.png" group-title="ⓣⓥ ║  BRASIL",BR | TRACE BRAZUCA HD
-http://pro2.premium-tv.org:8789/aziz/aziz/220299
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TRAVEL BOX HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/travelboxbrasil.png" group-title="ⓣⓥ ║  BRASIL",BR | TRAVEL BOX HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155735
-#EXTINF:-1 tvg-ID="Viva.br" tvg-name="BR | VIVA HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/viva.png" group-title="ⓣⓥ ║  BRASIL",BR | VIVA HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155712
-#EXTINF:-1,WOOHOO HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/117
-#EXTINF:-1 tvg-ID="" tvg-name="BR | WOOHOO HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/woohoo.png" group-title="ⓣⓥ ║  BRASIL",BR | WOOHOO HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155708
-#EXTINF:-1 tvg-ID="" tvg-name="•●★-----BR | FILMES BR |-----★●•" tvg-logo="http://logo.premium-ott.com:8000/flags/br.png" group-title="ⓣⓥ ║  BRASIL",•●★-----BR | FILMES BR |-----★●•
-http://pro2.premium-tv.org:8789/aziz/aziz/155836
-#EXTINF:-1 tvg-ID="" tvg-name="BR | AMC HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/amc.png" group-title="ⓣⓥ ║  BRASIL",BR | AMC HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155825
-#EXTINF:-1 tvg-ID="" tvg-name="BR | A&E HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/aande.png" group-title="ⓣⓥ ║  BRASIL",BR | A&E HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155806
-#EXTINF:-1,Brasil: A&E FHD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/361.ts
-#EXTINF:-1,Brasil: ANIMAL PLANET FHD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/362.ts
-#EXTINF:-1,Brasil: AXN FHD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/363.ts
-#EXTINF:-1,AXN 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/233
-#EXTINF:-1 tvg-ID="AXN.br" tvg-name="BR | AXN HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/axn.png" group-title="ⓣⓥ ║  BRASIL",BR | AXN HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155812
-#EXTINF:-1 tvg-ID="" tvg-name="BR | CANAL BRASIL HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/canalbrasil.png" group-title="ⓣⓥ ║  BRASIL",BR | CANAL BRASIL HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155826
-#EXTINF:-1 tvg-ID="Sony.br" tvg-name="BR | CANAL SONY HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/sony.png" group-title="ⓣⓥ ║  BRASIL",BR | CANAL SONY HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155814
-#EXTINF:-1 tvg-ID="" tvg-name="BR | CINECANAL HD" tvg-logo="https://logo-iptvpro.com/logo/52403.png" group-title="ⓣⓥ ║  BRASIL",BR | CINECANAL HD
-http://pro2.premium-tv.org:8789/aziz/aziz/220298
-#EXTINF:-1 tvg-ID="Cinemax.br" tvg-name="BR | CINEMAX HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/cinemax.png" group-title="ⓣⓥ ║  BRASIL",BR | CINEMAX HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155829
-#EXTINF:-1,CINEMAX 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/239
-#EXTINF:-1,CINEMAX HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/240
-#EXTINF:-1 tvg-ID="FX.br" tvg-name="BR | FX HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/fx.png" group-title="ⓣⓥ ║  BRASIL",BR | FX HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155807
-#EXTINF:-1 tvg-ID="Megapix.br" tvg-name="BR | MEGAPIX HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/megapix.png" group-title="ⓣⓥ ║  BRASIL",BR | MEGAPIX HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155830
-#EXTINF:-1,MEGAPIX HDR+
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/998
-#EXTINF:-1,MEGAPIX 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/270
-#EXTINF:-1,MEGAPIX HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/271
-#EXTINF:-1 tvg-ID="" tvg-name="BR | PARAMOUNT HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/paramount.png" group-title="ⓣⓥ ║  BRASIL",BR | PARAMOUNT HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155828
-#EXTINF:-1 tvg-ID="Space.br" tvg-name="BR | SPACE HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/space.png" group-title="ⓣⓥ ║  BRASIL",BR | SPACE HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155832
-#EXTINF:-1,Brasil: SPACE FHD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/401.ts
-#EXTINF:-1,Brasil: Star Channel
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/378.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | STAR CHANNEL HD" tvg-logo="https://logo-iptvpro.com/logo/52397.png" group-title="ⓣⓥ ║  BRASIL",BR | STAR CHANNEL HD
-http://pro2.premium-tv.org:8789/aziz/aziz/220297
-#EXTINF:-1,STAR CHANNEL 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/281
-#EXTINF:-1,STAR CHANNEL HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/282
-#EXTINF:-1,STAR+ 1 HD 
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/829
-#EXTINF:-1,STAR+ 2 HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/826
-#EXTINF:-1,STAR+ 3 HD 
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/827
-#EXTINF:-1,STAR+ 4 HD 
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/828
-#EXTINF:-1,STAR+ 5 HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1147
-#EXTINF:-1,STAR+ 6 HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1148
-#EXTINF:-1,STAR+ 7 HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1149
-#EXTINF:-1,STAR+ 8 HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1150
+#EXTINF:-1,BR181:Gloob SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65736
+#EXTINF:-1,BR017:Baby TV HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2515
+#EXTINF:-1,BR114:Baby tv SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65669
+#EXTINF:-1,BR118:Boomerang FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65673
+#EXTINF:-1,BR011:Boomerang HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2521
+#EXTINF:-1,BR119:Boomerang SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65674
+#EXTINF:-1,BR120:Cartoon Network FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65675
+#EXTINF:-1,BR013:Cartoon Network HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2519
+#EXTINF:-1,BR121:Cartoon Network SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65676
+#EXTINF:-1,BR028:Disney XD HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2504
+#EXTINF:-1,BR027:DISNEY JR HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2505
+#EXTINF:-1,BR147:Disney Channel FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65702
+#EXTINF:-1,BR026:Disney HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2506
+#EXTINF:-1,BR148:Disney Channel SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65703
+#EXTINF:-1,BR069:NAT GEO Kids HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2463
+#EXTINF:-1,BR211:Nat Geo Kids SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65766
+#EXTINF:-1,BR049:Gloobinho HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2483
+#EXTINF:-1,BR136:Discovery Kids FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65691
+#EXTINF:-1,BR021:Discovery Kids HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2511
+#EXTINF:-1,BR137:Discovery Kids SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65692
+#EXTINF:-1,BR214:Nick JR FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65769
+#EXTINF:-1,BR071:NICK JR HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2461
+#EXTINF:-1,BR215:Nick JR SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65770
+#EXTINF:-1,BR072:Nickelodeon FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2460
+#EXTINF:-1,BR216:Nickelodeon SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65771
+#EXTINF:-1,BR182:Gloobinho SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65737
+#EXTINF:-1,BR180:Gloob FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65735
+#EXTINF:-1,BR:-----|Variedades|---------------------------------
 
-#EXTINF:-1,FEC 01
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1168
-#EXTINF:-1,FEC 02
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1169
-#EXTINF:-1,FEC 03
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1170
-#EXTINF:-1,FEC 04
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1171
-#EXTINF:-1,FEC 05
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1172
-#EXTINF:-1,FEC 06
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1173
-#EXTINF:-1,FEC 07
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1174
-#EXTINF:-1,FEC 08
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1175
-#EXTINF:-1,FEC 09
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1176
-#EXTINF:-1,FEC 10
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1177
-#EXTINF:-1,FEC 11
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1178
-#EXTINF:-1,FEC 12
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1179
-#EXTINF:-1,FEC 13
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1180
-#EXTINF:-1,FEC 14
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1181
-#EXTINF:-1,FEC 15
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1182
-#EXTINF:-1,FEC 16
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1183
-#EXTINF:-1,FEC 17
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1184
-#EXTINF:-1,FEC 18
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1185
-#EXTINF:-1,FEC 19
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1186
-#EXTINF:-1,FEC 20
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1187
-#EXTINF:-1,DISNEY+ 08
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1269
-#EXTINF:-1,DISNEY+ 07
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1270
-#EXTINF:-1,DISNEY+ 06
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1271
-#EXTINF:-1,DISNEY+ 05
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1272
-#EXTINF:-1,DISNEY+ 04
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1273
-#EXTINF:-1,DISNEY+ 03
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1274
-#EXTINF:-1,DISNEY+ 02
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1275
-#EXTINF:-1,DISNEY+ 01
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1276
-
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="BR | STUDIO UNIVERSAL HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/studiouniversal.png" group-title="ⓣⓥ ║  BRASIL",BR | STUDIO UNIVERSAL HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155827
-#EXTINF:-1 tvg-ID="" tvg-name="BR | SYFY HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/syfy.png" group-title="ⓣⓥ ║  BRASIL",BR | SYFY HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155801
-#EXTINF:-1 tvg-ID="TBS.br" tvg-name="BR | TBS HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/tbs.png" group-title="ⓣⓥ ║  BRASIL",BR | TBS HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155802
-#EXTINF:-1 tvg-ID="TCM.br" tvg-name="BR | TCM HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/tcm.png" group-title="ⓣⓥ ║  BRASIL",BR | TCM HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155823
-#EXTINF:-1,TCM HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/292
-#EXTINF:-1,TCM UHD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/293
-#EXTINF:-1,TNT 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/312
-#EXTINF:-1,TNT HDR+
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1004
-#EXTINF:-1,TNT HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/313
-#EXTINF:-1 tvg-ID="TNT.br" tvg-name="BR | TNT HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/tnt.png" group-title="ⓣⓥ ║  BRASIL",BR | TNT HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155834
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TNT SERIES HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/tntseries.png" group-title="ⓣⓥ ║  BRASIL",BR | TNT SERIES HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155804
-#EXTINF:-1,TNT SERIES 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/314
-#EXTINF:-1,TNT SERIES
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1167
-#EXTINF:-1,TNT SERIES 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/314
-#EXTINF:-1,TNT SERIES
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/409.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | UNIVERSAL CHANNEL TV HD" tvg-logo="https://logo-iptvpro.com/logo/52390.png" group-title="ⓣⓥ ║  BRASIL",BR | UNIVERSAL CHANNEL TV HD
-http://pro2.premium-tv.org:8789/aziz/aziz/220296
-#EXTINF:-1 tvg-ID="" tvg-name="BR | WARNER CHANNEL HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/warner.png" group-title="ⓣⓥ ║  BRASIL",BR | WARNER CHANNEL HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155813
-#EXTINF:-1,Brasil: WARNER CHANNEL FHD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/410.ts
-#EXTINF:-1,WARNER CHANNEL 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/783
-#EXTINF:-1,WARNER CHANNEL HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/320
-#EXTINF:-1 tvg-ID="" tvg-name="BR | CINEMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/640px-Cinemax_%28Yellow%29.svg.png" group-title="ⓣⓥ ║  BRASIL",BR | CINEMAX HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155794
-#EXTINF:-1 tvg-ID="" tvg-name="BR | PARAMOUNT+01 HD" tvg-logo="https://i.ibb.co/TTyhdsk/Paramount-Plus-svg.png" group-title="ⓣⓥ ║  BRASIL",BR | PARAMOUNT+01 HD
-http://pro2.premium-tv.org:8789/aziz/aziz/341805
-#EXTINF:-1 tvg-ID="" tvg-name="BR | PARAMOUNT+02 HD" tvg-logo="https://i.ibb.co/TTyhdsk/Paramount-Plus-svg.png" group-title="ⓣⓥ ║  BRASIL",BR | PARAMOUNT+02 HD
-http://pro2.premium-tv.org:8789/aziz/aziz/341806
-#EXTINF:-1 tvg-ID="" tvg-name="BR | PARAMOUNT+03 HD" tvg-logo="https://i.ibb.co/TTyhdsk/Paramount-Plus-svg.png" group-title="ⓣⓥ ║  BRASIL",BR | PARAMOUNT+03 HD
-http://pro2.premium-tv.org:8789/aziz/aziz/341807
-#EXTINF:-1 tvg-ID="" tvg-name="BR | PARAMOUNT+04 HD" tvg-logo="https://i.ibb.co/TTyhdsk/Paramount-Plus-svg.png" group-title="ⓣⓥ ║  BRASIL",BR | PARAMOUNT+04 HD
-http://pro2.premium-tv.org:8789/aziz/aziz/341808
-#EXTINF:-1 tvg-ID="" tvg-name="BR | CURTA! HD" tvg-logo="https://logo-iptvpro.com/logo/52386.png" group-title="ⓣⓥ ║  BRASIL",BR | CURTA! HD
-http://pro2.premium-tv.org:8789/aziz/aziz/220295
-#EXTINF:-1,CURTA HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/100
-#EXTINF:-1,FILM & ARTS HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/242
-#EXTINF:-1,ARTE 1 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/231
-#EXTINF:-1,ARTE 1 HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/232
-
-#EXTINF:-1 tvg-ID="" tvg-name="•●★-BR | DOCUMENTARIOS BR |--★●•" tvg-logo="http://logo.premium-ott.com:8000/flags/br.png" group-title="ⓣⓥ ║  BRASIL",•●★-BR | DOCUMENTARIOS BR |--★●•
-http://pro2.premium-tv.org:8789/aziz/aziz/155750
-#EXTINF:-1 tvg-ID="" tvg-name="BR | ANIMAL PLANET UHD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/animalplanet.png" group-title="ⓣⓥ ║  BRASIL",BR | ANIMAL PLANET UHD
-http://pro2.premium-tv.org:8789/aziz/aziz/155740
-#EXTINF:-1 tvg-ID="" tvg-name="BR | ANIMAL PLANET HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/animalplanet.png" group-title="ⓣⓥ ║  BRASIL",BR | ANIMAL PLANET HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155739
-#EXTINF:-1 tvg-ID="" tvg-name="BR | FOOD NETWORK HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/foodnetworkhd.png" group-title="ⓣⓥ ║  BRASIL",BR | FOOD NETWORK HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155710
-#EXTINF:-1,FOOD NETWORK 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/104
-#EXTINF:-1,FOOD NETWORK HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/105
-#EXTINF:-1,Brasil: FOOD NETWORK FHD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/377.ts
-#EXTINF:-1,Brasil: DISCOVERY CHANNEL FHD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/368.ts
-#EXTINF:-1,DISCOVERY CHANNEL 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/65
-#EXTINF:-1 tvg-ID="" tvg-name="BR | DISCOVERY CHANNEL UHD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/discovery.png" group-title="ⓣⓥ ║  BRASIL",BR | DISCOVERY CHANNEL UHD
-http://pro2.premium-tv.org:8789/aziz/aziz/155749
-#EXTINF:-1 tvg-ID="" tvg-name="BR | DISCOVERY CHANNEL HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/discovery.png" group-title="ⓣⓥ ║  BRASIL",BR | DISCOVERY CHANNEL HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155748
-#EXTINF:-1,DISCOVERY H&H HDR+
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1021
-#EXTINF:-1,DISCOVERY H&H 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/67
-#EXTINF:-1,DISCOVERY H&H HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/68
-#EXTINF:-1 tvg-ID="" tvg-name="BR | DISCOVERY H&H HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/discoveryhomeandhealth.png" group-title="ⓣⓥ ║  BRASIL",BR | DISCOVERY H&H HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155713
-#EXTINF:-1 tvg-ID="" tvg-name="BR | DISCOVERY HOME & HEALTH HD" tvg-logo="https://logo-iptvpro.com/logo/52384.png" group-title="ⓣⓥ ║  BRASIL",BR | DISCOVERY HOME & HEALTH HD
-http://pro2.premium-tv.org:8789/aziz/aziz/220294
-#EXTINF:-1 tvg-ID="" tvg-name="BR | DISCOVERY ID HD" tvg-logo="https://logo-iptvpro.com/logo/52383.png" group-title="ⓣⓥ ║  BRASIL",BR | DISCOVERY ID HD
-http://pro2.premium-tv.org:8789/aziz/aziz/220293
-#EXTINF:-1,DISCOVERY ID 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/69
-#EXTINF:-1,DISCOVERY ID HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/70
-#EXTINF:-1,DISCOVERY SCIENCE 4k
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/71
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/72
-#EXTINF:-1 tvg-ID="" tvg-name="BR | DISCOVERY SCIENCE HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/discoveryscience.png" group-title="ⓣⓥ ║  BRASIL",BR | DISCOVERY SCIENCE HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155747
-#EXTINF:-1 tvg-ID="" tvg-name="BR | DISCOVERY THEATER HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/discoverytheaterhd.png" group-title="ⓣⓥ ║  BRASIL",BR | DISCOVERY THEATER HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155745
-#EXTINF:-1,DISCOVERY THEATER 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/73
-#EXTINF:-1,Brasil: DISCOVERY THEATER FHD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/369.ts
-#EXTINF:-1,DISCOVERY THEATER HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/74
-#EXTINF:-1 tvg-ID="" tvg-name="BR | DISCOVERY TURBO HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/discoveryturbo.png" group-title="ⓣⓥ ║  BRASIL",BR | DISCOVERY TURBO HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155746
-#EXTINF:-1,DISCOVERY TURBO 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/75
-#EXTINF:-1 tvg-ID="" tvg-name="BR | DISCOVERY WORLD HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/discoveryworldhd.png" group-title="ⓣⓥ ║  BRASIL",BR | DISCOVERY WORLD HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155744
-#EXTINF:-1,DISCOVERY WORLD 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/77
-#EXTINF:-1,DISCOVERY WORLD HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/78
-
-#EXTINF:-1 tvg-ID="" tvg-name="BR | HISTORY HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/historychannel.png" group-title="ⓣⓥ ║  BRASIL",BR | HISTORY HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155738
-#EXTINF:-1,Brasil: HISTORY CHANNEL FHD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/390.ts
-#EXTINF:-1,HISTORY CHANNEL 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/83
-#EXTINF:-1,HISTORY CHANNEL HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/82
-#EXTINF:-1,H2 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/815
-#EXTINF:-1,H2 HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/81
-#EXTINF:-1,Brasil: H2 FHD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/385.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | HISTORY2 HD" tvg-logo="https://logo-iptvpro.com/logo/52377.png" group-title="ⓣⓥ ║  BRASIL",BR | HISTORY2 HD
-http://pro2.premium-tv.org:8789/aziz/aziz/220292
-#EXTINF:-1 tvg-ID="" tvg-name="BR | NATGEO HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/natgeohd.png" group-title="ⓣⓥ ║  BRASIL",BR | NATGEO HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155742
-#EXTINF:-1,Brasil: NATIONAL GEOGRAPHIC FHD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/395.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TRUTV HD" tvg-logo="https://logo-iptvpro.com/logo/52374.png" group-title="ⓣⓥ ║  BRASIL",BR | TRUTV HD
-http://pro2.premium-tv.org:8789/aziz/aziz/220291
-#EXTINF:-1 tvg-ID="" tvg-name="BR | DOG TV HD" tvg-logo="https://logo-iptvpro.com/LOGO_AFRIC/dogtv.png" group-title="ⓣⓥ ║  BRASIL",BR | DOG TV HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155734
-#EXTINF:-1 tvg-ID="" tvg-name="BR | COMBATE UHD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/combate.png" group-title="ⓣⓥ ║  BRASIL",BR | COMBATE UHD
-http://pro2.premium-tv.org:8789/aziz/aziz/155762
-#EXTINF:-1 tvg-ID="" tvg-name="BR | COMBATE HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/combate.png" group-title="ⓣⓥ ║  BRASIL",BR | COMBATE HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155761
-#EXTINF:-1,Brasil: COMBATE FHD H265
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/366.ts
-#EXTINF:-1,FUTURA 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/243
-#EXTINF:-1 tvg-ID="" tvg-name="BR | FUTURA HD" tvg-logo="https://logo-iptvpro.com/logo/52346.png" group-title="ⓣⓥ ║  BRASIL",BR | FUTURA HD
-http://pro2.premium-tv.org:8789/aziz/aziz/220480
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TV ESCOLA" tvg-logo="https://logo-iptvpro.com/logo/52338.png" group-title="ⓣⓥ ║  BRASIL",BR | TV ESCOLA
-http://pro2.premium-tv.org:8789/aziz/aziz/220488
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TVE BRASIL" tvg-logo="https://logo-iptvpro.com/logo/52336.png" group-title="ⓣⓥ ║  BRASIL",BR | TVE BRASIL
-http://pro2.premium-tv.org:8789/aziz/aziz/220490
-#EXTINF:-1 tvg-ID="" tvg-name="•●★-------|BR| HBO |BR|-------★●•" tvg-logo="https://logo-iptvpro.com/logo/52268.png" group-title="ⓣⓥ ║  BRASIL",•●★-------|BR| HBO |BR|-------★●•
-http://pro2.premium-tv.org:8789/aziz/aziz/220356
-#EXTINF:-1,HBO 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/251
-#EXTINF:-1,BR: HBO 2
-http://iptvtree.net:8080/romaniamedia/2a4dcdecbd/8821
-#EXTINF:-1,HBO 2 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/247
-#EXTINF:-1,HBO 2 HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/248
-#EXTINF:-1,BR: HBO Family
-http://iptvtree.net:8080/romaniamedia/2a4dcdecbd/8839
-#EXTINF:-1,HBO FAMILY 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/252
-#EXTINF:-1,HBO FAMILY HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/253
-#EXTINF:-1 tvg-ID="" tvg-name="BR | HBO FAMILY HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/hbofamily.png" group-title="ⓣⓥ ║  BRASIL",BR | HBO FAMILY HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155795
-#EXTINF:-1,Brasil: HBO FAMILY HD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/387.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | HBO MUNDI HD" tvg-logo="https://logo-iptvpro.com/logo/52266.png" group-title="ⓣⓥ ║  BRASIL",BR | HBO MUNDI HD
-http://pro2.premium-tv.org:8789/aziz/aziz/220555
-#EXTINF:-1,BR: HBO Mundi
-http://iptvtree.net:8080/romaniamedia/2a4dcdecbd/8837
-#EXTINF:-1,HBO MUNDI 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/256
-#EXTINF:-1,HBO MUNDI HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/257
-#EXTINF:-1 tvg-ID="" tvg-name="BR | HBO POP HD" tvg-logo="https://logo-iptvpro.com/logo/52265.png" group-title="ⓣⓥ ║  BRASIL",BR | HBO POP HD
-http://pro2.premium-tv.org:8789/aziz/aziz/220556
-#EXTINF:-1,HBO POP 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/260
-#EXTINF:-1,HBO POP HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/261
-#EXTINF:-1 tvg-ID="" tvg-name="BR | HBO XTREME HD" tvg-logo="https://logo-iptvpro.com/logo/52263.png" group-title="ⓣⓥ ║  BRASIL",BR | HBO XTREME HD
-http://pro2.premium-tv.org:8789/aziz/aziz/220557
-#EXTINF:-1,Brasil: HBO Extreme
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/393.ts
-#EXTINF:-1,HBO XTREME 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/266
-#EXTINF:-1,HBO XTREME HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/267
-#EXTINF:-1,HBO PLUS 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/258
-#EXTINF:-1,HBO PLUS HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/259
-#EXTINF:-1 tvg-ID="" tvg-name="BR | HBO PLUS HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/hboplus.png" group-title="ⓣⓥ ║  BRASIL",BR | HBO PLUS HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155797
-#EXTINF:-1 tvg-ID="HBO.br" tvg-name="BR | HBO HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/hbo.png" group-title="ⓣⓥ ║  BRASIL",BR | HBO HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155799
-#EXTINF:-1,HBO HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/255
-#EXTINF:-1,BR: HBO+
-http://iptvtree.net:8080/romaniamedia/2a4dcdecbd/8823
-#EXTINF:-1,HBO HDR+
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1000
-#EXTINF:-1,HBO + 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/246
-#EXTINF:-1,HBO + HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/245
-#EXTINF:-1,Brasil: HBO FHD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/388.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | HBO 2 HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/hbo2.png" group-title="ⓣⓥ ║  BRASIL",BR | HBO 2 HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155798
-#EXTINF:-1,Brasil: HBO 2 FHD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/386.ts
-#EXTINF:-1 tvg-ID="" tvg-name="•●★--|BR| HBO MAX/STAR+ |BR|--★●•" tvg-logo="https://logo-iptvpro.com/logo/52259.png" group-title="ⓣⓥ ║  BRASIL",•●★--|BR| HBO MAX/STAR+ |BR|--★●•
-http://pro2.premium-tv.org:8789/aziz/aziz/220558
-#EXTINF:-1 tvg-ID="" tvg-name="BR | HBO MAX 1" tvg-logo="https://logo-iptvpro.com/logo/52258.png" group-title="ⓣⓥ ║  BRASIL",BR | HBO MAX 1
-http://pro2.premium-tv.org:8789/aziz/aziz/220562
-#EXTINF:-1,HBO MAX 1 HD 
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/832
-#EXTINF:-1 tvg-ID="" tvg-name="BR | HBO MAX 2" tvg-logo="https://logo-iptvpro.com/logo/52257.png" group-title="ⓣⓥ ║  BRASIL",BR | HBO MAX 2
-http://pro2.premium-tv.org:8789/aziz/aziz/220561
-#EXTINF:-1,HBO MAX 2 HD 
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/833
-#EXTINF:-1,HBO MAX 3 HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/834
-#EXTINF:-1 tvg-ID="" tvg-name="BR | HBO MAX 3" tvg-logo="https://logo-iptvpro.com/logo/52256.png" group-title="ⓣⓥ ║  BRASIL",BR | HBO MAX 3
-http://pro2.premium-tv.org:8789/aziz/aziz/220560
-#EXTINF:-1,HBO MAX 4 HD 
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/835
-#EXTINF:-1,HBO SIGNATURE 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/264
-#EXTINF:-1,HBO SIGNATURE HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/262
-#EXTINF:-1 tvg-ID="" tvg-name="BR | HBO SIGNATURE HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/hbosignature.png" group-title="ⓣⓥ ║  BRASIL",BR | HBO SIGNATURE HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155796
-#EXTINF:-1,Brasil: HBO SIGNATURE FHD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/389.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="•●★----|BR| TELECINE |BR|-----★●•" tvg-logo="https://logo-iptvpro.com/logo/52234.png" group-title="ⓣⓥ ║  BRASIL",•●★----|BR| TELECINE |BR|-----★●•
-http://pro2.premium-tv.org:8789/aziz/aziz/220351
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TELECINE ACTION HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/telecineaction.png" group-title="ⓣⓥ ║  BRASIL",BR | TELECINE ACTION HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155821
-#EXTINF:-1,Brasil: TELECINE ACTION
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/405.ts
-#EXTINF:-1,TELECINE ACTION HDR+
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1019
-#EXTINF:-1,TELECINE ACTION 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/294
-#EXTINF:-1,TELECINE ACTION HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/295
-#EXTINF:-1,TELECINE CULT 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/297
-#EXTINF:-1,TELECINE CULT HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/298
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TELECINE CULT HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/telecinecult.png" group-title="ⓣⓥ ║  BRASIL",BR | TELECINE CULT HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155816
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TELECINE FUN HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/telecinefun.png" group-title="ⓣⓥ ║  BRASIL",BR | TELECINE FUN HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155820
-#EXTINF:-1,TELECINE FUN 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/300
-#EXTINF:-1,TELECINE FUN HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/301
-#EXTINF:-1,TELECINE PIPOCA 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/303
-#EXTINF:-1,TELECINE PIPOCA HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/304
-#EXTINF:-1,TELECINE PIPOCA HDR+
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/996
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TELECINE PIPOCA HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/telecinepipoca.png" group-title="ⓣⓥ ║  BRASIL",BR | TELECINE PIPOCA HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155819
-#EXTINF:-1,Brasil: TELECINE PIPOCA FHD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/406.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TELECINE PREMIUM HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/telecinepremium.png" group-title="ⓣⓥ ║  BRASIL",BR | TELECINE PREMIUM HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155818
-#EXTINF:-1,Brasil: TELECINE PREMIUM FHD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/407.ts
-#EXTINF:-1,TELECINE PREMIUM HDR+
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/997
-#EXTINF:-1,TELECINE PREMIUM 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/306
-#EXTINF:-1,TELECINE PREMIUM HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/307
-#EXTINF:-1,TELECINE TOUCH 4K
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/309
-#EXTINF:-1,TELECINE TOUCH HD
-http://78.159.119.122:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/310
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TELECINE TOUCH HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/telecinetouch.png" group-title="ⓣⓥ ║  BRASIL",BR | TELECINE TOUCH HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155817
-#EXTINF:-1,Brasil: Discovery Kids
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/371.ts
-#EXTINF:-1,Brasil: CARTOON NETWORK FHD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/365.ts
-#EXTINF:-1,Brasil: DISNEY CHANNEL FHD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/370.ts
-#EXTINF:-1,Brasil: NICK JR FHD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/396.ts
-#EXTINF:-1,Brasil: NICKELODEON HD
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/397.ts
-
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="•●★----BR | ESPORTES BR |----★●•" tvg-logo="http://logo.premium-ott.com:8000/flags/br.png" group-title="ⓣⓥ ║  BRASIL",•●★----BR | ESPORTES BR |----★●•
-http://pro2.premium-tv.org:8789/aziz/aziz/155777
-
-#EXTINF:-1 tvg-ID="ESPN.br" tvg-name="BR | ESPN 1 HD" tvg-logo="https://logo-iptvpro.com/logo/52334.png" group-title="ⓣⓥ ║  BRASIL",BR | ESPN 1 HD
-http://pro2.premium-tv.org:8789/aziz/aziz/220494
-#EXTINF:-1 tvg-ID="" tvg-name="BR | ESPN 2 HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/espn2.png" group-title="ⓣⓥ ║  BRASIL",BR | ESPN 2 HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155768
-#EXTINF:-1 tvg-ID="" tvg-name="BR | ESPN 3 HD" tvg-logo="https://logo-iptvpro.com/logo/52332.png" group-title="ⓣⓥ ║  BRASIL",BR | ESPN 3 HD
-http://pro2.premium-tv.org:8789/aziz/aziz/220492
-#EXTINF:-1 tvg-ID="" tvg-name="BR | ESPN 4 HD" tvg-logo="https://logo-iptvpro.com/logo/52331.png" group-title="ⓣⓥ ║  BRASIL",BR | ESPN 4 HD
-http://pro2.premium-tv.org:8789/aziz/aziz/220491
-#EXTINF:-1 tvg-ID="" tvg-name="BR | ESPN 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" group-title="ⓣⓥ ║  BRASIL",BR | ESPN 6 HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155772
-#EXTINF:-1 tvg-ID="" tvg-name="BR | BAND SPORTS HD" tvg-logo="https://logo-iptvpro.com/LOGO/brasil/bandsports.png" group-title="ⓣⓥ ║  BRASIL",BR | BAND SPORTS HD
-http://pro2.premium-tv.org:8789/aziz/aziz/155763
-
-
-#EXTINF:-1,US Bally Sports Southeast 
-http://fortv.cc:8080/q8KuDU/354945/81111
-#EXTINF:-1,US NBC Sports Network (F)
-http://fortv.cc:8080/q8KuDU/354945/46725
-#EXTINF:-1,US Bally Sports Detroit (A)
-http://fortv.cc:8080/q8KuDU/354945/20930
-#EXTINF:-1,US Bally Sports Midwest (A)
-http://fortv.cc:8080/q8KuDU/354945/66795
-#EXTINF:-1,US Bally Sports Oklahoma (A)
-http://fortv.cc:8080/q8KuDU/354945/20934
-#EXTINF:-1,US Bally Sports Southeast 
-http://fortv.cc:8080/q8KuDU/354945/2213
-#EXTINF:-1,US Bally Sports Southwest 
-http://fortv.cc:8080/q8KuDU/354945/21843
-#EXTINF:-1,US Bally Sports West 
-http://fortv.cc:8080/q8KuDU/354945/20932
-#EXTINF:-1,US Bally Sports North (A)
-http://fortv.cc:8080/q8KuDU/354945/58827
-#EXTINF:-1,US Bally Sports Detroit 
-http://fortv.cc:8080/q8KuDU/354945/20936
-#EXTINF:-1,US Bally Sports Ohio (A)
-http://fortv.cc:8080/q8KuDU/354945/17752
-
-#EXTINF:-1,ESPN 1 (NL)
-http://glass-iptv.one:8080/Rea@ivan@zec/JjqK6d8Vff2S/353
-#EXTINF:-1,ESPN 2 (NL)
-http://glass-iptv.one:8080/Rea@ivan@zec/JjqK6d8Vff2S/354
-#EXTINF:-1,ESPN 3 (NL)
-http://glass-iptv.one:8080/Rea@ivan@zec/JjqK6d8Vff2S/351
-#EXTINF:-1,ESPN 3 (US)
-http://glass-iptv.one:8080/Rea@ivan@zec/JjqK6d8Vff2S/16947
-#EXTINF:-1,ESPN 4 (NL)
-http://glass-iptv.one:8080/Rea@ivan@zec/JjqK6d8Vff2S/355
-#EXTINF:-1,EUROSPORT 1 (DE)
-http://glass-iptv.one:8080/Rea@ivan@zec/JjqK6d8Vff2S/339
-#EXTINF:-1,EUROSPORT 1 (FR)
-http://glass-iptv.one:8080/Rea@ivan@zec/JjqK6d8Vff2S/340
-#EXTINF:-1,EUROSPORT 1 HD (UK)
-http://glass-iptv.one:8080/Rea@ivan@zec/JjqK6d8Vff2S/342
-#EXTINF:-1,EUROSPORT 2 (DE)
-http://glass-iptv.one:8080/Rea@ivan@zec/JjqK6d8Vff2S/19978
-#EXTINF:-1,EUROSPORT 2 (FR)
-http://glass-iptv.one:8080/Rea@ivan@zec/JjqK6d8Vff2S/346
-#EXTINF:-1,EUROSPORT 2 HD (UK)
-http://glass-iptv.one:8080/Rea@ivan@zec/JjqK6d8Vff2S/348
-#EXTINF:-1,ESPN 1 (NL)
-http://glass-iptv.one:8080/@IGOR@MARIN/nKSUuAt5j6/353
-#EXTINF:-1,ESPN 2 (NL)
-http://glass-iptv.one:8080/@IGOR@MARIN/nKSUuAt5j6/354
-#EXTINF:-1,ESPN 3 (NL)
-http://glass-iptv.one:8080/@IGOR@MARIN/nKSUuAt5j6/351
-#EXTINF:-1,ESPN 3 (US)
-http://glass-iptv.one:8080/@IGOR@MARIN/nKSUuAt5j6/16947
-#EXTINF:-1,ESPN 4 (NL)
-http://glass-iptv.one:8080/@IGOR@MARIN/nKSUuAt5j6/355
-#EXTINF:-1,EUROSPORT 1 (DE)
-http://glass-iptv.one:8080/@IGOR@MARIN/nKSUuAt5j6/339
-#EXTINF:-1,EUROSPORT 1 (FR)
-http://glass-iptv.one:8080/@IGOR@MARIN/nKSUuAt5j6/340
-#EXTINF:-1,EUROSPORT 1 HD (UK)
-http://glass-iptv.one:8080/@IGOR@MARIN/nKSUuAt5j6/342
-#EXTINF:-1,EUROSPORT 2 (DE)
-http://glass-iptv.one:8080/@IGOR@MARIN/nKSUuAt5j6/19978
-#EXTINF:-1,EUROSPORT 2 (FR)
-http://glass-iptv.one:8080/@IGOR@MARIN/nKSUuAt5j6/346
-#EXTINF:-1,EUROSPORT 2 HD (UK)
-http://glass-iptv.one:8080/@IGOR@MARIN/nKSUuAt5j6/348
-#EXTINF:-1,US ESPN SEC Network 
-http://fortv.cc:8080/q8KuDU/354945/17608
-#EXTINF:-1,US ESPN 2 
-http://fortv.cc:8080/q8KuDU/354945/2210
-#EXTINF:-1,US ESPN 1 (HD) 
-http://fortv.cc:8080/q8KuDU/354945/14197
-#EXTINF:-1,US ESPN 1 (HD) 
-http://fortv.cc:8080/q8KuDU/354945/9802
-#EXTINF:-1,US ESPNU College Sports 
-http://fortv.cc:8080/q8KuDU/354945/10255
-#EXTINF:-1,US YES Network
-http://fortv.cc:8080/q8KuDU/354945/57972
-#EXTINF:-1,US ACC Network (A)
-http://fortv.cc:8080/q8KuDU/354945/9273
-#EXTINF:-1,US Altitude Sports HD 
-http://fortv.cc:8080/q8KuDU/354945/79545
-#EXTINF:-1,US Big Ten HD
-http://fortv.cc:8080/q8KuDU/354945/9828
-#EXTINF:-1,US CBS Sports Network HD 
-http://fortv.cc:8080/q8KuDU/354945/10454
-#EXTINF:-1,US Fox Sports 1 
-http://fortv.cc:8080/q8KuDU/354945/1846
-#EXTINF:-1,US Fox Sports 2 (A)
-http://fortv.cc:8080/q8KuDU/354945/1847
-#EXTINF:-1,US Bally Sports North (A)
-http://fortv.cc:8080/q8KuDU/354945/20928
-#EXTINF:-1,US Bally Sports Carolinas (A)
-http://fortv.cc:8080/q8KuDU/354945/20929
-#EXTINF:-1,US Bally Sports South
-http://fortv.cc:8080/q8KuDU/354945/20931
-#EXTINF:-1,US Bally Sports South (A)
-http://fortv.cc:8080/q8KuDU/354945/20922
-#EXTINF:-1,CA TSN 1 (E)
-http://fortv.cc:8080/q8KuDU/354945/57292
-#EXTINF:-1,CA TSN 1 (R)
-http://fortv.cc:8080/q8KuDU/354945/47440
-#EXTINF:-1,CA TSN 2 (R)
-http://fortv.cc:8080/q8KuDU/354945/16129
-#EXTINF:-1,CA TSN 2 HD 
-http://fortv.cc:8080/q8KuDU/354945/47442
-#EXTINF:-1,CA TSN 3 HD 
-http://fortv.cc:8080/q8KuDU/354945/10389
-#EXTINF:-1,CA TSN 3 HD 
-http://fortv.cc:8080/q8KuDU/354945/47444
-#EXTINF:-1,CA TSN 4 
-http://fortv.cc:8080/q8KuDU/354945/66783
-#EXTINF:-1,CA TSN 4 (B)
-http://fortv.cc:8080/q8KuDU/354945/47446
-#EXTINF:-1,CA TSN 5 
-http://fortv.cc:8080/q8KuDU/354945/57467
-#EXTINF:-1,CA TSN 5 HD 
-http://fortv.cc:8080/q8KuDU/354945/16131
-#EXTINF:-1,CA TSN 5 
-http://fortv.cc:8080/q8KuDU/354945/57295
+#EXTINF:-1,BR128:comedy central FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65683
+#EXTINF:-1,BR016:Comedy Central HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2516
+#EXTINF:-1,BR129:comedy central SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65684
+#EXTINF:-1,BR128:comedy central FHD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65683
+#EXTINF:-1,BR016:Comedy Central HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2516
+#EXTINF:-1,BR129:comedy central SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65684
+#EXTINF:-1,BR128:comedy central FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65683
+#EXTINF:-1,BR016:Comedy Central HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2516
+#EXTINF:-1,BR129:comedy central SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65684
+#EXTINF:-1,BR060:Mais Globosat
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2472
+#EXTINF:-1,BR060:Mais Globosat
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2472
+#EXTINF:-1,BR060:Mais Globosat
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2472
+#EXTINF:-1,BR050:GNT HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2482
+#EXTINF:-1,BR183:Gnt SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65738
+#EXTINF:-1,BR050:GNT HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2482
+#EXTINF:-1,BR183:Gnt SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65738
+#EXTINF:-1,BR050:GNT HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2482
+#EXTINF:-1,BR183:Gnt SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65738
+#EXTINF:-1,BR059:Lifetime HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2473
+#EXTINF:-1,BR059:Lifetime HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2473
+#EXTINF:-1,BR059:Lifetime HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2473
+#EXTINF:-1,BR264:Viva FHD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65819
+#EXTINF:-1,BR035:VIVA HD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/2497
+#EXTINF:-1,BR264:Viva FHD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65819
+#EXTINF:-1,BR035:VIVA HD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/2497
+#EXTINF:-1,BR265:Viva SD
+http://yesimes.oknirvana.club:8880/kg14m0726/xcvsedf233/65820
+#EXTINF:-1,BR265:Viva SD
+http://yesimes.oknirvana.club:8880/6mk150004/18315958/65820
+#EXTINF:-1,BR035:VIVA HD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/2497
+#EXTINF:-1,BR265:Viva SD
+http://yesimes.oknirvana.club:8880/DAANM2945/Djp6EE39g5/65820
