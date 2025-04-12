@@ -1,4 +1,29 @@
 
+#EXTINF:-1,EUROSPORT 1 (DE)
+http://glass-iptv.one:8080/@IGOR@MARIN/nKSUuAt5j6/339
+#EXTINF:-1,EUROSPORT 1 (FR)
+http://glass-iptv.one:8080/@IGOR@MARIN/nKSUuAt5j6/340
+#EXTINF:-1,EUROSPORT 1 HD (UK)
+http://glass-iptv.one:8080/@IGOR@MARIN/nKSUuAt5j6/342
+
+#EXTINF:-1,EUROSPORT 1 (DE)
+http://glass-iptv.one:8080/Rea@ivan@zec/JjqK6d8Vff2S/339
+#EXTINF:-1,EUROSPORT 1 (FR)
+http://glass-iptv.one:8080/Rea@ivan@zec/JjqK6d8Vff2S/340
+#EXTINF:-1,EUROSPORT 1 HD (UK)
+http://glass-iptv.one:8080/Rea@ivan@zec/JjqK6d8Vff2S/342
+#EXTINF:-1,EUROSPORT 2 (DE)
+http://glass-iptv.one:8080/Rea@ivan@zec/JjqK6d8Vff2S/19978
+#EXTINF:-1,EUROSPORT 2 (FR)
+http://glass-iptv.one:8080/Rea@ivan@zec/JjqK6d8Vff2S/346
+#EXTINF:-1,EUROSPORT 2 HD (UK)
+http://glass-iptv.one:8080/Rea@ivan@zec/JjqK6d8Vff2S/348
+#EXTINF:-1,EUROSPORT 2 (DE)
+http://glass-iptv.one:8080/@IGOR@MARIN/nKSUuAt5j6/19978
+#EXTINF:-1,EUROSPORT 2 (FR)
+http://glass-iptv.one:8080/@IGOR@MARIN/nKSUuAt5j6/346
+#EXTINF:-1,EUROSPORT 2 HD (UK)
+http://glass-iptv.one:8080/@IGOR@MARIN/nKSUuAt5j6/348
 #EXTINF:-1,BRA-ESPN (M)(720)
 http://tv.masterplaytv.club:8080/ELVISANT24/1206831c5339/10567
 #EXTINF:-1,BRA-ESPN 2 (M)(720)
