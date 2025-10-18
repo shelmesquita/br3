@@ -1,4 +1,1207 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AE.br" tvg-name="A&E 4K" tvg-logo="https://img.hotice.site/icones_channels/A&E.png" group-title="⭐ 4K",A&E 4K
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230933
+#EXTINF:-1 tvg-id="AE.br" tvg-name="A&E FHD" tvg-logo="https://img.hotice.site/icones_channels/A&E.png" group-title="⏩ FILMES E SÉRIES",A&E FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230934
+#EXTINF:-1 tvg-id="AE.br" tvg-name="A&E HD" tvg-logo="https://img.hotice.site/icones_channels/A&E.png" group-title="⏩ FILMES E SÉRIES",A&E HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230935
+#EXTINF:-1 tvg-id="AE.br" tvg-name="A&E SD" tvg-logo="https://img.hotice.site/icones_channels/A&E.png" group-title="⏩ FILMES E SÉRIES",A&E SD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230936
+#EXTINF:-1 tvg-id="AgroMais.br" tvg-name="AGROMAIS FHD" tvg-logo="https://img.hotice.site/icones_channels/AgroMais.png" group-title="⭐ AGRO NEGOCIOS",AGROMAIS FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230940
+#EXTINF:-1 tvg-id="AgroMais.br" tvg-name="AGROMAIS HD" tvg-logo="https://img.hotice.site/icones_channels/AgroMais.png" group-title="⭐ AGRO NEGOCIOS",AGROMAIS HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230941
+#EXTINF:-1 tvg-id="AgroMais.br" tvg-name="AGROMAIS SD" tvg-logo="https://img.hotice.site/icones_channels/AgroMais.png" group-title="⭐ AGRO NEGOCIOS",AGROMAIS SD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230942
+#EXTINF:-1 tvg-id="" tvg-name="Aladdin 24hrs" tvg-logo="" group-title="⭐ 24HORAS",Aladdin 24hrs
+http://su20.bibliotecavsv.store:80/486186744/479743596/4238222
+#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC FHD" tvg-logo="https://img.hotice.site/icones_channels/AMC_HD.png" group-title="⏩ FILMES E SÉRIES",AMC FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230943
+#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC FHD 4K" tvg-logo="https://img.hotice.site/icones_channels/AMC_HD.png" group-title="⭐ 4K",AMC FHD 4K
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230944
+#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC HD" tvg-logo="https://img.hotice.site/icones_channels/AMC_HD.png" group-title="⏩ FILMES E SÉRIES",AMC HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230945
+#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC SD" tvg-logo="https://img.hotice.site/icones_channels/AMC_HD.png" group-title="⏩ FILMES E SÉRIES",AMC SD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230946
+#EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="ANIMAL PLANET 4K" tvg-logo="https://img.hotice.site/icones_channels/Animal_Planet_HD.png" group-title="⭐ 4K",ANIMAL PLANET 4K
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230947
+#EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://img.hotice.site/icones_channels/Animal_Planet_HD.png" group-title="⭐ DOCUMENTÁRIOS",ANIMAL PLANET FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230948
+#EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://img.hotice.site/icones_channels/Animal_Planet_HD.png" group-title="⭐ DOCUMENTÁRIOS",ANIMAL PLANET HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230949
+#EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://img.hotice.site/icones_channels/Animal_Planet_HD.png" group-title="⭐ DOCUMENTÁRIOS",ANIMAL PLANET SD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230950
+#EXTINF:-1 tvg-id="" tvg-name="animes 24 horas" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="24HORAS F2",animes 24 horas
+http://su20.bibliotecavsv.store:80/486186744/479743596/4666692
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 FHD" tvg-logo="https://img.hotice.site/icones_channels/Arte_1_HD.png" group-title="⏩ FILMES E SÉRIES",ARTE 1 FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230951
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://img.hotice.site/icones_channels/Arte_1_HD.png" group-title="⏩ FILMES E SÉRIES",ARTE 1 HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230952
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 SD" tvg-logo="https://img.hotice.site/icones_channels/Arte_1_HD.png" group-title="⏩ FILMES E SÉRIES",ARTE 1 SD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230953
+#EXTINF:-1 tvg-id="" tvg-name="As Meninas Superpoderosas 24HS" tvg-logo="" group-title="⭐ 24HORAS",As Meninas Superpoderosas 24HS
+http://su20.bibliotecavsv.store:80/486186744/479743596/4238223
+#EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN 4K" tvg-logo="https://img.hotice.site/icones_channels/AXN_HD.png" group-title="⭐ 4K",AXN 4K
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230954
+#EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN FHD" tvg-logo="https://img.hotice.site/icones_channels/AXN_HD.png" group-title="⏩ FILMES E SÉRIES",AXN FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230955
+#EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN HD" tvg-logo="https://img.hotice.site/icones_channels/AXN_HD.png" group-title="⏩ FILMES E SÉRIES",AXN HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230956
+#EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN SD" tvg-logo="https://img.hotice.site/icones_channels/AXN_HD.png" group-title="⏩ FILMES E SÉRIES",AXN SD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230957
+#EXTINF:-1 tvg-id="BandBahia.br" tvg-name="BAND BA - BAND BAHIA FHD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="⭐ BAND",BAND BA - BAND BAHIA FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230958
+#EXTINF:-1 tvg-id="BandBahia.br" tvg-name="BAND BA - BAND BAHIA HD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="⭐ BAND",BAND BA - BAND BAHIA HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230959
+#EXTINF:-1 tvg-id="BandAmazonas.br" tvg-name="BAND CE - BAND CEARÁ FHD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="⭐ BAND",BAND CE - BAND CEARÁ FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230960
+#EXTINF:-1 tvg-id="BandAmazonas.br" tvg-name="BAND CE - BAND CEARÁ HD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="⭐ BAND",BAND CE - BAND CEARÁ HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230961
+#EXTINF:-1 tvg-id="br#band-minas" tvg-name="BAND MG - MINAS GERAIS FHD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="⭐ BAND",BAND MG - MINAS GERAIS FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230968
+#EXTINF:-1 tvg-id="br#band-minas" tvg-name="BAND MG - MINAS GERAIS HD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="⭐ BAND",BAND MG - MINAS GERAIS HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230969
+#EXTINF:-1 tvg-id="br#band-minas" tvg-name="BAND MG - MINAS GERAIS SD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="⭐ BAND",BAND MG - MINAS GERAIS SD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230970
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BAND NEWS FHD" tvg-logo="https://img.hotice.site/icones_channels/BAND_NEWS.png" group-title="⭐ NOTÍCIAS",BAND NEWS FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230971
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BAND NEWS HD" tvg-logo="https://img.hotice.site/icones_channels/BAND_NEWS.png" group-title="⭐ NOTÍCIAS",BAND NEWS HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230972
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BAND NEWS SD" tvg-logo="https://img.hotice.site/icones_channels/BAND_NEWS.png" group-title="⭐ NOTÍCIAS",BAND NEWS SD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230973
+#EXTINF:-1 tvg-id="br#band-rio" tvg-name="BAND RIO DE JANEIRO 4K" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="⭐ 4K",BAND RIO DE JANEIRO 4K
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230978
+#EXTINF:-1 tvg-id="br#band-rio" tvg-name="BAND RJ - BAND RIO FHD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="⭐ BAND",BAND RJ - BAND RIO FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230979
+#EXTINF:-1 tvg-id="br#band-rio" tvg-name="BAND RJ - BAND RIO HD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="⭐ BAND",BAND RJ - BAND RIO HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230980
+#EXTINF:-1 tvg-id="br#band-rio-grande-do-sul-hd" tvg-name="BAND RS - BAND RIO GRANDE DO SUL FHD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="⭐ BAND",BAND RS - BAND RIO GRANDE DO SUL FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230983
+#EXTINF:-1 tvg-id="br#band-rio-grande-do-sul-hd" tvg-name="BAND RS - BAND RIO GRANDE DO SUL HD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="⭐ BAND",BAND RS - BAND RIO GRANDE DO SUL HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230984
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND SAO PAULO 4K" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="⭐ 4K",BAND SAO PAULO 4K
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230985
+#EXTINF:-1 tvg-id="br#band" tvg-name="BAND SP - BAND CAMPINAS FHD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="⭐ BAND",BAND SP - BAND CAMPINAS FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230986
+#EXTINF:-1 tvg-id="24HAnimes" tvg-name="BAND SP - BAND CAMPINAS HD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="⭐ BAND",BAND SP - BAND CAMPINAS HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230987
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND SP - BAND SAO PAULO FHD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="⭐ BAND",BAND SP - BAND SAO PAULO FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230988
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND SP - BAND SAO PAULO HD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="⭐ BAND",BAND SP - BAND SAO PAULO HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230989
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND SP - BAND SAO PAULO SD" tvg-logo="http://longitudenow.site:80/images/9Nw9RlbJeU65ur_Bg0WfbA_AvdqbS_5PqAvxP8EonbpFBd5gzPCauemph3nucxTiIi35k3UckCjSiqyZd1lRIg.png" group-title="⭐ BAND",BAND SP - BAND SAO PAULO SD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230990
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="BAND SPORTS FHD" tvg-logo="https://img.hotice.site/icones_channels/BAND_Sports_HD.png" group-title="ESPORTES",BAND SPORTS FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665781
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://img.hotice.site/icones_channels/BAND_Sports_HD.png" group-title="ESPORTES",BAND SPORTS HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665782
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="BAND SPORTS SD" tvg-logo="https://img.hotice.site/icones_channels/BAND_Sports_HD.png" group-title="ESPORTES",BAND SPORTS SD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665783
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10 24HS" tvg-logo="" group-title="⭐ 24HORAS",BEN 10 24HS
+http://su20.bibliotecavsv.store:80/486186744/479743596/4238224
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS FHD" tvg-logo="https://img.hotice.site/icones_channels/BIS_HD.png" group-title="⭐ VARIEDADES",BIS FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230995
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD" tvg-logo="https://img.hotice.site/icones_channels/BIS_HD.png" group-title="⭐ VARIEDADES",BIS HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230996
+#EXTINF:-1 tvg-id="" tvg-name="Bita e os Animais 24hrs" tvg-logo="" group-title="⭐ 24HORAS",Bita e os Animais 24hrs
+http://su20.bibliotecavsv.store:80/486186744/479743596/4238302
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA 24HS" tvg-logo="" group-title="⭐ 24HORAS",BOB ESPONJA 24HS
+http://su20.bibliotecavsv.store:80/486186744/479743596/4238225
+#EXTINF:-1 tvg-id="" tvg-name="BREAKING BAD 24HRS" tvg-logo="" group-title="⭐ 24HORAS",BREAKING BAD 24HRS
+http://su20.bibliotecavsv.store:80/486186744/479743596/4238322
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad 24hs" tvg-logo="" group-title="⭐ 24HORAS",Breaking Bad 24hs
+http://su20.bibliotecavsv.store:80/486186744/479743596/4238226
+#EXTINF:-1 tvg-id="br#canal-brasil-hd" tvg-name="CANAL BRASIL 4K" tvg-logo="https://img.hotice.site/icones_channels/CANAL_BRASIL_HD.png" group-title="⭐ 4K",CANAL BRASIL 4K
+http://su20.bibliotecavsv.store:80/486186744/479743596/4230999
+#EXTINF:-1 tvg-id="br#canal-brasil-hd" tvg-name="CANAL BRASIL FHD" tvg-logo="https://img.hotice.site/icones_channels/CANAL_BRASIL_HD.png" group-title="⭐ ABERTOS",CANAL BRASIL FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231000
+#EXTINF:-1 tvg-id="br#canal-brasil-hd" tvg-name="CANAL BRASIL HD" tvg-logo="https://img.hotice.site/icones_channels/CANAL_BRASIL_HD.png" group-title="⭐ ABERTOS",CANAL BRASIL HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231001
+#EXTINF:-1 tvg-id="br#canal-brasil-hd" tvg-name="CANAL BRASIL SD" tvg-logo="https://img.hotice.site/icones_channels/CANAL_BRASIL_HD.png" group-title="⭐ ABERTOS",CANAL BRASIL SD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231002
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI FHD" tvg-logo="https://img.hotice.site/icones_channels/Canal_do_Boi_HD.png" group-title="⭐ AGRO NEGOCIOS",CANAL DO BOI FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231003
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI HD" tvg-logo="https://img.hotice.site/icones_channels/Canal_do_Boi_HD.png" group-title="⭐ AGRO NEGOCIOS",CANAL DO BOI HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231004
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI SD" tvg-logo="https://img.hotice.site/icones_channels/Canal_do_Boi_HD.png" group-title="⭐ AGRO NEGOCIOS",CANAL DO BOI SD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231005
+#EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="CANAL FUTURA FHD" tvg-logo="https://img.hotice.site/icones_channels/Futura.png" group-title="⭐ ABERTOS",CANAL FUTURA FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231006
+#EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="CANAL FUTURA HD" tvg-logo="https://img.hotice.site/icones_channels/Futura.png" group-title="⭐ ABERTOS",CANAL FUTURA HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231007
+#EXTINF:-1 tvg-id="br#viva-hd" tvg-name="CANAL GLOBOPLAY NOVELAS FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="⭐ CANAIS NOVELAS",CANAL GLOBOPLAY NOVELAS FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231008
+#EXTINF:-1 tvg-id="CanalViva.br" tvg-name="CANAL GLOBOPLAY NOVELAS HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="⭐ CANAIS NOVELAS",CANAL GLOBOPLAY NOVELAS HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231009
+#EXTINF:-1 tvg-id="br#viva-hd" tvg-name="CANAL GLOBOPLAY NOVELAS SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="⭐ CANAIS NOVELAS",CANAL GLOBOPLAY NOVELAS SD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231010
+#EXTINF:-1 tvg-id="" tvg-name="CANAL GOAT 01 HD" tvg-logo="https://img.hotice.site/icones_channels/Canal_GOAT.png" group-title="ESPORTES PPV",CANAL GOAT 01 HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665784
+#EXTINF:-1 tvg-id="" tvg-name="CANAL GOAT 02 HD" tvg-logo="https://img.hotice.site/icones_channels/Canal_GOAT_2.png" group-title="ESPORTES PPV",CANAL GOAT 02 HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665785
+#EXTINF:-1 tvg-id="" tvg-name="CANAL OFF FHD" tvg-logo="https://img.hotice.site/icones_channels/OFF_HD.png" group-title="️ESPORTES RADICAIS",CANAL OFF FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665786
+#EXTINF:-1 tvg-id="CanalOff.br" tvg-name="CANAL OFF HD" tvg-logo="https://img.hotice.site/icones_channels/OFF_HD.png" group-title="️ESPORTES RADICAIS",CANAL OFF HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665787
+#EXTINF:-1 tvg-id="CanalOff.br" tvg-name="CANAL OFF SD" tvg-logo="https://img.hotice.site/icones_channels/OFF_HD.png" group-title="️ESPORTES RADICAIS",CANAL OFF SD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665788
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="CANAL REDE TV FHD" tvg-logo="https://img.hotice.site/icones_channels/Rede_TV!_HD.png" group-title="⭐ ABERTOS",CANAL REDE TV FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231017
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="CANAL REDE TV HD" tvg-logo="https://img.hotice.site/icones_channels/Rede_TV!_HD.png" group-title="⭐ ABERTOS",CANAL REDE TV HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231018
+#EXTINF:-1 tvg-id="CanalRural.br" tvg-name="CANAL RURAL FHD" tvg-logo="https://img.hotice.site/icones_channels/Canal_Rural.png" group-title="⭐ AGRO NEGOCIOS",CANAL RURAL FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231019
+#EXTINF:-1 tvg-id="CanalRural.br" tvg-name="CANAL RURAL HD" tvg-logo="https://img.hotice.site/icones_channels/Canal_Rural.png" group-title="⭐ AGRO NEGOCIOS",CANAL RURAL HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231020
+#EXTINF:-1 tvg-id="CanalRural.br" tvg-name="CANAL RURAL SD" tvg-logo="https://img.hotice.site/icones_channels/Canal_Rural.png" group-title="⭐ AGRO NEGOCIOS",CANAL RURAL SD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231021
+#EXTINF:-1 tvg-id="TNTNovelas.br" tvg-name="CANAL TNT NOVELAS FHD" tvg-logo="https://img.hotice.site/icones_channels/TNT_Novelas_HD.png" group-title="⭐ CANAIS NOVELAS",CANAL TNT NOVELAS FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231022
+#EXTINF:-1 tvg-id="TNTNovelas.br" tvg-name="CANAL TNT NOVELAS HD" tvg-logo="https://img.hotice.site/icones_channels/TNT_Novelas_HD.png" group-title="⭐ CANAIS NOVELAS",CANAL TNT NOVELAS HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231023
+#EXTINF:-1 tvg-id="TNTNovelas.br" tvg-name="CANAL TNT NOVELAS SD" tvg-logo="https://img.hotice.site/icones_channels/TNT_Novelas_HD.png" group-title="⭐ CANAIS NOVELAS",CANAL TNT NOVELAS SD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231024
+#EXTINF:-1 tvg-id="br#canal-brasil-hd" tvg-name="CANAL TV BRASIL FHD" tvg-logo="https://img.hotice.site/icones_channels/TV_Brasil__Esperança.png" group-title="⭐ ABERTOS",CANAL TV BRASIL FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231027
+#EXTINF:-1 tvg-id="br#canal-brasil-hd" tvg-name="CANAL TV BRASIL HD" tvg-logo="https://img.hotice.site/icones_channels/TV_Brasil__Esperança.png" group-title="⭐ ABERTOS",CANAL TV BRASIL HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231028
+#EXTINF:-1 tvg-id="br#cultura-hd" tvg-name="CANAL TV CULTURA FHD" tvg-logo="https://img.hotice.site/icones_channels/TV_Cultura.png" group-title="⭐ ABERTOS",CANAL TV CULTURA FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231029
+#EXTINF:-1 tvg-id="br#cultura-hd" tvg-name="CANAL TV CULTURA HD" tvg-logo="https://img.hotice.site/icones_channels/TV_Cultura.png" group-title="⭐ ABERTOS",CANAL TV CULTURA HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231030
+#EXTINF:-1 tvg-id="br#gazeta-hd" tvg-name="CANAL TV GAZETA FHD" tvg-logo="https://img.hotice.site/icones_channels/Gazeta_HD.png" group-title="⭐ ABERTOS",CANAL TV GAZETA FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231031
+#EXTINF:-1 tvg-id="br#gazeta-hd" tvg-name="CANAL TV GAZETA HD" tvg-logo="https://img.hotice.site/icones_channels/Gazeta_HD.png" group-title="⭐ ABERTOS",CANAL TV GAZETA HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231032
+#EXTINF:-1 tvg-id="24HAnimes" tvg-name="CANAL TV SENADO FHD" tvg-logo="https://img.hotice.site/icones_channels/TV_Senado.png" group-title="⭐ ABERTOS",CANAL TV SENADO FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231033
+#EXTINF:-1 tvg-id="TVSenado.br" tvg-name="CANAL TV SENADO HD" tvg-logo="https://img.hotice.site/icones_channels/TV_Senado.png" group-title="⭐ ABERTOS",CANAL TV SENADO HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231034
+#EXTINF:-1 tvg-id="TVEBahia.br" tvg-name="CANAL TVE FHD" tvg-logo="https://img.hotice.site/icones_channels/TVE.png" group-title="⭐ ABERTOS",CANAL TVE FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231035
+#EXTINF:-1 tvg-id="TVEBahia.br" tvg-name="CANAL TVE HD" tvg-logo="https://img.hotice.site/icones_channels/TVE.png" group-title="⭐ ABERTOS",CANAL TVE HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231036
+#EXTINF:-1 tvg-id="br#canc-o-nova-hd" tvg-name="CANÇÃO NOVA FHD" tvg-logo="https://img.hotice.site/icones_channels/Cancao_Nova.png" group-title="⭐ RELIGIOSOS",CANÇÃO NOVA FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231037
+#EXTINF:-1 tvg-id="br#canc-o-nova-hd" tvg-name="CANÇÃO NOVA HD" tvg-logo="https://img.hotice.site/icones_channels/Cancao_Nova.png" group-title="⭐ RELIGIOSOS",CANÇÃO NOVA HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231038
+#EXTINF:-1 tvg-id="" tvg-name="CAO CORAGEM 24HS" tvg-logo="" group-title="⭐ 24HORAS",CAO CORAGEM 24HS
+http://su20.bibliotecavsv.store:80/486186744/479743596/4238227
+#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://img.hotice.site/icones_channels/Cartoon_Network_HD.png" group-title="⭐ INFANTIL",CARTOON NETWORK FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231039
+#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://img.hotice.site/icones_channels/Cartoon_Network_HD.png" group-title="⭐ INFANTIL",CARTOON NETWORK HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231040
+#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="https://img.hotice.site/icones_channels/Cartoon_Network_HD.png" group-title="⭐ INFANTIL",CARTOON NETWORK SD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231041
+#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="CARTOONITO FHD" tvg-logo="https://img.hotice.site/icones_channels/Cartoonito.png" group-title="⭐ INFANTIL",CARTOONITO FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231042
+#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="CARTOONITO HD" tvg-logo="https://img.hotice.site/icones_channels/Cartoonito.png" group-title="⭐ INFANTIL",CARTOONITO HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231043
+#EXTINF:-1 tvg-id="" tvg-name="CAVERNA DO DRAGAO 24HRS" tvg-logo="" group-title="⭐ 24HORAS",CAVERNA DO DRAGAO 24HRS
+http://su20.bibliotecavsv.store:80/486186744/479743596/4238320
+#EXTINF:-1 tvg-id="" tvg-name="Caverna do Dragão 24HS" tvg-logo="" group-title="⭐ 24HORAS",Caverna do Dragão 24HS
+http://su20.bibliotecavsv.store:80/486186744/479743596/4238228
+#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV (YOUTUBE)" tvg-logo="https://img.hotice.site/icones_channels/CazeTV.png" group-title="ESPORTES PPV",CAZÉ TV (YOUTUBE)
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665789
+#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV 01 FHD" tvg-logo="https://img.hotice.site/icones_channels/CazeTV.png" group-title="ESPORTES PPV",CAZÉ TV 01 FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665790
+#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV 01 HD" tvg-logo="https://img.hotice.site/icones_channels/CazeTV.png" group-title="ESPORTES PPV",CAZÉ TV 01 HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665791
+#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV 02 FHD" tvg-logo="https://img.hotice.site/icones_channels/CazeTV.png" group-title="ESPORTES PPV",CAZÉ TV 02 FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665792
+#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV 02 HD" tvg-logo="https://img.hotice.site/icones_channels/CazeTV.png" group-title="ESPORTES PPV",CAZÉ TV 02 HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665793
+#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV 03 HD" tvg-logo="https://img.hotice.site/icones_channels/CazeTV.png" group-title="ESPORTES PPV",CAZÉ TV 03 HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665794
+#EXTINF:-1 tvg-id="" tvg-name="CENTRAL KIDS 24HRS" tvg-logo="" group-title="⭐ 24HORAS",CENTRAL KIDS 24HRS
+http://su20.bibliotecavsv.store:80/486186744/479743596/4238316
+#EXTINF:-1 tvg-id="" tvg-name="Chapolin Colorado 24hs" tvg-logo="" group-title="⭐ 24HORAS",Chapolin Colorado 24hs
+http://su20.bibliotecavsv.store:80/486186744/479743596/4238229
+#EXTINF:-1 tvg-id="" tvg-name="Chapolin Colorado 24hs" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="24HORAS F2",Chapolin Colorado 24hs
+http://su20.bibliotecavsv.store:80/486186744/479743596/4666693
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES 24HS" tvg-logo="" group-title="⭐ 24HORAS",CHAVES 24HS
+http://su20.bibliotecavsv.store:80/486186744/479743596/4238230
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES DESENHO 24HS" tvg-logo="" group-title="⭐ 24HORAS",CHAVES DESENHO 24HS
+http://su20.bibliotecavsv.store:80/486186744/479743596/4238231
+#EXTINF:-1 tvg-id="Cine Sky 1" tvg-name="CINE SKY 01" tvg-logo="https://img.inboxbr.pro/icones_channels/CineSKY.png" group-title="⭐ CINE SKY",CINE SKY 01
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231053
+#EXTINF:-1 tvg-id="Cine Sky 2" tvg-name="CINE SKY 02" tvg-logo="https://img.inboxbr.pro/icones_channels/CineSKY.png" group-title="⭐ CINE SKY",CINE SKY 02
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231054
+#EXTINF:-1 tvg-id="Cine Sky 3" tvg-name="CINE SKY 03" tvg-logo="https://img.inboxbr.pro/icones_channels/CineSKY.png" group-title="⭐ CINE SKY",CINE SKY 03
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231055
+#EXTINF:-1 tvg-id="Cine Sky 4" tvg-name="CINE SKY 04" tvg-logo="https://img.inboxbr.pro/icones_channels/CineSKY.png" group-title="⭐ CINE SKY",CINE SKY 04
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231056
+#EXTINF:-1 tvg-id="Cine Sky 5" tvg-name="CINE SKY 05" tvg-logo="https://img.inboxbr.pro/icones_channels/CineSKY.png" group-title="⭐ CINE SKY",CINE SKY 05
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231057
+#EXTINF:-1 tvg-id="br#cinemax-1" tvg-name="CINEMAX 4K" tvg-logo="https://img.hotice.site/icones_channels/CineMax_HD.png" group-title="⭐ 4K",CINEMAX 4K
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231063
+#EXTINF:-1 tvg-id="br#cinemax-1" tvg-name="CINEMAX FHD" tvg-logo="https://img.hotice.site/icones_channels/CineMax_HD.png" group-title="⏩ FILMES E SÉRIES",CINEMAX FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231064
+#EXTINF:-1 tvg-id="br#cinemax-1" tvg-name="CINEMAX HD" tvg-logo="https://img.hotice.site/icones_channels/CineMax_HD.png" group-title="⏩ FILMES E SÉRIES",CINEMAX HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231065
+#EXTINF:-1 tvg-id="br#cinemax-1" tvg-name="CINEMAX SD" tvg-logo="https://img.hotice.site/icones_channels/CineMax_HD.png" group-title="⏩ FILMES E SÉRIES",CINEMAX SD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231066
+#EXTINF:-1 tvg-id="br#cnn-brasil-1" tvg-name="CNN BRASIL FHD" tvg-logo="https://img.hotice.site/icones_channels/CNN_brasil_HD.png" group-title="⭐ NOTÍCIAS",CNN BRASIL FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231067
+#EXTINF:-1 tvg-id="br#cnn-brasil-1" tvg-name="CNN BRASIL HD" tvg-logo="https://img.hotice.site/icones_channels/CNN_brasil_HD.png" group-title="⭐ NOTÍCIAS",CNN BRASIL HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231068
+#EXTINF:-1 tvg-id="br#cnn-brasil-1" tvg-name="CNN BRASIL SD" tvg-logo="https://img.hotice.site/icones_channels/CNN_brasil_HD.png" group-title="⭐ NOTÍCIAS",CNN BRASIL SD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231069
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE 4K" tvg-logo="https://img.hotice.site/icones_channels/COMBATE_HD.png" group-title="⭐ 4K",COMBATE 4K
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231074
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE FHD" tvg-logo="https://img.hotice.site/icones_channels/COMBATE_HD.png" group-title="COMBATE UFC",COMBATE FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231075
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD" tvg-logo="https://img.hotice.site/icones_channels/COMBATE_HD.png" group-title="COMBATE UFC",COMBATE HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231076
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE SD" tvg-logo="https://img.hotice.site/icones_channels/COMBATE_HD.png" group-title="COMBATE UFC",COMBATE SD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231077
+#EXTINF:-1 tvg-id="br#comedy-central-hd" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://img.hotice.site/icones_channels/Comedy_Central_HD.png" group-title="⭐ VARIEDADES",COMEDY CENTRAL FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231078
+#EXTINF:-1 tvg-id="br#comedy-central-hd" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://img.hotice.site/icones_channels/Comedy_Central_HD.png" group-title="⭐ VARIEDADES",COMEDY CENTRAL HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231079
+#EXTINF:-1 tvg-id="br#comedy-central-hd" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://img.hotice.site/icones_channels/Comedy_Central_HD.png" group-title="⭐ VARIEDADES",COMEDY CENTRAL SD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231080
+#EXTINF:-1 tvg-id="" tvg-name="Corrida Maluca" tvg-logo="" group-title="⭐ 24HORAS",Corrida Maluca
+http://su20.bibliotecavsv.store:80/486186744/479743596/4238308
+#EXTINF:-1 tvg-id="br#curta-hd" tvg-name="CURTA! FHD" tvg-logo="https://img.hotice.site/icones_channels/Curta_HD.png" group-title="⭐ VARIEDADES",CURTA! FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231081
+#EXTINF:-1 tvg-id="br#curta-hd" tvg-name="CURTA! HD" tvg-logo="https://img.hotice.site/icones_channels/Curta_HD.png" group-title="⭐ VARIEDADES",CURTA! HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231082
+#EXTINF:-1 tvg-id="br#curta-hd" tvg-name="CURTA! SD" tvg-logo="https://img.hotice.site/icones_channels/Curta_HD.png" group-title="⭐ VARIEDADES",CURTA! SD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231083
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 01 BR HD" tvg-logo="https://img.hotice.site/icones_channels/DAZN.png" group-title="ELEVEN-DAZN",DAZN 01 BR HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665795
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 01 PT HD" tvg-logo="https://img.hotice.site/icones_channels/DAZN.png" group-title="ELEVEN-DAZN",DAZN 01 PT HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665796
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 02 BR HD" tvg-logo="https://img.hotice.site/icones_channels/DAZN_2.png" group-title="ELEVEN-DAZN",DAZN 02 BR HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665797
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 02 PT HD" tvg-logo="https://img.hotice.site/icones_channels/DAZN_2.png" group-title="ELEVEN-DAZN",DAZN 02 PT HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665799
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 03 BR HD" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn3.png?resize=440%2C264&ssl=1" group-title="ELEVEN-DAZN",DAZN 03 BR HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665800
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 03 PT HD" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn3.png?resize=440%2C264&ssl=1" group-title="ELEVEN-DAZN",DAZN 03 PT HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665801
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 04 BR HD" tvg-logo="https://img.hotice.site/icones_channels/DAZN_4.png" group-title="ELEVEN-DAZN",DAZN 04 BR HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665802
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 04 PT HD" tvg-logo="https://img.hotice.site/icones_channels/DAZN_4.png" group-title="ELEVEN-DAZN",DAZN 04 PT HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665803
+#EXTINF:-1 tvg-id="" tvg-name="DENIS O PIMENTINHA  24hrs" tvg-logo="" group-title="⭐ 24HORAS",DENIS O PIMENTINHA  24hrs
+http://su20.bibliotecavsv.store:80/486186744/479743596/4238232
+#EXTINF:-1 tvg-id="" tvg-name="Desenhos Biblicos 24hs" tvg-logo="" group-title="⭐ 24HORAS",Desenhos Biblicos 24hs
+http://su20.bibliotecavsv.store:80/486186744/479743596/4238233
+#EXTINF:-1 tvg-id="" tvg-name="DESENHOS DISNEY 24HRS" tvg-logo="" group-title="⭐ 24HORAS",DESENHOS DISNEY 24HRS
+http://su20.bibliotecavsv.store:80/486186744/479743596/4238234
+#EXTINF:-1 tvg-id="" tvg-name="DIGIMON 24hrs" tvg-logo="" group-title="⭐ 24HORAS",DIGIMON 24hrs
+http://su20.bibliotecavsv.store:80/486186744/479743596/4238235
+#EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_HD.png" group-title="⭐ DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231092
+#EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_HD.png" group-title="⭐ DOCUMENTÁRIOS",DISCOVERY CHANNEL HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231093
+#EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_HD.png" group-title="⭐ DOCUMENTÁRIOS",DISCOVERY CHANNEL SD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231094
+#EXTINF:-1 tvg-id="br#discovery-hd" tvg-name="DISCOVERY H&H" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_H&H_HD.png" group-title="⭐ 4K",DISCOVERY H&H
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231095
+#EXTINF:-1 tvg-id="br#discovery-hd" tvg-name="DISCOVERY H&H 4K" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_H&H_HD.png" group-title="⭐ 4K",DISCOVERY H&H 4K
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231096
+#EXTINF:-1 tvg-id="br#discovery-hd" tvg-name="DISCOVERY H&H FHD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_H&H_HD.png" group-title="⭐ DOCUMENTÁRIOS",DISCOVERY H&H FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231097
+#EXTINF:-1 tvg-id="br#discovery-hd" tvg-name="DISCOVERY H&H HD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_H&H_HD.png" group-title="⭐ DOCUMENTÁRIOS",DISCOVERY H&H HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231098
+#EXTINF:-1 tvg-id="br#discovery-hd" tvg-name="DISCOVERY H&H SD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_H&H_HD.png" group-title="⭐ DOCUMENTÁRIOS",DISCOVERY H&H SD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231099
+#EXTINF:-1 tvg-id="br#investigacao-discovery-hd" tvg-name="DISCOVERY INVESTIGAÇAO 4K" tvg-logo="https://img.hotice.site/icones_channels/ID_HD.png" group-title="⭐ 4K",DISCOVERY INVESTIGAÇAO 4K
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231100
+#EXTINF:-1 tvg-id="Investigacao Discovery SD" tvg-name="DISCOVERY INVESTIGAÇAO FHD" tvg-logo="https://img.hotice.site/icones_channels/ID_HD.png" group-title="⭐ DOCUMENTÁRIOS",DISCOVERY INVESTIGAÇAO FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231101
+#EXTINF:-1 tvg-id="InvestigationDiscovery.br" tvg-name="DISCOVERY INVESTIGAÇAO HD" tvg-logo="https://img.hotice.site/icones_channels/ID_HD.png" group-title="⭐ DOCUMENTÁRIOS",DISCOVERY INVESTIGAÇAO HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231102
+#EXTINF:-1 tvg-id="InvestigationDiscovery.br" tvg-name="DISCOVERY INVESTIGAÇAO SD" tvg-logo="https://img.hotice.site/icones_channels/ID_HD.png" group-title="⭐ DOCUMENTÁRIOS",DISCOVERY INVESTIGAÇAO SD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231103
+#EXTINF:-1 tvg-id="br#discovery-kids-hd" tvg-name="DISCOVERY KIDS FHD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_KIDS_HD.png" group-title="⭐ INFANTIL",DISCOVERY KIDS FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231104
+#EXTINF:-1 tvg-id="br#discovery-kids-hd" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_KIDS_HD.png" group-title="⭐ INFANTIL",DISCOVERY KIDS HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231105
+#EXTINF:-1 tvg-id="br#discovery-kids-hd" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_KIDS_HD.png" group-title="⭐ INFANTIL",DISCOVERY KIDS SD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231106
+#EXTINF:-1 tvg-id="br#discovery-science-hd" tvg-name="DISCOVERY SCIENCE 4K" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_SCIENCE.png" group-title="⭐ 4K",DISCOVERY SCIENCE 4K
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231107
+#EXTINF:-1 tvg-id="br#discovery-science-hd" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_SCIENCE.png" group-title="⭐ DOCUMENTÁRIOS",DISCOVERY SCIENCE FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231108
+#EXTINF:-1 tvg-id="br#discovery-science-hd" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_SCIENCE.png" group-title="⭐ DOCUMENTÁRIOS",DISCOVERY SCIENCE HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231109
+#EXTINF:-1 tvg-id="br#discovery-science-hd" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_SCIENCE.png" group-title="⭐ DOCUMENTÁRIOS",DISCOVERY SCIENCE SD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231110
+#EXTINF:-1 tvg-id="DiscoveryTheater.br" tvg-name="DISCOVERY THEATER FHD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_THEATER_HD.png" group-title="⭐ DOCUMENTÁRIOS",DISCOVERY THEATER FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231111
+#EXTINF:-1 tvg-id="DiscoveryTheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_THEATER_HD.png" group-title="⭐ DOCUMENTÁRIOS",DISCOVERY THEATER HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231112
+#EXTINF:-1 tvg-id="DiscoveryTheater.br" tvg-name="DISCOVERY THEATER SD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_THEATER_HD.png" group-title="⭐ DOCUMENTÁRIOS",DISCOVERY THEATER SD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231113
+#EXTINF:-1 tvg-id="br#discovery-turbo-hd" tvg-name="DISCOVERY TURBO 4K" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_TURBO_HD.png" group-title="⭐ 4K",DISCOVERY TURBO 4K
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231114
+#EXTINF:-1 tvg-id="br#discovery-turbo-hd" tvg-name="DISCOVERY TURBO FHD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_TURBO_HD.png" group-title="⭐ DOCUMENTÁRIOS",DISCOVERY TURBO FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231115
+#EXTINF:-1 tvg-id="br#discovery-turbo-hd" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_TURBO_HD.png" group-title="⭐ DOCUMENTÁRIOS",DISCOVERY TURBO HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231116
+#EXTINF:-1 tvg-id="br#discovery-turbo-hd" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_TURBO_HD.png" group-title="⭐ DOCUMENTÁRIOS",DISCOVERY TURBO SD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231117
+#EXTINF:-1 tvg-id="DiscoveryWorld.br" tvg-name="DISCOVERY WORLD 4K" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_WORLD.png" group-title="⭐ 4K",DISCOVERY WORLD 4K
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231118
+#EXTINF:-1 tvg-id="DiscoveryWorld.br" tvg-name="DISCOVERY WORLD FHD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_WORLD.png" group-title="⭐ DOCUMENTÁRIOS",DISCOVERY WORLD FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231119
+#EXTINF:-1 tvg-id="DiscoveryWorld.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_WORLD.png" group-title="⭐ DOCUMENTÁRIOS",DISCOVERY WORLD HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231120
+#EXTINF:-1 tvg-id="DiscoveryWorld.br" tvg-name="DISCOVERY WORLD SD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_WORLD.png" group-title="⭐ DOCUMENTÁRIOS",DISCOVERY WORLD SD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231121
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 01 HD" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="DISNEY+",DISNEY+ 01 HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665804
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 02 HD" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="DISNEY+",DISNEY+ 02 HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665805
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 03 HD" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="DISNEY+",DISNEY+ 03 HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665806
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 04 HD" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="DISNEY+",DISNEY+ 04 HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665807
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 05 HD" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="DISNEY+",DISNEY+ 05 HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665808
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 06 HD" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="DISNEY+",DISNEY+ 06 HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665809
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 07 HD" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="DISNEY+",DISNEY+ 07 HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665810
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 08 HD" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="DISNEY+",DISNEY+ 08 HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665811
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 09 HD" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="DISNEY+",DISNEY+ 09 HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665812
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 10 HD" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="DISNEY+",DISNEY+ 10 HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665813
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio 24HS" tvg-logo="" group-title="⭐ 24HORAS",Dois Homens e Meio 24HS
+http://su20.bibliotecavsv.store:80/486186744/479743596/4238236
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL 24HS" tvg-logo="" group-title="⭐ 24HORAS",DRAGON BALL 24HS
+http://su20.bibliotecavsv.store:80/486186744/479743596/4238238
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER 24HS" tvg-logo="" group-title="⭐ 24HORAS",DRAGON BALL SUPER 24HS
+http://su20.bibliotecavsv.store:80/486186744/479743596/4238239
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z 24HS" tvg-logo="" group-title="⭐ 24HORAS",DRAGON BALL Z 24HS
+http://su20.bibliotecavsv.store:80/486186744/479743596/4238240
+#EXTINF:-1 tvg-id="br#e-hd" tvg-name="E! FHD" tvg-logo="https://img.hotice.site/icones_channels/E!.png" group-title="⭐ VARIEDADES",E! FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231132
+#EXTINF:-1 tvg-id="br#e-hd" tvg-name="E! HD" tvg-logo="https://img.hotice.site/icones_channels/E!.png" group-title="⭐ VARIEDADES",E! HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231133
+#EXTINF:-1 tvg-id="br#e-hd" tvg-name="E! SD" tvg-logo="https://img.hotice.site/icones_channels/E!.png" group-title="⭐ VARIEDADES",E! SD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231134
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 01" tvg-logo="https://img.hotice.site/icones_channels/ELEVEN_SPORTS_1_PT.png" group-title="ELEVEN-DAZN",ELEVEN SPORTS 01
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665814
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 02" tvg-logo="https://img.hotice.site/icones_channels/ELEVEN_SPORTS_2_PT.png" group-title="ELEVEN-DAZN",ELEVEN SPORTS 02
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665815
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 03" tvg-logo="https://img.hotice.site/icones_channels/ELEVEN_SPORTS_3_PT.png" group-title="ELEVEN-DAZN",ELEVEN SPORTS 03
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665816
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 04" tvg-logo="https://img.hotice.site/icones_channels/ELEVEN_SPORTS_4_PT.png" group-title="ELEVEN-DAZN",ELEVEN SPORTS 04
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665817
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 05" tvg-logo="https://img.hotice.site/icones_channels/ELEVEN_SPORTS_5_PT.png" group-title="ELEVEN-DAZN",ELEVEN SPORTS 05
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665818
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Sul de Minas HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBOS",EPTV Sul de Minas HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4660165
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Sul de Minas SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="⭐ GLOBOS",EPTV Sul de Minas SD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4660166
+#EXTINF:-1 tvg-id="br#espn-hd" tvg-name="ESPN 01 4K" tvg-logo="https://img.hotice.site/icones_channels/ESPN_HD.png" group-title="⭐ 4K",ESPN 01 4K
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231140
+#EXTINF:-1 tvg-id="br#espn-hd" tvg-name="ESPN 01 FHD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_HD.png" group-title="ESPN",ESPN 01 FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665819
+#EXTINF:-1 tvg-id="br#espn-hd" tvg-name="ESPN 01 HD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_HD.png" group-title="ESPN",ESPN 01 HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665820
+#EXTINF:-1 tvg-id="br#espn-hd" tvg-name="ESPN 01 SD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_HD.png" group-title="ESPN",ESPN 01 SD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665821
+#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="ESPN 02 4K" tvg-logo="https://img.hotice.site/icones_channels/ESPN_2_HD.png" group-title="⭐ 4K",ESPN 02 4K
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231144
+#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="ESPN 02 FHD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_2_HD.png" group-title="ESPN",ESPN 02 FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665822
+#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="ESPN 02 HD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_2_HD.png" group-title="ESPN",ESPN 02 HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665823
+#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="ESPN 02 SD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_2_HD.png" group-title="ESPN",ESPN 02 SD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665824
+#EXTINF:-1 tvg-id="ESPN3.br" tvg-name="ESPN 03 4K" tvg-logo="https://img.hotice.site/icones_channels/ESPN_3_HD.png" group-title="⭐ 4K",ESPN 03 4K
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231148
+#EXTINF:-1 tvg-id="ESPN3.br" tvg-name="ESPN 03 FHD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_3_HD.png" group-title="ESPN",ESPN 03 FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665825
+#EXTINF:-1 tvg-id="ESPN3.br" tvg-name="ESPN 03 HD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_3_HD.png" group-title="ESPN",ESPN 03 HD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665826
+#EXTINF:-1 tvg-id="ESPN3.br" tvg-name="ESPN 03 SD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_3_HD.png" group-title="ESPN",ESPN 03 SD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665827
+#EXTINF:-1 tvg-id="ESPN4.br" tvg-name="ESPN 04 4K" tvg-logo="https://img.hotice.site/icones_channels/ESPN_4_HD.png" group-title="⭐ 4K",ESPN 04 4K
+http://su20.bibliotecavsv.store:80/486186744/479743596/4231153
+#EXTINF:-1 tvg-id="ESPN4.br" tvg-name="ESPN 04 FHD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_4_HD.png" group-title="ESPN",ESPN 04 FHD
+http://su20.bibliotecavsv.store:80/486186744/479743596/4665828
+#EXTINF:-1 tvg-id="ESPN4.br" tvg-name="ESPN 04 HD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_4_HD.png" group-title="ESPN",ESPN 04 HD
+http://su20.bibliotecavsv.store:80/486186744/4
+#EXTINF:-1,A&E 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4230933
+#EXTINF:-1,A&E FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4230934
+#EXTINF:-1,A&E HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4230935
+#EXTINF:-1,A&E SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4230936
+#EXTINF:-1,AMC FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4230943
+#EXTINF:-1,AMC FHD 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4230944
+#EXTINF:-1,AMC HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4230945
+#EXTINF:-1,AMC SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4230946
+#EXTINF:-1,ANIMAL PLANET 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4230947
+#EXTINF:-1,ANIMAL PLANET FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4230948
+#EXTINF:-1,ANIMAL PLANET HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4230949
+#EXTINF:-1,ANIMAL PLANET SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4230950
+#EXTINF:-1,ARTE 1 FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4230951
+#EXTINF:-1,ARTE 1 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4230952
+#EXTINF:-1,ARTE 1 SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4230953
+#EXTINF:-1,AXN 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4230954
+#EXTINF:-1,AXN FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4230955
+#EXTINF:-1,AXN HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4230956
+#EXTINF:-1,AXN SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4230957
+#EXTINF:-1,BAND SPORTS FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665781
+#EXTINF:-1,BAND SPORTS HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665782
+#EXTINF:-1,BAND SPORTS SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665783
+#EXTINF:-1,BIS FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4230995
+#EXTINF:-1,BIS HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4230996
+#EXTINF:-1,CANAL FUTURA FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231006
+#EXTINF:-1,CANAL FUTURA HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231007
+#EXTINF:-1,CANAL GOAT 01 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665784
+#EXTINF:-1,CANAL GOAT 02 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665785
+#EXTINF:-1,CANAL OFF FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665786
+#EXTINF:-1,CANAL OFF HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665787
+#EXTINF:-1,CANAL OFF SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665788
+#EXTINF:-1,CARTOON NETWORK FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231039
+#EXTINF:-1,CARTOON NETWORK HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231040
+#EXTINF:-1,CARTOON NETWORK SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231041
+#EXTINF:-1,CARTOONITO FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231042
+#EXTINF:-1,CARTOONITO HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231043
+#EXTINF:-1,CAZÉ TV (YOUTUBE)
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665789
+#EXTINF:-1,CAZÉ TV 01 FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665790
+#EXTINF:-1,CAZÉ TV 01 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665791
+#EXTINF:-1,CAZÉ TV 02 FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665792
+#EXTINF:-1,CAZÉ TV 02 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665793
+#EXTINF:-1,CAZÉ TV 03 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665794
+#EXTINF:-1,CINE SKY 01
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231053
+#EXTINF:-1,CINE SKY 02
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231054
+#EXTINF:-1,CINE SKY 03
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231055
+#EXTINF:-1,CINE SKY 04
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231056
+#EXTINF:-1,CINE SKY 05
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231057
+#EXTINF:-1,CINEMAX 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231063
+#EXTINF:-1,CINEMAX FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231064
+#EXTINF:-1,CINEMAX HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231065
+#EXTINF:-1,CINEMAX SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231066
+#EXTINF:-1,CNN BRASIL FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231067
+#EXTINF:-1,CNN BRASIL HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231068
+#EXTINF:-1,CNN BRASIL SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231069
+#EXTINF:-1,COMBATE 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231074
+#EXTINF:-1,COMBATE FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231075
+#EXTINF:-1,COMBATE HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231076
+#EXTINF:-1,COMBATE SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231077
+#EXTINF:-1,COMEDY CENTRAL FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231078
+#EXTINF:-1,COMEDY CENTRAL HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231079
+#EXTINF:-1,COMEDY CENTRAL SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231080
+#EXTINF:-1,CURTA! FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231081
+#EXTINF:-1,CURTA! HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231082
+#EXTINF:-1,CURTA! SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231083
+#EXTINF:-1,DAZN 01 BR HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665795
+#EXTINF:-1,DAZN 01 PT HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665796
+#EXTINF:-1,DAZN 02 BR HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665797
+#EXTINF:-1,DAZN 02 PT HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665799
+#EXTINF:-1,DAZN 03 BR HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665800
+#EXTINF:-1,DAZN 03 PT HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665801
+#EXTINF:-1,DAZN 04 BR HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665802
+#EXTINF:-1,DAZN 04 PT HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665803
+#EXTINF:-1,DISCOVERY CHANNEL FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231092
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231093
+#EXTINF:-1,DISCOVERY CHANNEL SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231094
+#EXTINF:-1,DISCOVERY H&H
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231095
+#EXTINF:-1,DISCOVERY H&H 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231096
+#EXTINF:-1,DISCOVERY H&H FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231097
+#EXTINF:-1,DISCOVERY H&H HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231098
+#EXTINF:-1,DISCOVERY H&H SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231099
+#EXTINF:-1,DISCOVERY INVESTIGAÇAO 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231100
+#EXTINF:-1,DISCOVERY INVESTIGAÇAO FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231101
+#EXTINF:-1,DISCOVERY INVESTIGAÇAO HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231102
+#EXTINF:-1,DISCOVERY INVESTIGAÇAO SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231103
+#EXTINF:-1,DISCOVERY KIDS FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231104
+#EXTINF:-1,DISCOVERY KIDS HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231105
+#EXTINF:-1,DISCOVERY KIDS SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231106
+#EXTINF:-1,DISCOVERY SCIENCE 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231107
+#EXTINF:-1,DISCOVERY SCIENCE FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231108
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231109
+#EXTINF:-1,DISCOVERY SCIENCE SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231110
+#EXTINF:-1,DISCOVERY THEATER FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231111
+#EXTINF:-1,DISCOVERY THEATER HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231112
+#EXTINF:-1,DISCOVERY THEATER SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231113
+#EXTINF:-1,DISCOVERY TURBO 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231114
+#EXTINF:-1,DISCOVERY TURBO FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231115
+#EXTINF:-1,DISCOVERY TURBO HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231116
+#EXTINF:-1,DISCOVERY TURBO SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231117
+#EXTINF:-1,DISCOVERY WORLD 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231118
+#EXTINF:-1,DISCOVERY WORLD FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231119
+#EXTINF:-1,DISCOVERY WORLD HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231120
+#EXTINF:-1,DISCOVERY WORLD SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231121
+#EXTINF:-1,DISNEY+ 01 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665804
+#EXTINF:-1,DISNEY+ 02 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665805
+#EXTINF:-1,DISNEY+ 03 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665806
+#EXTINF:-1,DISNEY+ 04 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665807
+#EXTINF:-1,DISNEY+ 05 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665808
+#EXTINF:-1,DISNEY+ 06 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665809
+#EXTINF:-1,DISNEY+ 07 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665810
+#EXTINF:-1,DISNEY+ 08 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665811
+#EXTINF:-1,DISNEY+ 09 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665812
+#EXTINF:-1,DISNEY+ 10 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665813
+#EXTINF:-1,E! FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231132
+#EXTINF:-1,E! HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231133
+#EXTINF:-1,E! SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231134
+#EXTINF:-1,ELEVEN SPORTS 01
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665814
+#EXTINF:-1,ELEVEN SPORTS 02
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665815
+#EXTINF:-1,ELEVEN SPORTS 03
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665816
+#EXTINF:-1,ELEVEN SPORTS 04
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665817
+#EXTINF:-1,ELEVEN SPORTS 05
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665818
+#EXTINF:-1,ESPN 01 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231140
+#EXTINF:-1,ESPN 01 FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665819
+#EXTINF:-1,ESPN 01 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665820
+#EXTINF:-1,ESPN 01 SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665821
+#EXTINF:-1,ESPN 02 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231144
+#EXTINF:-1,ESPN 02 FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665822
+#EXTINF:-1,ESPN 02 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665823
+#EXTINF:-1,ESPN 02 SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665824
+#EXTINF:-1,ESPN 03 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231148
+#EXTINF:-1,ESPN 03 FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665825
+#EXTINF:-1,ESPN 03 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665826
+#EXTINF:-1,ESPN 03 SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665827
+#EXTINF:-1,ESPN 04 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231153
+#EXTINF:-1,ESPN 04 FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665828
+#EXTINF:-1,ESPN 04 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665829
+#EXTINF:-1,ESPN 04 SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665830
+#EXTINF:-1,ESPN 05 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231157
+#EXTINF:-1,ESPN 05 FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665831
+#EXTINF:-1,ESPN 05 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665832
+#EXTINF:-1,ESPN 05 SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665833
+#EXTINF:-1,ESPN 06 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231161
+#EXTINF:-1,ESPN 06 FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665834
+#EXTINF:-1,ESPN 06 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665835
+#EXTINF:-1,ESPN 06 SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665836
+#EXTINF:-1,FASHION TV FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231167
+#EXTINF:-1,FASHION TV HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231168
+#EXTINF:-1,FASHION TV SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231169
+#EXTINF:-1,FISH TV 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231171
+#EXTINF:-1,FISH TV FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231172
+#EXTINF:-1,FISH TV HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231173
+#EXTINF:-1,FISH TV SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231174
+#EXTINF:-1,FOOD NETWORK FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231175
+#EXTINF:-1,FOOD NETWORK HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231176
+#EXTINF:-1,FOOD NETWORK SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231177
+#EXTINF:-1,Formiga Atómica 24hs
+http://su20.bibliotecavsv.store:80/995122134/532129920/4238242
+#EXTINF:-1,Galinha Pintadinha 24hs
+http://su20.bibliotecavsv.store:80/995122134/532129920/4238243
+#EXTINF:-1,GE TV FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665837
+#EXTINF:-1,GE TV HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665838
+#EXTINF:-1,GE TV SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665839
+#EXTINF:-1,GLOBO NEWS 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231333
+#EXTINF:-1,GLOBO NEWS FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231334
+#EXTINF:-1,GLOBO NEWS HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231335
+#EXTINF:-1,GLOBO NEWS SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231336
+#EXTINF:-1,GLOOB FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231547
+#EXTINF:-1,GLOOB HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231548
+#EXTINF:-1,GLOOB SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231549
+#EXTINF:-1,GLOOBINHO FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231550
+#EXTINF:-1,GLOOBINHO HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231551
+#EXTINF:-1,GLOOBINHO SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231552
+#EXTINF:-1,GNT FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231553
+#EXTINF:-1,GNT HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231554
+#EXTINF:-1,GNT SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231555
+#EXTINF:-1,HBO 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231557
+#EXTINF:-1,HBO FAMILY 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231558
+#EXTINF:-1,HBO FAMILY FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231559
+#EXTINF:-1,HBO FAMILY HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231560
+#EXTINF:-1,HBO FAMILY SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231561
+#EXTINF:-1,HBO FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231562
+#EXTINF:-1,HBO HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231563
+#EXTINF:-1,HBO MUNDI 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231564
+#EXTINF:-1,HBO MUNDI FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231565
+#EXTINF:-1,HBO MUNDI HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231566
+#EXTINF:-1,HBO MUNDI SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231567
+#EXTINF:-1,HBO POP 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231568
+#EXTINF:-1,HBO POP FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231569
+#EXTINF:-1,HBO POP HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231570
+#EXTINF:-1,HBO POP SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231571
+#EXTINF:-1,HBO SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231572
+#EXTINF:-1,HBO SIGNATURE 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231573
+#EXTINF:-1,HBO SIGNATURE FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231574
+#EXTINF:-1,HBO SIGNATURE HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231575
+#EXTINF:-1,HBO SIGNATURE SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231576
+#EXTINF:-1,HBO XTREME 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231577
+#EXTINF:-1,HBO XTREME FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231578
+#EXTINF:-1,HBO XTREME HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231579
+#EXTINF:-1,HBO XTREME SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231580
+#EXTINF:-1,HBO+ 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231581
+#EXTINF:-1,HBO+ FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231582
+#EXTINF:-1,HBO+ HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231583
+#EXTINF:-1,HBO+ SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231584
+#EXTINF:-1,HBO2 FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231585
+#EXTINF:-1,HBO2 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231586
+#EXTINF:-1,HBO2 SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231587
+#EXTINF:-1,He-Man 24hs
+http://su20.bibliotecavsv.store:80/995122134/532129920/4238245
+#EXTINF:-1,HGTV 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231588
+#EXTINF:-1,HGTV FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231589
+#EXTINF:-1,HGTV HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231590
+#EXTINF:-1,HGTV SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231591
+#EXTINF:-1,HISTORY 2 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231592
+#EXTINF:-1,HISTORY 2 FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231593
+#EXTINF:-1,HISTORY 2 FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231594
+#EXTINF:-1,HISTORY 2 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231595
+#EXTINF:-1,HISTORY 2 SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231596
+#EXTINF:-1,HISTORY CHANNEL 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231597
+#EXTINF:-1,HISTORY CHANNEL FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231598
+#EXTINF:-1,HISTORY CHANNEL HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231599
+#EXTINF:-1,HISTORY CHANNEL SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231600
+#EXTINF:-1,JOVEM PAN NEWS FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231603
+#EXTINF:-1,JOVEM PAN NEWS HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231604
+#EXTINF:-1,JOVEM PAN NEWS SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231605
+#EXTINF:-1,LIFETIME 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231606
+#EXTINF:-1,LIFETIME FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231607
+#EXTINF:-1,LIFETIME HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231608
+#EXTINF:-1,LIFETIME SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231609
+#EXTINF:-1,MAX 01 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665840
+#EXTINF:-1,MAX 02 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665841
+#EXTINF:-1,MAX 03 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665842
+#EXTINF:-1,MAX 04 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665843
+#EXTINF:-1,MAX 05 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665844
+#EXTINF:-1,MEGAPIX 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231616
+#EXTINF:-1,MEGAPIX FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231617
+#EXTINF:-1,MEGAPIX HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231618
+#EXTINF:-1,MEGAPIX SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231619
+#EXTINF:-1,MODO VIAGEM FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231620
+#EXTINF:-1,MODO VIAGEM HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231621
+#EXTINF:-1,MODO VIAGEM SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231622
+#EXTINF:-1,MULTISHOW FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231632
+#EXTINF:-1,MULTISHOW HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231633
+#EXTINF:-1,MUSIC BOX BRASIL FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231634
+#EXTINF:-1,MUSIC BOX BRASIL HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231635
+#EXTINF:-1,MUSICAS CLASSICAS HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231636
+#EXTINF:-1,NBA LAGUE PASS 01 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231637
+#EXTINF:-1,NBA LEAGUE PASS 02 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231638
+#EXTINF:-1,NBA TV HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231644
+#EXTINF:-1,NICK JR FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231645
+#EXTINF:-1,NICK JR HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231646
+#EXTINF:-1,NICK JR SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231647
+#EXTINF:-1,NICK SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231648
+#EXTINF:-1,NICKELODEON FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231649
+#EXTINF:-1,NICKELODEON HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231650
+#EXTINF:-1,NICKELODEON SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231651
+#EXTINF:-1,NOSSO FUTEBOL 01 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665909
+#EXTINF:-1,NOVO TEMPO FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231660
+#EXTINF:-1,NOVO TEMPO HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231661
+#EXTINF:-1,NSPORTS FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665845
+#EXTINF:-1,NSPORTS HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665846
+#EXTINF:-1,PARAMOUNT NETWORK FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231665
+#EXTINF:-1,PARAMOUNT NETWORK HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231666
+#EXTINF:-1,PARAMOUNT NETWORK SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231667
+#EXTINF:-1,PARAMOUNT+ 01 FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665847
+#EXTINF:-1,PARAMOUNT+ 01 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665848
+#EXTINF:-1,PARAMOUNT+ 02 FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665849
+#EXTINF:-1,PARAMOUNT+ 02 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665850
+#EXTINF:-1,PARAMOUNT+ 03 FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665851
+#EXTINF:-1,PARAMOUNT+ 03 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665852
+#EXTINF:-1,PARAMOUNT+ 04 FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665853
+#EXTINF:-1,PARAMOUNT+ 04 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665854
+#EXTINF:-1,PREMIERE 01 CLUBES 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231677
+#EXTINF:-1,PREMIERE 01 CLUBES FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665855
+#EXTINF:-1,PREMIERE 01 CLUBES HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665856
+#EXTINF:-1,PREMIERE 01 CLUBES SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665857
+#EXTINF:-1,PREMIERE 02 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231681
+#EXTINF:-1,PREMIERE 02 FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665858
+#EXTINF:-1,PREMIERE 02 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665859
+#EXTINF:-1,PREMIERE 02 SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665860
+#EXTINF:-1,PREMIERE 03 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231685
+#EXTINF:-1,PREMIERE 03 FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665861
+#EXTINF:-1,PREMIERE 03 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665862
+#EXTINF:-1,PREMIERE 03 SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665863
+#EXTINF:-1,PREMIERE 04 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231689
+#EXTINF:-1,PREMIERE 04 FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665864
+#EXTINF:-1,PREMIERE 04 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665865
+#EXTINF:-1,PREMIERE 04 SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665866
+#EXTINF:-1,PREMIERE 05 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231693
+#EXTINF:-1,PREMIERE 05 FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665867
+#EXTINF:-1,PREMIERE 05 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665868
+#EXTINF:-1,PREMIERE 05 SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665869
+#EXTINF:-1,PREMIERE 06 FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665870
+#EXTINF:-1,PREMIERE 06 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665871
+#EXTINF:-1,PREMIERE 06 SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665872
+#EXTINF:-1,PREMIERE 07 FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665873
+#EXTINF:-1,PREMIERE 07 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665874
+#EXTINF:-1,PREMIERE 07 SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665875
+#EXTINF:-1,PREMIERE 08 FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665876
+#EXTINF:-1,PREMIERE 08 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665877
+#EXTINF:-1,PREMIERE 08 SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665878
+#EXTINF:-1,PRIME VIDEO 01 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665879
+#EXTINF:-1,PRIME VIDEO 02 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665880
+#EXTINF:-1,PRIME VIDEO 03 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665881
+#EXTINF:-1,PRIME VIDEO 04 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665882
+#EXTINF:-1,PRIME VIDEOS 05 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665883
+#EXTINF:-1,PRIME VIDEOS 06 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665884
+#EXTINF:-1,PRIME VIDEOS 07 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665885
+#EXTINF:-1,PRIME VIDEOS 08 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665886
+#EXTINF:-1,SONY CHANNEL 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231841
+#EXTINF:-1,SONY CHANNEL FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231842
+#EXTINF:-1,SONY CHANNEL HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231843
+#EXTINF:-1,SPACE 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231849
+#EXTINF:-1,SPACE FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231850
+#EXTINF:-1,SPACE HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231851
+#EXTINF:-1,SPACE SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231852
+#EXTINF:-1,SPORTV 01 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231853
+#EXTINF:-1,SPORTV 01 FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665887
+#EXTINF:-1,SPORTV 01 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665888
+#EXTINF:-1,SPORTV 01 SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665889
+#EXTINF:-1,SPORTV 02 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231858
+#EXTINF:-1,SPORTV 02 FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665890
+#EXTINF:-1,SPORTV 02 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665891
+#EXTINF:-1,SPORTV 02 SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665892
+#EXTINF:-1,SPORTV 03 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231863
+#EXTINF:-1,SPORTV 03 FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665893
+#EXTINF:-1,SPORTV 03 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665894
+#EXTINF:-1,SPORTV 03 SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665895
+#EXTINF:-1,STUDIO UNIVERSAL 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231869
+#EXTINF:-1,STUDIO UNIVERSAL FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231870
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231871
+#EXTINF:-1,STUDIO UNIVERSAL SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231872
+#EXTINF:-1,TCM 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231873
+#EXTINF:-1,TCM FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231874
+#EXTINF:-1,TCM FHD 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231875
+#EXTINF:-1,TCM HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231876
+#EXTINF:-1,TCM SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231877
+#EXTINF:-1,TELECINE ACTION 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231878
+#EXTINF:-1,TELECINE ACTION FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231879
+#EXTINF:-1,TELECINE ACTION HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231880
+#EXTINF:-1,TELECINE ACTION SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231881
+#EXTINF:-1,TELECINE CULT 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231882
+#EXTINF:-1,TELECINE CULT FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231883
+#EXTINF:-1,TELECINE CULT HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231884
+#EXTINF:-1,TELECINE CULT SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231885
+#EXTINF:-1,TELECINE FUN 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231886
+#EXTINF:-1,TELECINE FUN FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231887
+#EXTINF:-1,TELECINE FUN HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231888
+#EXTINF:-1,TELECINE FUN SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231889
+#EXTINF:-1,TELECINE PIPOCA 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231890
+#EXTINF:-1,TELECINE PIPOCA FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231891
+#EXTINF:-1,TELECINE PIPOCA HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231892
+#EXTINF:-1,TELECINE PIPOCA SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231893
+#EXTINF:-1,TELECINE PREMIUM 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231894
+#EXTINF:-1,TELECINE PREMIUM FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231895
+#EXTINF:-1,TELECINE PREMIUM HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231896
+#EXTINF:-1,TELECINE PREMIUM SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231897
+#EXTINF:-1,TELECINE TOUCH 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231898
+#EXTINF:-1,TELECINE TOUCH FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231899
+#EXTINF:-1,TELECINE TOUCH HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231900
+#EXTINF:-1,TELECINE TOUCH SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231901
+#EXTINF:-1,TLC 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231905
+#EXTINF:-1,TLC FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231906
+#EXTINF:-1,TLC HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231907
+#EXTINF:-1,TLC SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231908
+#EXTINF:-1,TNT FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231909
+#EXTINF:-1,TNT HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231910
+#EXTINF:-1,TNT SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231912
+
+#EXTINF:-1,TNT SPORTS 01 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665901
+#EXTINF:-1,TNT SPORTS 02 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665902
+#EXTINF:-1,TNT SPORTS 03 HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665903
+#EXTINF:-1,UFC FIGHT PASS 01 HD  (AO VIVO)
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231933
+#EXTINF:-1,UFC FIGHT PASS 02 HD (AO VIVO)
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231934
+#EXTINF:-1,UFC FIGHT PASS 03
+http://su20.bibliotecavsv.store:80/995122134/532129920/4666506
+#EXTINF:-1,UNIVERSAL TV 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231940
+#EXTINF:-1,UNIVERSAL TV FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231941
+#EXTINF:-1,UNIVERSAL TV HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231942
+#EXTINF:-1,UNIVERSAL TV SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231943
+#EXTINF:-1,Viva HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4238757
+#EXTINF:-1,Viva SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4238758
+#EXTINF:-1,WARNER CHANNEL 4K
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231953
+#EXTINF:-1,WARNER CHANNEL FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231954
+#EXTINF:-1,WARNER CHANNEL HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231955
+#EXTINF:-1,WARNER CHANNEL SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231956
+#EXTINF:-1,WOOHOO FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665904
+#EXTINF:-1,WOOHOO HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665905
+#EXTINF:-1,WOOHOO SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4665906
+#EXTINF:-1,ZOOMOO FHD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231961
+#EXTINF:-1,ZOOMOO HD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231962
+#EXTINF:-1,ZOOMOO SD
+http://su20.bibliotecavsv.store:80/995122134/532129920/4231963
 #EXTINF:-1,A&E 4K
 http://su20.bibliotecavsv.store:80/486186744/479743596/4230933
 #EXTINF:-1,A&E FHD
@@ -924,3 +2127,4 @@ http://update.miicrosoft.es:80/Adrian_Germania_M/9TsXDWWBA7vRQkVf03xP6VzEtVE2ws/
 http://update.miicrosoft.es:80/Adrian_Germania_M/9TsXDWWBA7vRQkVf03xP6VzEtVE2ws/70384
 #EXTINF:-1 tvg-id="eurosport2.ro" tvg-name="EuroSport 2 FHD" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-2-HD.png" group-title="Romania ",EuroSport 2 FHD
 http://update.miicrosoft.es:80/Adrian_Germania_M/9TsXDWWBA7vRQkVf03xP6VzEtVE2ws/70388
+
