@@ -1943,3 +1943,7 @@ http://sonymax.org:8080/vipmomo/v6QNYXXV7r/505907
 http://sonymax.org:8080/vipmomo/v6QNYXXV7r/505900
 #EXTINF:-1,US: BALLY SPORTS SOUTH (A)
 http://sonymax.org:8080/vipmomo/v6QNYXXV7r/505896
+#EXTINF: ABHUDHABI 1
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF: ABHUDHABI 2
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
