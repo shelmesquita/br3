@@ -1,17 +1,4 @@
-#EXTINF:-1,
-http://planettvweb.com:8091/programa8083/sistema3639/12817
-#EXTINF:-1,GLOBO SP HD
-http://planettvweb.com:8091/programa8083/sistema3639/12413
-#EXTINF:-1,GLOBO RJ HD
-http://planettvweb.com:8091/programa8083/sistema3639/12416
-#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE HD
-http://planettvweb.com:8091/programa8083/sistema3639/23399
-#EXTINF:-1,BBB 26 -CAM 1-
-http://planettvweb.com:8091/programa8083/sistema3639/145675
-#EXTINF:-1,BBB 26 -CAM2-
-http://planettvweb.com:8091/programa8083/sistema3639/145676
-#EXTINF:-1,BBB 26 -MOSAICO-
-http://planettvweb.com:8091/programa8083/sistema3639/145677
+#EXTINF:-1,-------BRASIL-----
 #EXTINF:-1,GLOBO NEWS
 http://planettvweb.com:8091/programa8083/sistema3639/12428
 #EXTINF:-1,GNT HD
@@ -247,16 +234,6 @@ http://ultra-premium-pro.xyz:8080/zqyD8DSxCJ49/gpYZUFKqP35Z/27192
 http://ultra-premium-pro.xyz:8080/zqyD8DSxCJ49/gpYZUFKqP35Z/27193
 #EXTINF:-1,VIP_BR:PARAMOUNT HD
 http://ultra-premium-pro.xyz:8080/zqyD8DSxCJ49/gpYZUFKqP35Z/27194
-#EXTINF:-1,VIP_BR:PREMIERE 8 HD
-http://ultra-premium-pro.xyz:8080/zqyD8DSxCJ49/gpYZUFKqP35Z/27195
-#EXTINF:-1,VIP_BR:PRIME BOX BRASIL HD
-http://ultra-premium-pro.xyz:8080/zqyD8DSxCJ49/gpYZUFKqP35Z/27196
-#EXTINF:-1,VIP_BR:RECORD HD
-http://ultra-premium-pro.xyz:8080/zqyD8DSxCJ49/gpYZUFKqP35Z/27197
-#EXTINF:-1,VIP_BR:RECORD NEWS HD
-http://ultra-premium-pro.xyz:8080/zqyD8DSxCJ49/gpYZUFKqP35Z/27198
-#EXTINF:-1,VIP_BR:REDE VIDA HD
-http://ultra-premium-pro.xyz:8080/zqyD8DSxCJ49/gpYZUFKqP35Z/27199
 #EXTINF:-1,VIP_BR:SONY HD
 http://ultra-premium-pro.xyz:8080/zqyD8DSxCJ49/gpYZUFKqP35Z/27200
 #EXTINF:-1,VIP_BR:SPACE HD
@@ -337,6 +314,20 @@ http://ultra-premium-pro.xyz:8080/zqyD8DSxCJ49/gpYZUFKqP35Z/23727
 #EXTINF:-1,US: FOX SOCCER PLUS
 http://ultra-premium-pro.xyz:8080/zqyD8DSxCJ49/gpYZUFKqP35Z/23728
 
+#EXTINF:-1,DEP• SPORT TV 1 PT (HD)
+http://ultra-premium-pro.xyz:8080/zqyD8DSxCJ49/gpYZUFKqP35Z/573
+#EXTINF:-1,DEP• SPORT TV 2 PT (HD)
+http://ultra-premium-pro.xyz:8080/zqyD8DSxCJ49/gpYZUFKqP35Z/574
+#EXTINF:-1,DEP• SPORT TV 3 PT (HD)
+http://ultra-premium-pro.xyz:8080/zqyD8DSxCJ49/gpYZUFKqP35Z/575
+#EXTINF:-1,DEP• SPORT TV 4 PT (HD)
+http://ultra-premium-pro.xyz:8080/zqyD8DSxCJ49/gpYZUFKqP35Z/576
+#EXTINF:-1,DEP• SPORT TV+ PT (HD)
+http://ultra-premium-pro.xyz:8080/zqyD8DSxCJ49/gpYZUFKqP35Z/572
+#EXTINF:-1,DEP• EUROSPORT 1 (HD)
+http://ultra-premium-pro.xyz:8080/zqyD8DSxCJ49/gpYZUFKqP35Z/577
+#EXTINF:-1,DEP• EUROSPORT 2 (HD)
+http://ultra-premium-pro.xyz:8080/zqyD8DSxCJ49/gpYZUFKqP35Z/578
 #EXTINF:-1,US: Bally Sports Tennessee HD
 http://ultra-premium-pro.xyz:8080/zqyD8DSxCJ49/gpYZUFKqP35Z/23804
 #EXTINF:-1,US: Bally Sports (West) HD
@@ -372,3 +363,7 @@ http://ultra-premium-pro.xyz:8080/zqyD8DSxCJ49/gpYZUFKqP35Z/23937
 http://ultra-premium-pro.xyz:8080/zqyD8DSxCJ49/gpYZUFKqP35Z/23938
 #EXTINF:-1,US: PAC-12 Bay Area
 http://ultra-premium-pro.xyz:8080/zqyD8DSxCJ49/gpYZUFKqP35Z/23939
+
+http://23.237.104.106:8080/USA_E/index.m3u8
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+http://23.237.104.106:8080/USA_FX/index.m3u8
